@@ -1,0 +1,96 @@
+# 政策经纬 · GitHub Pages 版
+
+可独立部署的国家政策观察网站。页面由 GitHub Pages 提供，GitHub Actions 每小时采集公开来源、合并历史数据并重新发布。保留搜索、领域／来源／阶段／日期筛选、收藏、官方原文跳转、CSV 导出、来源状态和采集记录。
+
+项目配置 **83 个来源**：51 个中央部门、官方媒体与专业入口，加大陆31个省级政府及新疆生产建设兵团。配置数量与实际采集成功数量分别显示；不承诺所有站点均可抓取。已附带从原网站公开接口导出的真实历史数据，来源状态与时间一并保留。
+
+## 部署到 GitHub
+
+1. 创建一个 GitHub 仓库，把本项目**解压后的文件**放在仓库根目录。必须包含 `.github/workflows/`、`data/snapshot.json`、`package.json` 和 `package-lock.json`。不要只上传整个 ZIP 文件，也不要多嵌套一层项目目录。
+2. 进入仓库 **Settings → Pages → Build and deployment → Source**，选择 **GitHub Actions**。
+3. 在 **Actions** 中找到 **Update policies and deploy Pages**，选择 **Run workflow**，使用默认分支运行。`collect` 保持勾选会先采集全部来源；取消勾选可以先用附带数据快速发布。
+4. 运行完成后，打开部署记录或仓库 Pages 设置中返回的正式网址。项目仓库通常是 `https://你的用户名.github.io/仓库名/`，个人主页仓库也支持根路径。
+
+后续代码推送到默认分支会触发采集和发布。只更新 Markdown 或 `data/` 不会再触发一次重复发布；每小时工作流会在自身运行中提交数据并完成部署。
+
+工作流使用 GitHub 自动提供的 `GITHUB_TOKEN`，不需要添加 OpenAI 密钥、Sites 令牌或外部数据库凭据。如果数据提交步骤提示权限不足，请检查仓库／组织的 Actions 写入限制、默认分支保护规则，以及是否允许工作流提交 `data/snapshot.json`。受组织策略限制时，需要仓库管理员调整相应规则。
+
+## 每小时更新
+
+- 计划时间：**每小时更新一次，在每个整点触发**，对应工作流中的 `0 * * * *`。北京时间同样是每个整点。
+- GitHub 定时任务可能排队延迟，整点是计划触发时间，不是保证完成时间。
+- 可以随时在 Actions 页面手动运行；不依赖个人电脑保持开机。
+- 各来源独立记录结果。失败、超时、动态页面和访问限制不会清空历史条目。
+- 所有来源均失败时，仍保留历史并发布失败状态，同时在 Actions 日志中显示警告。
+- 定时工作流只在默认分支运行。若 GitHub 因长期仓库无活动等原因停用定时任务，需要在 Actions 页面重新启用。
+- 原有网站及其更新计划不会因为下载本项目而改变；确认 GitHub 版本稳定后，再决定是否停用旧站点。
+
+## 本地运行
+
+需要 Node.js **22.13.0或更新版本**。
+
+```bash
+npm ci
+npm run dev
+```
+
+开发服务器会打印本地地址。正式构建及验证：
+
+```bash
+npm test
+npm run check
+npm run build
+npm run verify
+```
+
+`npm run verify` 会启动一个临时的纯静态服务，检查根路径与仓库子路径的页面、脚本、样式、图标和真实数据是否可读，同时检查静态站点不依赖旧后台接口。
+
+手动采集全部来源：
+
+```bash
+npm run collect
+```
+
+仅验证两个来源，并把结果写入独立文件：
+
+```bash
+npm run collect -- --sources miit,nda --data work/check.json
+```
+
+采集默认并发6个来源，每个来源总时间上限45秒。可用 `--concurrency 4` 或 `--timeout 30000` 调整。每个来源每轮最多收录70条公开索引，对部分条目提取简短简介；这不是全站全文或完整历史归档。
+
+## 项目结构
+
+```text
+.github/workflows/   每小时更新、部署，以及只读的拉取请求检查
+src/                React 界面、样式、浏览器数据读取与 CSV 下载
+lib/sources.mjs      83个来源的域名、分类与公开列表地址
+lib/crawler.mjs      网页／公开接口解析、域名限制、日期和阶段识别
+lib/dataset.mjs      去重合并、筛选、统计及导出逻辑
+lib/collector.mjs    有界并发、数据校验及原子写入
+data/snapshot.json  随网站发布的公开历史数据和来源状态
+scripts/            采集、构建、静态部署验证和公开数据导入工具
+tests/              采集、历史保留、检索、CSV和子路径相关测试
+dist/               构建产物；自动生成，不提交到源码仓库
+```
+
+## 数据与隐私
+
+- 页面直接读取本站的 `data/snapshot.json`，搜索和导出在访问者浏览器中执行，无需后台 API 或数据库。
+- 收藏保存在当前浏览器。换到新的域名后，浏览器不会自动迁移旧域名的本地收藏；公开政策数据已随项目提供。
+- 标题、简介和地址作为公开索引保留。领域按来源归组，阶段按标题自动识别，只用于辅助检索。发布日期可能由页面或地址识别，缺失时保持“日期未标注”。政策效力和正文请核对官方原文。
+- 采集遵守来源访问限制和可读取的 robots 规则，不绕过验证码或登录，不把采集失败显示为“没有新政策”。不同运行地区的网络可达性不同，GitHub 上的成功来源数可能与其他托管环境不同。
+- 数据会持续积累。若长期增长到较大的单文件规模，可进一步做历史分片或归档；当前版本保留全部已收集条目和最近365轮记录。
+
+## 改动来源或更新时间
+
+编辑 `lib/sources.mjs` 可以修改来源的 `feeds`、分类和允许域名。新增接口应验证原文地址、返回结构以及实际发布日期。修改来源后，推送到默认分支并手动运行一次采集。
+
+编辑 `.github/workflows/update-and-deploy.yml` 的 `schedule` 可以修改时间；表达式使用 UTC。并发控制禁止两个部署任务互相取消或同时覆盖数据。若数据推送遇到默认分支已更新而失败，确认最新代码后重新运行即可，不要强制推送。
+
+## 官方参考
+
+- [GitHub Pages 自定义工作流](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
+- [GitHub Actions 定时触发](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
+
+本项目已完成本地适配与验证。只有上传到你有权限的 GitHub 仓库并启用 Pages 后，GitHub 上的定时采集和公网部署才会实际开始。
