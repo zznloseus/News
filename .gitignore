@@ -1,0 +1,9 @@
+node_modules/
+dist/
+work/
+*.tsbuildinfo
+.env*
+.dev.vars*
+.DS_Store
+npm-debug.log*
+# Public snapshot and lockfile are intentionally version controlled.

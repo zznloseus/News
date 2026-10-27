@@ -1,0 +1,83 @@
+name: Update policies and deploy Pages
+
+on:
+  push:
+    paths-ignore:
+      - 'data/**'
+      - '**.md'
+  schedule:
+    # Run at the start of every hour. GitHub may queue scheduled runs.
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      collect:
+        description: 'Collect all official sources before publishing'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: policy-observatory-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+      - name: Run tests and type checks
+        run: npm test && npm run check
+      - name: Collect public policy sources
+        if: github.event_name != 'workflow_dispatch' || inputs.collect
+        run: npm run collect
+      - name: Preserve updated data in the repository
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git add data/snapshot.json
+          if ! git diff --cached --quiet; then
+            git -c user.name='policy-observatory-bot' -c user.email='policy-observatory-bot@users.noreply.github.com' commit -m 'data: update public policy snapshot'
+            git push origin "HEAD:${DEFAULT_BRANCH}"
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Build the static site
+        run: npm run build
+      - name: Verify root and repository-subpath hosting
+        run: npm run verify
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
