@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T08:18:55.836Z",
+  "generated_at": "2026-10-29T08:42:43.051Z",
   "articles": [
     {
       "id": "0003d4e4f13edb236b8123d86c6a1ad317715d87f4febedc893e1a467a7a3650",
@@ -155,6 +155,19 @@
       "published_at": "2026-10-26",
       "collected_at": "2026-10-27T04:10:34.486Z",
       "last_seen_at": "2026-10-28T09:29:06.791Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "00a3a7e0f86d9c05435865df04a8f84ef329d2a1c1e7ac79b452ffe84bd8f4d7",
+      "url": "https://finance.ifeng.com/c/8xbnGIOWKD0",
+      "title": "加拿大央行三年多来首次加息，并暗示未来可能进一步收紧 10-28 23:53 0 评",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
       "excerpt": "",
       "document_no": null
     },
@@ -428,6 +441,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:09.146Z",
       "last_seen_at": "2026-10-29T08:17:09.987Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "01f42bb417a28c680a0cb425f5219f11db89e46db1f1b30d12427a119af068f8",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823472.html",
+      "title": "消费品以旧换新带动销售额超2万亿元",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -857,6 +883,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:24.979Z",
       "last_seen_at": "2026-10-28T21:35:34.327Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "037b77b7f6b9cfd989e083af3b14694e9ce2b88834808a7faf27bd0b19bee9ec",
+      "url": "https://it.gmw.cn/2026-04/03/content_38690008.htm",
+      "title": "小词元撬动智能经济大市场",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-04-03",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -1862,6 +1901,19 @@
       "document_no": null
     },
     {
+      "id": "07cac0fa953a358ee2905ca12329c015003e6a97161f3671cc7e3b1aec5e6149",
+      "url": "https://economy.gmw.cn/2026-09/01/content_38979382.htm",
+      "title": "经济V观察丨华为、小米、荣耀手机集体涨价 最高涨千元",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-09-01",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "07cfbf2c16ccdcd93f8a6b2b7ab9809499144aed5d796276c06805ca53bd03a5",
       "url": "https://hljca.miit.gov.cn/xwdt/xydt/art/2026/art_2137dcc2fe164e199f307ca2ce9ec312.html",
       "title": "破解金融网络痛点 中国联通黑龙江省分公司为江海证券构建一体化云联网方案",
@@ -2027,6 +2079,19 @@
       "published_at": "2026-10-26",
       "collected_at": "2026-10-27T04:09:17.070Z",
       "last_seen_at": "2026-10-29T01:41:05.419Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "08654f1d1c0adbaf96fff1bb3b797f71bdfbcd7b49812642b8797041c216bcbf",
+      "url": "https://news.gmw.cn/2026-10/29/content_39071905.htm",
+      "title": "发挥科技领军企业创新主体作用",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -2547,6 +2612,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:16.484Z",
       "last_seen_at": "2026-10-29T01:41:13.197Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "0a71d328b50a4844a46ed42e22cd433c7665caaa0505163a00a53c47fa86cff4",
+      "url": "http://finance.people.com.cn/GB/437005/index.html",
+      "title": "财米油盐是人民网推出的首档定位于经济政策解读的短视频栏目。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "政策解读",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -4241,6 +4319,19 @@
       "document_no": null
     },
     {
+      "id": "113004bce2f3216a426048db246a301f40b9bef5be4bcec81cd39c57048d6d25",
+      "url": "https://economy.gmw.cn/2026-10/10/content_39039119.htm",
+      "title": "《关于发展新质生产力的意见》发布 突出强调“全面实施‘人工智能+’行动”",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "政策发布",
+      "published_at": "2026-10-10",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "113216f66b184b96187c55cfae4c8e29679791af99457beca9b5402168d60d45",
       "url": "https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202610/t20261027_34088781.html",
       "title": "长株潭生态绿心加快绿色转型发展",
@@ -4722,6 +4813,19 @@
       "document_no": null
     },
     {
+      "id": "13aced3acb28d592548ff5a7020351ca9fc1363f050fd35dc7520659baa050de",
+      "url": "https://economy.gmw.cn/2026-10/19/content_39054018.htm",
+      "title": "从“跟着演出去旅行”到入境消费升温 前三季度消费新场景持续扩容",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "13bff68b698a02d27b0bad1d6f3a5660c5286d6451985af8f784e6c1e8743859",
       "url": "https://www.csrc.gov.cn/csrc/c101927/c7474964/content.shtml",
       "title": "中国证监会市场禁入决定书（张志勇）",
@@ -5164,6 +5268,19 @@
       "document_no": null
     },
     {
+      "id": "157003b0263604ba2b5917de5d1ad518d6abb75aa4eccf5a47d6f8b3747a58c3",
+      "url": "https://www.infzm.com/contents/343641",
+      "title": "当消费趋于谨慎，可乐为何还在增长 ——可口可乐2026Q3全球单箱销量增长5%，中国市场驱动亚太增长6%",
+      "source_id": "nfzm",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "1577f03640c16f8ddecd4a4daf995796adff261f70e76b3a074edc8b4ec75256",
       "url": "https://www.chinatax.gov.cn/chinatax/n810356/n3255681/c5251143/content.html",
       "title": "我们准备新开办一家企业，请问办理税务登记和社保费登记需要收费吗？",
@@ -5294,6 +5411,19 @@
       "document_no": null
     },
     {
+      "id": "15f8af5796e0dcf0b02bf64567e7f62cf3b95d5e4c96c7c4f1f592d5e8ddb69a",
+      "url": "http://finance.ifeng.com/c/8xTcDPWbFhp",
+      "title": "4 人民日报：车企没了，数十万辆新能源“孤儿车”谁来负责修",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "15fa6f45bd0c05426e7129079b46b9aa8c0d67f51f812fd4a424dfc9dee4516f",
       "url": "https://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261029_27581172.htm",
       "title": "黑龙江建筑职业技术学院建工系设备更新智能检测设备(二次)招标公告",
@@ -5355,6 +5485,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:31.965Z",
       "last_seen_at": "2026-10-27T05:21:11.142Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "161ec54fe45600f4fb339e01e0b55734557c362eaa85809b06637db2107d24ac",
+      "url": "http://finance.people.com.cn/n1/2026/1028/c1004-40823131.html",
+      "title": "交通运输是碳排放重点领域之一，碳排放量约占全国总量的10%。近日，交通运输部等四部门联合印发《绿色交通发展“十五五”规划》（以下简称《规划》）提出，到2030年，推动交通运输领域总体实现碳达峰，交通运输污染排放强度持续下降、主要污染物排放量持续下降。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "规划部署",
+      "published_at": "2026-10-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -5459,6 +5602,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:03.364Z",
       "last_seen_at": "2026-10-27T05:50:28.961Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "16bbf785be96b62242ddc8cb6d4d1b0d0a15e3aa24e089110379141ea01fe96c",
+      "url": "https://economy.gmw.cn/2026-09/20/content_39009635.htm",
+      "title": "科技兴农绘就荆楚丰收画卷",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-09-20",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -6581,6 +6737,19 @@
       "document_no": null
     },
     {
+      "id": "1bda517fb240f658a984f609fd53c60f701c70756eb429cb54ba107220a06052",
+      "url": "https://economy.gmw.cn/2026-10/20/content_39056299.htm",
+      "title": "国家发改委：将及时出台实施增量政策",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-20",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "1bda914bdcbde12f9ba752ad8c0ce570b79e8ab912bfddc8e8156fdbb5c8a532",
       "url": "https://www.ln.gov.cn/web/ywdt/jrln/wzxx2018/2026102907000282958/index.shtml",
       "title": "全球首个生物活性肽人工智能大语言模型发布",
@@ -6841,6 +7010,19 @@
       "document_no": null
     },
     {
+      "id": "1c86030904fc5d1584dbdbe9e2e44e107b9cafe57cb3b2c34c5419e72a9cf738",
+      "url": "https://economy.gmw.cn/2026-09/15/content_39002174.htm",
+      "title": "经济V观察丨从“求快”到“求稳” 国内智能汽车跨界合作走向精细化分工",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-09-15",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "1c86f78ff11b082314431e27f8d6fdcb431d9f20916dcd025c3568d1802abb87",
       "url": "https://www.hainan.gov.cn/hainan/tingju/202610/b8d29950866844ff9f2b51b983748b1a.shtml",
       "title": "海南服务贸易两位数增长",
@@ -7036,6 +7218,19 @@
       "document_no": null
     },
     {
+      "id": "1d669e20ed68c0c0b1c0dff03b71e72c7e30525f72975a7dfeaa23e14c943f72",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823964.html",
+      "title": "自然资源部： 前三季度海洋经济总体平稳、提质向新",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "1d6b95a91fd5daf999c3cc6cbc9e04d9cd0a007f3c4eee695e856c0a636b3247",
       "url": "https://www.safe.gov.cn/safe/2021/0402/18672.html",
       "title": "国家外汇管理局关于进一步推进个人经常项目外汇业务便利化的通知",
@@ -7175,6 +7370,19 @@
       "published_at": "2026-10-10",
       "collected_at": "2026-10-27T04:09:13.786Z",
       "last_seen_at": "2026-10-29T01:41:00.069Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "1dce40556471caf0b4df5df2d08adc87c9589926e186193cb66d9facb5d29246",
+      "url": "https://politics.gmw.cn/2026-08/12/content_38939792.htm",
+      "title": "一图读懂｜换城市、换工作，养老保险关系怎么转移接续？",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-08-12",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -8453,6 +8661,19 @@
       "document_no": null
     },
     {
+      "id": "226594d60f127d7244b1f3aa9676017d3182db83c8740497a1be6ac4968a3da6",
+      "url": "https://news.gmw.cn/2026-10/29/content_39071903.htm",
+      "title": "河北南和：小萌宠撑起百亿大产业",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "2268dcd200fadc33a9e431afec2b1ee0de5d37bb93cec6a68a7896992c7b750b",
       "url": "https://hljca.miit.gov.cn/zwgk/wlaqgl/art/2021/art_454f4844bc534e27893cf305f6ae80e5.html",
       "title": "黑龙江省公共互联网安全监测报告（2021年8月）",
@@ -8540,6 +8761,19 @@
       "published_at": null,
       "collected_at": "2026-10-28T02:07:17.344Z",
       "last_seen_at": "2026-10-28T02:05:40.624Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "22eb97113269d4469880ecefe62db8465faaf28e278328234f1e48287243268b",
+      "url": "https://economy.gmw.cn/2026-10/29/content_39072349.htm",
+      "title": "推动农业保险迈向数字化、智能化、标准化",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "政策发布",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -11014,6 +11248,19 @@
       "document_no": null
     },
     {
+      "id": "2dfa2957ebb70a56b1041e9127df859a90cbae952cafc3a0de023d5e09a6d3d5",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823578.html",
+      "title": "小萌宠撑起百亿大产业",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "2e05c968c5d9f3dc73a16e68dec84ff3e70e29bfe930f13f39dfa0e71e35f71d",
       "url": "https://www.moa.gov.cn/ztzl/szcpxx/scxxfb/202610/t20261026_6488940.htm",
       "title": "10月第4周生猪和猪肉价格有所下跌",
@@ -11036,6 +11283,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:34.217Z",
       "last_seen_at": "2026-10-27T05:21:10.853Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "2e19575da135795361bf2ffe3fce049c9b5de908902b8f48c1f11d5d4eed26b0",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823476.html",
+      "title": "推动农业保险迈向数字化、智能化、标准化",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "政策发布",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -11309,6 +11569,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T05:52:03.051Z",
       "last_seen_at": "2026-10-28T21:35:14.579Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "2f26ea5defe308ed795e0dbf8d4d24a5b4b44b4356c98e553fa00bca49c25896",
+      "url": "https://economy.gmw.cn/2026-10/20/content_39056293.htm",
+      "title": "国家发改委：从“听意见”到“解难题” 民企沟通机制持续升级",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "政策发布",
+      "published_at": "2026-10-20",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -12037,6 +12310,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:02.947Z",
       "last_seen_at": "2026-10-29T08:16:59.949Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "32d1e480e0dec108cea99fb8493b3d889bbdbdf99ddb7d7eba39ee023678a019",
+      "url": "https://economy.gmw.cn/2026-10/19/content_39054012.htm",
+      "title": "前三季度工业经济运行态势向好 新动能对规上工业增长贡献率超五成",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -13610,6 +13896,19 @@
       "published_at": "2026-10-20",
       "collected_at": "2026-10-27T04:09:06.248Z",
       "last_seen_at": "2026-10-27T04:09:06.248Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "397b72ffa91f19cb017b149692b2e39352fe4c31507660821f3e7bf1e8641487",
+      "url": "https://politics.gmw.cn/2026-10/28/content_39070965.htm",
+      "title": "浙江金华：特色智能农业产业园打造共富样板",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -16370,6 +16669,19 @@
       "document_no": null
     },
     {
+      "id": "452117d929393a258b41306746512db5557c555356431ab0726082a1fad47db8",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823471.html",
+      "title": "眼镜产业加快智能化转型",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "452aeb149df4470b3441bcb42180d97d65fc18cecd916d9c4c725bb727ef437d",
       "url": "http://www.mnr.gov.cn/jg/jgsz/pcjg/201809/t20180912_2188324.html",
       "title": "国家自然资源督察沈阳局",
@@ -16405,6 +16717,19 @@
       "published_at": "2026-10-28",
       "collected_at": "2026-10-29T01:42:03.974Z",
       "last_seen_at": "2026-10-29T08:16:56.935Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "4569ae07354e5539e0b814daadebc536b7edeb033076914788124d3f633b0d51",
+      "url": "http://finance.people.com.cn/n1/2026/0511/c1004-40717318.html",
+      "title": "进一步激发科技兴农活力",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-05-11",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -16708,6 +17033,19 @@
       "document_no": null
     },
     {
+      "id": "4686c054e2eff7f9215015d26afd9609ec7da6ab56db677054746627f1a1f26b",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823999.html",
+      "title": "国家发展改革委：国家再次实施调控 成品油价格适当调整",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "46b29dd9898c413c38a3b3e1337426f4126bd4b7599f0ee801770ce03b05ac5b",
       "url": "https://www.nda.gov.cn/sjj/swdt/xwfb/1026/20261024215841643056525_pc.html",
       "title": "2026年“数据要素×”大赛全国总决赛颁奖仪式现场精彩回顾",
@@ -16730,6 +17068,19 @@
       "published_at": "2026-09-10",
       "collected_at": "2026-10-27T04:09:15.866Z",
       "last_seen_at": "2026-10-29T01:41:11.860Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "46b53c7568de65056405530973d3287da7de87c28c0786b770df8217c4d36046",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40820563.html",
+      "title": "共建安全可信产业生态 “具身认知与AI进化交流会暨成果发布会”在京举行",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-23",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -16851,6 +17202,19 @@
       "document_no": null
     },
     {
+      "id": "47184653966b4bfac177087da657b657e308628e38399853e20f0a268f0a3f3b",
+      "url": "http://finance.people.com.cn/GB/441919/462577/462578/index.html",
+      "title": "从3G、4G到5G，再到AI时代，高通始终站在移动通信技术演进的前沿。“十五五”开局之年，面对人工智能掀起的产业浪潮，高通如何定义自己在中国的角色？真正的AI变革，何时才能从一次次惊艳的演示，走向数十亿终端的规模化落地？对话企业家，本期对话孟樸。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "471bda6d9bbdf1314516167ae232a84510126af215b0b651148c672f9d4e5106",
       "url": "https://www.qstheory.cn/zt2026/cz/index.htm",
       "title": "赓续长征精神 奋进复兴征程",
@@ -16886,6 +17250,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:07.355Z",
       "last_seen_at": "2026-10-29T08:17:04.261Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "472b334e30ad56dcc56db7514ba53989e1af0d1a1adaaf940cf54d205094ab8e",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823473.html",
+      "title": "完成交通固定资产投资2.4万亿元",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "项目采购",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -17709,6 +18086,19 @@
       "document_no": null
     },
     {
+      "id": "4a9d831deddd0d562d3416dc2c7c05472465072fc89b9fad736c7656c5a396d6",
+      "url": "http://finance.people.com.cn/n1/2026/1021/c1004-40818847.html",
+      "title": "经济增长的“接力棒”进一步向“新”传递",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-21",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "4ad44fa2392e1e0942fd9e226fcd84c699392a885d318e08164ec3fcd2658b14",
       "url": "https://www.cnipa.gov.cn/art/2026/10/14/art_75_208567.html",
       "title": "国家知识产权局 海关总署关于强化知识产权协同保护的意见",
@@ -18294,6 +18684,32 @@
       "document_no": null
     },
     {
+      "id": "4db21fac0415514ec4f2c2799c37f2a1556b72d6f31fb4d2a697751fd3eeefe0",
+      "url": "https://economy.gmw.cn/2026-10/10/content_39039116.htm",
+      "title": "国家发改委：确保新质生产力发展不走偏、不冒进、不泡沫化",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-10",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "4dd266ce872673b62c9fe9cc12e210d28bd0ef219163f110373d75b2250caf82",
+      "url": "https://finance.ifeng.com/c/8vEJKp8DyWN",
+      "title": "狂贴AI标签、清仓式分红、应收账款激增：圣火科技港股IPO募资补血",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "4ddf02fe6b9d9b38e5a1dffc0ae2c639f308f1d4d26e96608054fd4642bc0df6",
       "url": "https://hunca.miit.gov.cn/zwgk/zcwj/zcjd/art/2026/art_dc63efd60ffc4f07abf32ab7ca74b02e.html",
       "title": "《信息通信行业发展“十五五”规划》解读",
@@ -18853,6 +19269,19 @@
       "document_no": null
     },
     {
+      "id": "507423ce4a6dde51edf0b6205679b169ae85a6b4e8b43233426f7cc71534dc44",
+      "url": "https://www.infzm.com/contents/328757?source=133",
+      "title": "南方周末经济新闻部招聘记者",
+      "source_id": "nfzm",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "507743b098e1e38ba390a1f45e723d6366034e08bd599237b712e4aba402c56f",
       "url": "https://www.fujian.gov.cn/zwgk/czzj/czyjs/bmyjs/202609/P020260911718011664179.pdf",
       "title": "2025年度福建省人民政府办公厅（本级）单位决算",
@@ -19085,6 +19514,19 @@
       "last_seen_at": "2026-10-29T08:16:59.949Z",
       "excerpt": "",
       "document_no": null
+    },
+    {
+      "id": "512f30d13ef81eace7febbe185635e70f2030e5d44f77dc83cf523422192d261",
+      "url": "https://www.gov.cn/zhengce/content/202508/content_7037861.htm",
+      "title": "国务院关于深入实施“人工智能+”行动的意见",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "规划部署",
+      "published_at": null,
+      "collected_at": "2026-10-29T10:46:51.689Z",
+      "last_seen_at": "2026-10-29T10:46:51.689Z",
+      "excerpt": "",
+      "document_no": "国发〔2025〕11号"
     },
     {
       "id": "5141d60985f23e7e15c30ac5e49bb8434277e6654eb261b8b80e514800e1b274",
@@ -20634,6 +21076,19 @@
       "document_no": null
     },
     {
+      "id": "57c55bbec97a2bbfa2e0552f5233982f3dc0d06f188d0e95af86e520e892043c",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40824002.html",
+      "title": "商务部：坚决反对美将中国企业列入所谓涉疆法案实体清单",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "试点清单",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "57ddb9fc17915093605d841669216a72b5e27f404e8b4ce7d5a4f4b86dbb34d4",
       "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8274fc758e6b4511986fc2d4bc17a5aa.html",
       "title": "福建通信管理局印发《福建省“十五五”信息通信业发展规划》",
@@ -21349,6 +21804,19 @@
       "document_no": null
     },
     {
+      "id": "5b419d09eb3d75851c498cb5d5a8be04e4e04d38fffa59f7a469ae82e6d22804",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823929.html",
+      "title": "记者去哪儿｜体验式消费，在这个市集“具象化”了",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "5b908e2eaa689372c6484e75d2d001cf7cc7bf076ee5d4e3a31816952ffb5750",
       "url": "https://shca.miit.gov.cn/wzpz/tpxw/art/2026/art_9e949229fa084463bdfa2f5cb8a294f1.html",
       "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
@@ -21930,6 +22398,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:29.093Z",
       "last_seen_at": "2026-10-27T05:21:09.693Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "5e1385986979180549486fac89bee48497110e06ed1afbb49d84ee76c5683bfc",
+      "url": "https://economy.gmw.cn/2026-08/28/content_38971596.htm",
+      "title": "国家发改委：推动机器人从“能跑能跳”加快走向落地应用",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-08-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -23468,6 +23949,19 @@
       "document_no": null
     },
     {
+      "id": "64a51a15fb229e16862e9ace47071856690f016966b630971c5f3b2e6f444b2d",
+      "url": "https://economy.gmw.cn/2026-10/19/content_39054098.htm",
+      "title": "“经”彩新图景丨顶压前行 向新向优：107万亿背后的中国经济韧性与活力",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "64b20e0d1c21fa2df9172702b5a3f0f9fd3085091028ae7877fe7204d38b8ef7",
       "url": "https://zwfw.nx.gov.cn/nxzw/frbsztsx.jsp?urltype=tree.TreeTempUrl&wbtreeid=4373&ptypeId=2c9c80875cc848aa015cd2e4c7110492&typePeoOrInc=peoservice&type=1&ptypeCode=TZ",
       "title": "投资审批 能力认定 | 设计审查",
@@ -23698,6 +24192,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:07.355Z",
       "last_seen_at": "2026-10-27T04:09:07.355Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "658ba697a2c97ed9b297032583ac72f0d0b28e205e5fc25042d038c8ae046d83",
+      "url": "https://economy.gmw.cn/2026-10/10/content_39038796.htm",
+      "title": "“经”彩新图景丨从“流量”到“留量”：8.26亿人次出游背后的文旅经济之变",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-10",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -25821,6 +26328,19 @@
       "document_no": null
     },
     {
+      "id": "6dcbfecbb990792699b5756490df873748e05429091aa6835c14b09d135c3141",
+      "url": "http://finance.people.com.cn/n1/2026/1027/c1004-40822357.html",
+      "title": "央视网消息：福建宁德霞浦县海岛乡的西洋岛，福建人口最多的远海岛屿。岛上常住居民超过2300人，海洋渔业是这里的村民赖以生存的支柱产业。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-27",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "6dd1d14fd8f36b398417a163a8823fc4d7ef6bb814c031d63d3ddac9b229dec6",
       "url": "https://www.mee.gov.cn/ywdt/zbft/202608/t20260827_1164597.shtml",
       "title": "生态环境部科技与财务司有关负责人就《关于推动生态环境领域科技创新多元化投入的指导意见》答记者问",
@@ -25856,6 +26376,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T05:52:03.051Z",
       "last_seen_at": "2026-10-27T05:50:37.038Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "6de430e2ea1db7593658c2c09cfa9f8c921bb9aa081a48d7bb5260f2825ae00f",
+      "url": "http://finance.people.com.cn/n1/2026/0522/c1004-40725258.html",
+      "title": "涉农贷款是推动乡村振兴的重要力量。中国人民银行日前发布的2026年一季度金融机构贷款投向统计报告显示，涉农贷款增速有所回升。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-05-22",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -26103,6 +26636,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:23.970Z",
       "last_seen_at": "2026-10-29T08:18:28.358Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "6f24da4a31d93736b15a7bcd9a0063054b2b512e55399e30196e0386f9391e37",
+      "url": "https://politics.gmw.cn/2026-10/13/content_39042216.htm",
+      "title": "增值税法施行后，文旅行业这些政策有变化",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-13",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -27771,6 +28317,19 @@
       "document_no": null
     },
     {
+      "id": "763707072a89bb4a80f458db994e01ae4111b034e7cbf6025d9bb31b0aefc43f",
+      "url": "https://economy.gmw.cn/2026-10/29/content_39072411.htm",
+      "title": "地区经济总体平稳动能向优",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "763764949cc0987aedaba3a685a549e8c1a7a9bb9c7f0a8a1b9c01ff1da81806",
       "url": "https://www.zj.gov.cn/col/col1229019365/art/2026/art_e91dbaa808304bafbc70b233f12842ac.html",
       "title": "浙江省人民政府办公厅关于苏台高速公路南浔至桐乡段增设桐乡服务区收费站及收取车辆通行费有关事项的复函",
@@ -27992,6 +28551,19 @@
       "document_no": null
     },
     {
+      "id": "76e63a4cc5486f478b79fdc416a4d948f813b46701d112978ebed6a61e63fc17",
+      "url": "https://www.bjnews.com.cn/detail/1793255188129065.html",
+      "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+      "source_id": "bjnews",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "76f34c715abcfc079767babcbe23137f7c35f7eebe16aaf777a1cfbeaae21d45",
       "url": "https://www.nmg.gov.cn/zwgk/zcjd/gjzcjd/202610/t20261026_2968940.html",
       "title": "在制度上更好保障对外投资发展和安全——国家发展改革委有关负责人就《对外投资管理办法》答记者问",
@@ -28183,6 +28755,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:31.383Z",
       "last_seen_at": "2026-10-28T02:06:43.630Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "784ca143a460beabe0ffa35b8df8fccac36e2ffddd8716d3209037ce4eeea08c",
+      "url": "https://www.infzm.com/contents/343007",
+      "title": "郫都出品综艺《现在就出发4》带火四川文旅 影视IP打通消费新链路",
+      "source_id": "nfzm",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28499,6 +29084,19 @@
       "document_no": null
     },
     {
+      "id": "7a247c04c33fd6bacc5e774c47ca9dbcb95b9a44e841ff59d60ba7abed6c22de",
+      "url": "https://politics.gmw.cn/2026-10/17/content_39051333.htm",
+      "title": "国务院任免国家工作人员",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-17",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "7a2ecda73289d86bf68b4b49a50febed32c070f1fb59d01afca953e0f0aa9fc6",
       "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202610/t20261028_1408422.html",
       "title": "福建省发展改革委召开三季度工作会议",
@@ -28690,6 +29288,19 @@
       "published_at": "2026-10-27",
       "collected_at": "2026-10-27T11:49:26.306Z",
       "last_seen_at": "2026-10-29T01:41:28.376Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "7b2205547bbe6479018274b2c12f1eedc4b8d3ae3c99954001c5a60182ba34a3",
+      "url": "https://economy.gmw.cn/2026-10/29/content_39072370.htm",
+      "title": "外资企业坚定投资深圳、深耕中国",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -29903,6 +30514,19 @@
       "document_no": null
     },
     {
+      "id": "8108133e06bab60000cf09d181970645be5e751af3a0d7ee468b0063e0d60d20",
+      "url": "https://original.ifeng.com/c/8xQxZ1HFDOA",
+      "title": "南威软件4天3板后遭监管警示：股票跌停，实控人近两年套现超5亿",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "810bd626f257c792d8d56da928701e7590b1e7edca0a0d34ac6f43febf12167d",
       "url": "https://www.moa.gov.cn/govpublic/xmsyj/202610/t20261028_6489007.htm",
       "title": "全国执业兽医资格考试委员会公告 农医考公告第38号",
@@ -30358,6 +30982,19 @@
       "document_no": null
     },
     {
+      "id": "825fa44088320508e5f573ad6368079e3199cb5b923226a085e15414eb6c91d1",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40820186.html",
+      "title": "朱松纯：在科技革命和产业变革中牢牢把握发展主动权",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-23",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "8260390a8844e30460f445f9f65f88f5423d6dec994f436a47adea875b815a7b",
       "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202610/t20261015_735724.shtml",
       "title": "应急管理部关于印发《应急管理统计工作管理办法（试行）》的通知",
@@ -30540,6 +31177,19 @@
       "document_no": null
     },
     {
+      "id": "8314b82b158695e76feb08e2850aabcb1f6e0e2e24eab19f79435aeb7e9fa285",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40824008.html",
+      "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "832d79009ce2595d68b92bf0f2ba8b328901f7ad0f2d6e75ccaac18b5a68f4d4",
       "url": "https://www.mem.gov.cn/xw/yjyw/202609/t20260929_717891.shtml",
       "title": "应急管理部与中国工程院签署战略合作协议",
@@ -30705,6 +31355,32 @@
       "published_at": "2026-10-28",
       "collected_at": "2026-10-28T16:33:41.221Z",
       "last_seen_at": "2026-10-29T01:41:33.763Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "83f81b67339c6c06ada09f28573c0cf8e8b06c1b9b8a6699e614b0ae750e8fca",
+      "url": "https://economy.gmw.cn/2026-09/01/content_38978782.htm",
+      "title": "经济V观察丨建议取消ETC？大可不必！",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-09-01",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "83fab33c60e0ee3274374e045e28b1b3955231ec2ac68807d3e2f56cd595468e",
+      "url": "https://politics.gmw.cn/2026-10/19/content_39053948.htm",
+      "title": "商务部：应用人工智能、大数据等技术赋能服务消费扩容",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -31238,6 +31914,19 @@
       "published_at": "2026-04-03",
       "collected_at": "2026-10-27T04:09:22.656Z",
       "last_seen_at": "2026-10-27T05:21:06.763Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "86679be360b085f734e63da09bced727a2e2e5812cdb360e5bddd99f82b441d0",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823580.html",
+      "title": "看农业机器人如何赋能新质生产力",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -32009,6 +32698,19 @@
       "document_no": null
     },
     {
+      "id": "8aa8671d63eadfb0db38d1cc595b02eb2b24275712859ce5a6cceb3a98f29bc2",
+      "url": "https://www.bjnews.com.cn/detail/1793089174129810.html",
+      "title": "8 国务院部署应对AI替岗，劳动者转型能获得什么政策支持？",
+      "source_id": "bjnews",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "8aadd8d01156acf4402ea4b1447700d2fabca25de1f8eb79fd0df08019e394f2",
       "url": "https://www.ccgp.gov.cn/cggg/zygg/jzxcs/202610/t20261027_27572375.htm",
       "title": "南京大学鼓楼校区1-3号开闭所设备更换改造工程竞争性磋商",
@@ -32707,6 +33409,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T05:52:03.051Z",
       "last_seen_at": "2026-10-28T21:35:14.579Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "8d77f2e39bc14264c6ee109af6e12ff2a038f44385b329d78b9d803a3547e39b",
+      "url": "http://finance.people.com.cn/n1/2026/1028/c1004-40823439.html",
+      "title": "人民网北京10月28日电 （记者夏晓伦）10月27日，“清朗有声 共治共享”网络音乐载体版权保护与社会治理交流会在北京举行。本次会议由人民网主办，来自司法机关、版权管理组织、行业协会、互联网平台、音乐企业及权利人代表齐聚一堂，围绕网络音乐载体版权保护的现实困境与治理路径展开深度研讨，凝聚行业共治合力，护航音乐产业健康发展。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -34076,6 +34791,19 @@
       "document_no": null
     },
     {
+      "id": "92fc863a5a28c2d66812ff1761b7eb3a8d5c4ed9233ebfdfb0cb86c1c75f055e",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34354649",
+      "title": "记者探访｜宜家餐厅也要“消费入座”？听听商家考量与顾客感受",
+      "source_id": "thepaper",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "930431c1e8906372175d69cd5b08aa79c18010b26c6586460f75580ed4d0f4fa",
       "url": "https://www.moa.gov.cn/xw/zxfb/202610/t20261008_6488385.htm",
       "title": "关于举办2026中国农学会年会暨第十三届中国现代农业发展论坛的通知（第二轮）",
@@ -34098,6 +34826,19 @@
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:11.063Z",
       "last_seen_at": "2026-10-29T08:17:12.574Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "93300e3a0c370cd06c655124a92537dcaf72fea22547a03c33e9b8cf02af49af",
+      "url": "https://politics.gmw.cn/2026-10/08/content_39033874.htm",
+      "title": "养老服务消费券，如何推进应享尽享",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-08",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -34635,6 +35376,19 @@
       "document_no": null
     },
     {
+      "id": "95f74342f03f0ff8219f87fd72b4d6be3a9724fed0e7099f691935738f082b01",
+      "url": "https://politics.gmw.cn/2026-10/29/content_39072022.htm",
+      "title": "推动农业保险迈向数字化、智能化、标准化",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "政策发布",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "95fee9ab230a88b3bb7a08cca87ac3849afe1420ad03cf81708d094a4569be03",
       "url": "https://zwgk.mct.gov.cn/zfxxgkml/zcfg/fl/202503/t20250311_958788.html",
       "title": "中华人民共和国文物保护法",
@@ -35021,6 +35775,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:27.416Z",
       "last_seen_at": "2026-10-27T05:21:08.323Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "978e91827ea8d01a24edb2aae6b41c484740399945747f64346360564f8498ad",
+      "url": "https://news.gmw.cn/2026-10/29/content_39071882.htm",
+      "title": "河北平乡：博览会助力“童车之都”产业跃升",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -37625,6 +38392,19 @@
       "document_no": null
     },
     {
+      "id": "a336caf509b30aeec487c9bdabcf4f7dc3b6834aca7171d10051f755bfda6494",
+      "url": "https://www.bjnews.com.cn/detail/1793250432129010.html",
+      "title": "美国将中国企业列入所谓涉疆法案实体清单 商务部：坚决反对",
+      "source_id": "bjnews",
+      "category": "综合政策",
+      "stage": "试点清单",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "a34d6f5005e5122b8302c9e0fd57372ba54abf111edd7f6c617cab72b99fef60",
       "url": "https://www.ln.gov.cn/web/ywdt/jrln/wzxx2018/2026102706014098994/index.shtml",
       "title": "培育外贸新优势，“辽宁造”出海提速",
@@ -38119,6 +38899,19 @@
       "document_no": null
     },
     {
+      "id": "a53978f2a97abdda9bd54f96a850f61ec9bbcb7081465c5d8a475144c837cdba",
+      "url": "http://finance.people.com.cn/n1/2026/1028/c1004-40823438.html",
+      "title": "人民网北京10月28日电 （记者焦磊）当前，越来越多的智能家电产品走入家庭，通过无线网络实现连接、控制和协同，成为人们生活不可或缺的重要部分。 今年9月，商务部等8部门联合印发《促进智能家居消费行动方案》，提出扩大优质智能家居供给，加速推动全屋智能一体化融合发展。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "规划部署",
+      "published_at": "2026-10-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "a549de4ea72a1d5d425178d0e83add8d2e7d49b855a6ebefd6276daba6a07a62",
       "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b5f8",
       "title": "进口保健食品备案管理信息系统",
@@ -38440,6 +39233,19 @@
       "published_at": null,
       "collected_at": "2026-10-28T02:07:17.344Z",
       "last_seen_at": "2026-10-28T02:05:40.624Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "a61a08dc810e7b96bbe06e761963c5f514348f2f78df0e91f4743e9f8344e92d",
+      "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753872.html",
+      "title": "乡村振兴“新”活力无限 打造特产业新IP激活乡村消费新潜力",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-07-06",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38830,6 +39636,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:10:45.190Z",
       "last_seen_at": "2026-10-29T08:16:56.938Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "a841af4df246622be0014fb72b662b7553446612a1440dd386ff201372f41089",
+      "url": "https://original.ifeng.com/c/8xNn7sMHsOi",
+      "title": "汉诺医疗冲刺“国产ECMO第一股”：产能两成闲置、押注2028年扭亏",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
       "excerpt": "",
       "document_no": null
     },
@@ -39562,6 +40381,19 @@
       "document_no": null
     },
     {
+      "id": "abb40a01155a51384e63afd6a189180bc6a5bf12a57d0ab61cd769ad992f3617",
+      "url": "https://economy.gmw.cn/2026-10/19/content_39054015.htm",
+      "title": "国家统计局：全球每卖出5台新能源车 就有3台来自中国",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "abbdc480d5cb1b34a3ea3b5a806273e19569fcee9d1d071ee629acbc7f5521bf",
       "url": "https://www.hlj.gov.cn/hlj/c107856/202610/c00_31987449.shtml",
       "title": "省委常委会召开会议 许勤主持并讲话",
@@ -39987,6 +40819,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:18.367Z",
       "last_seen_at": "2026-10-27T05:21:04.211Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "adbce1452b96e7aead3b1b52b21bdc37bfd2f06b5037ad427110a3b097f0a845",
+      "url": "http://finance.people.com.cn/GB/457747/index.html",
+      "title": "《记者去哪儿》是人民网打造的视频栏目，栏目聚焦经济民生领域热点新闻。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -41174,6 +42019,19 @@
       "document_no": null
     },
     {
+      "id": "b2c233c7ae91a2552bfb4bfb614383c5f47efc00052f2d403752e7665f9290b9",
+      "url": "http://finance.people.com.cn/n1/2026/0514/c1004-40719703.html",
+      "title": "智慧农业破解“靠天吃饭”",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-05-14",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "b2c43c6a4e173d2576342af4457b31730dec5e86acbd15b05c7ed73b00bd2e30",
       "url": "https://www.chinatax.gov.cn/zcfgk/c100016/c5253155/content.html",
       "title": "税法便利贴：无形资产摊销费用税前扣除如何规定？",
@@ -41443,6 +42301,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
       "last_seen_at": "2026-10-29T01:40:29.957Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "b3b2af18a02b9dfa075aa6aa3044590722204e98a8d8b8c2a0dedc89ac45f432",
+      "url": "https://finance.ifeng.com/c/8xbvh2ORIxy",
+      "title": "美联储重大宣布，沃什发声改革来袭 10-29 08:46 0 评",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
       "excerpt": "",
       "document_no": null
     },
@@ -42409,6 +43280,19 @@
       "document_no": null
     },
     {
+      "id": "b78b01ddc38162ebaa8c9ce2221376315f75842e5de345e20f2d8c1420edda79",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823968.html",
+      "title": "学大教育：在新技术与产业场景中发挥价值 利润增速超营收",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "b7a891d404a96a23ac4cc504957e565a0a550ce8016c846bbec5381be87f2b28",
       "url": "https://www.lswz.gov.cn/html/zmhd/lysj/2026-10/23/content_295827.shtml",
       "title": "全国主要粮食品种收购价格周报（10月20日）",
@@ -43267,6 +44151,19 @@
       "document_no": null
     },
     {
+      "id": "baf1f92012ded6734c0d810d28ff52e0903380d4f63caa1dbd974305fb4fa919",
+      "url": "https://economy.gmw.cn/2026-08/28/content_38978971.htm",
+      "title": "经济V观察丨一方有难 八方支援 多家企业捐款捐物驰援西藏吉隆",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-08-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "baf64c4bb7509a4132f770a5bc79469227bfccbea51c2685d79c84b1b2c5b160",
       "url": "https://www.ln.gov.cn/web/zwgkx/rdxx01_105674/2026102215362078367/index.shtml",
       "title": "省政府召开常务会议 王新伟主持并讲话",
@@ -43523,6 +44420,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:28.633Z",
       "last_seen_at": "2026-10-27T04:09:28.633Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "bc69cd5343bd472ac40b1f91b36f96ce3e192bf656f04e40154e796f0d79ff4a",
+      "url": "https://it.gmw.cn/2026-04/07/content_38693263.htm",
+      "title": "AI产业活跃度有了核心指标",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-04-07",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -44021,6 +44931,19 @@
       "document_no": null
     },
     {
+      "id": "be7c3a0e716dad539eb9bea62fc179f374900974ed3e20c194e1e105969cf0f8",
+      "url": "https://topics.gmw.cn/node_161973.htm",
+      "title": "2024中国经济年报",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "beaa0f60dfcac3bf0cb1c66b0d4154c32ac7a6e7af24302281deecfead4c890b",
       "url": "https://www.hainan.gov.cn/hainan/gbrm/202610/0503db88b4c742748ae6b970a58c9880.shtml",
       "title": "海南省人民政府任免国家工作人员（2026年10月19日）",
@@ -44212,6 +45135,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:25.603Z",
       "last_seen_at": "2026-10-27T05:21:08.296Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "bf63e2af2e77492cd640bf3bdf7c19f6ad6869d64f8968cd16af323d9166e75d",
+      "url": "http://finance.people.com.cn/n1/2026/1019/c1004-40817570.html",
+      "title": "我国地理信息产业总产值超9000亿元",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -44632,6 +45568,19 @@
       "document_no": null
     },
     {
+      "id": "c146cb19730c7533c048135ed10b5b6b783cd5b0d919922646b8b5d0a256ee55",
+      "url": "http://finance.people.com.cn/n1/2026/1020/c1004-40818354.html",
+      "title": "人民网北京10月20日电 （记者赵竹青）10月16日，由中国老科学技术工作者协会主办的2026年全国老科技工作者日北京主场活动举行，以“传薪火”为主题，在重阳节来临之际集中展示新时代老科技工作者风采。 他们甘为人梯。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-20",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "c155911b63399cc1adfa2b92ad2aa4c41025cca8fa9bddc735764767d94366ee",
       "url": "https://www.hainan.gov.cn/hainan/mtkhn/202610/d453b81e55e14ec48504078acc4d25c2.shtml",
       "title": "人民日报海外版：飞机维修，海南靠什么赢得全球订单",
@@ -44875,6 +45824,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T05:52:03.051Z",
       "last_seen_at": "2026-10-27T05:50:37.038Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "c2a73dabd4ece99bdda214e818b3f4b7b9997a5c8fa7dcef8ec49209ba20eb0b",
+      "url": "https://economy.gmw.cn/2026-01/30/content_38570703.htm",
+      "title": "解决“过敏星人”的麻烦事 写进北京市政府工作报告",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-01-30",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -45451,6 +46413,19 @@
       "document_no": null
     },
     {
+      "id": "c4ade0d6e311a38150dc04df5c67670a7ab19d5e1b340e815a77e8af117eaffd",
+      "url": "https://original.ifeng.com/c/8wqGypF8VKH",
+      "title": "六成收入绑亚马逊，八成收入押北美：智岩科技的47亿生意经",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "c4c8c41da7c521964556c496ebba5bc004c8ea72b10d746deb06ab83baa25a52",
       "url": "https://www.beijing.gov.cn/ywdt/zyldhd/202610/t20261027_4920602.html",
       "title": "李强签署国务院令 公布《事业单位登记管理条例》",
@@ -45499,6 +46474,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
       "last_seen_at": "2026-10-29T01:40:29.957Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "c51e8ffb691c921f717b5a09449f8ea767d6c2f1d0fd49f522b49adba0966c48",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34357565",
+      "title": "消费者在昆明一周六福店花361.8万元定购黄金未收到货也不退款，门店经理涉嫌职务侵占被刑拘",
+      "source_id": "thepaper",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
       "excerpt": "",
       "document_no": null
     },
@@ -46487,6 +47475,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:27.416Z",
       "last_seen_at": "2026-10-27T05:21:08.323Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "c9765dedd2feec9f0921492ed6fe7e8f9ecb38a108a1fcf0d3dec7694d2ebd7e",
+      "url": "https://economy.gmw.cn/2025-12/19/content_38490506.htm",
+      "title": "@歪果仁，免签政策助你“丝滑”入境！",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2025-12-19",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -51470,6 +52471,19 @@
       "document_no": null
     },
     {
+      "id": "deb1b2d2b5ffda7ff04785e0008aa16d62736060ad3a2c52fb734d29d4c62fb8",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823566.html",
+      "title": "以科技创新引领职教出海新实践",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "dec0e28f9fe99e475a2c8e38a9b3b5a1f98ec26abcd1af9d7bc1c93581f393a4",
       "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/06/content_294987.shtml",
       "title": "第八届中国粮食交易大会在长沙开幕",
@@ -51804,6 +52818,19 @@
       "published_at": "2022-07-28",
       "collected_at": "2026-10-27T04:09:06.248Z",
       "last_seen_at": "2026-10-27T04:09:06.248Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "e0d68d3375ef2c13444f79ff8fb11c148c18b50a5c286517cd0906fe10a44b40",
+      "url": "https://www.bjnews.com.cn/detail/1793244626129944.html",
+      "title": "近三个月前，国务院批复同意将潍坊列为国家历史文化名城。 [全文]",
+      "source_id": "bjnews",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
       "excerpt": "",
       "document_no": null
     },
@@ -52389,6 +53416,19 @@
       "published_at": "2021-07-02",
       "collected_at": "2026-10-27T04:09:09.603Z",
       "last_seen_at": "2026-10-29T08:17:13.923Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "e3691fc6f1825a78369dd7a3077167d1752e3066d161f1d4376d0bd5de865d03",
+      "url": "https://www.infzm.com/contents/343515",
+      "title": "西门子将九赴进博：以“乘数效应”激发产业新质增长动能",
+      "source_id": "nfzm",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
       "excerpt": "",
       "document_no": null
     },
@@ -53355,6 +54395,19 @@
       "document_no": null
     },
     {
+      "id": "e76aad74110f8af18dc461c23aa2fdb685c6b55549d61a6baf872f48c3637139",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34359088",
+      "title": "众声｜从星巴克到宜家，“消费入座”的边界再一次被重申",
+      "source_id": "thepaper",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "e77020c6be66156c032cf7720ec5b60dba909ee99400127962db407a14f60846",
       "url": "https://www.nrta.gov.cn/art/2026/10/27/art_3730_74301.html",
       "title": "《有线广播电视运营服务管理规定》和《交互式网络电视运营服务管理暂行规定》答记者问",
@@ -53403,6 +54456,19 @@
       "published_at": "2026-10-15",
       "collected_at": "2026-10-27T04:09:20.483Z",
       "last_seen_at": "2026-10-29T01:41:28.080Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "e7a1dde4f3efb5e676a7f7088676e4901485902ee2063e13b2ba20714b2fe793",
+      "url": "https://politics.gmw.cn/2026-10/14/content_39045403.htm",
+      "title": "2026年9月份居民消费价格同比上涨0.9%",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-14",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -53767,6 +54833,19 @@
       "published_at": "2026-10-29",
       "collected_at": "2026-10-29T08:18:55.836Z",
       "last_seen_at": "2026-10-29T08:17:08.989Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "e9502103066195864634e5da2eab490a7d1bd3b5348971e549cabcd6336cb0cb",
+      "url": "https://www.infzm.com/contents/343541?source=134",
+      "title": "企业算着AI省钱的账，谁来算城市的就业风险账",
+      "source_id": "nfzm",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.005Z",
       "excerpt": "",
       "document_no": null
     },
@@ -55318,6 +56397,19 @@
       "document_no": null
     },
     {
+      "id": "ef37d77c4310ce40090d86347028c6c3ea4f0d0cf8e4495ae9f8c96eef6e07c9",
+      "url": "https://economy.gmw.cn/2026-08/28/content_38971748.htm",
+      "title": "国家发改委：所谓“中国挤压”论调完全站不住脚",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-08-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "ef39049fce7482f884848abf7fb8fb3cfd43468f5dcb53a88407acf163622784",
       "url": "https://www.csrc.gov.cn/ningbo/c104130/c7666826/content.shtml",
       "title": "关于对宁波淳信长赢投资管理有限公司采取出具警示函措施的决定",
@@ -55656,6 +56748,19 @@
       "document_no": null
     },
     {
+      "id": "f1475017e4b6ff50dbd09904de4e211086e084fe0e223190845ee3d069e4ebaf",
+      "url": "http://finance.people.com.cn/GB/459357/459634/462800/index.html",
+      "title": "高质量发展故事汇·第24期｜AI+，塑造智能经济新形态",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "f15f82315cba72c0ba54f159f6c04a455541beebebeb3cec47a7636d63ecb12f",
       "url": "https://www.news.cn/fortune/20261028/ad0bc2ddcd974ff2bc12bdf5f53b304a/c.html",
       "title": "波音公司第三季度净亏损收窄",
@@ -55717,6 +56822,19 @@
       "published_at": null,
       "collected_at": "2026-10-28T09:30:49.172Z",
       "last_seen_at": "2026-10-28T09:29:17.441Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "f1b72979d97b0da00d8605a01568783da329857102555c6037098a3b63d826c2",
+      "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823621.html",
+      "title": "高质量发展故事汇丨AI+，塑造智能经济新形态",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-29",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -56384,6 +57502,19 @@
       "document_no": null
     },
     {
+      "id": "f489941880483d7181603229740c97de389b241b187e0976d28539c9ea7dad05",
+      "url": "https://politics.gmw.cn/2026-10/20/content_39055884.htm",
+      "title": "开局起步“十五五”丨文旅部：推动刺绣、扎染、木雕、竹编等非遗从“指尖技艺”转化为“指尖经济”",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-20",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "f4a3c29ff19e0b4e40c00f254649262578a055e737a4e289d148dddd53e54d27",
       "url": "https://www.ln.gov.cn/web/zwgkx/zfgzbg/szfgzbg/A2DA2457E0FD4E5A97A784EB89F57811/index.shtml",
       "title": "2019年省政府工作报告——2019年1月16日在辽宁省第十三届人民代表大会第二次会议上",
@@ -56406,6 +57537,19 @@
       "published_at": "2026-10-28",
       "collected_at": "2026-10-28T02:07:17.344Z",
       "last_seen_at": "2026-10-29T08:18:31.363Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "f4d94cd3105a12a60961b494fcc3120d91820078e63031ecad82939f2f069e2e",
+      "url": "https://original.ifeng.com/c/8xP5eZrc1GZ",
+      "title": "星巴克客服回应“消费入座”：系倾听顾客诉求 暂无配套考核指标",
+      "source_id": "ifeng",
+      "category": "综合政策",
+      "stage": "工作动态",
+      "published_at": null,
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.006Z",
       "excerpt": "",
       "document_no": null
     },
@@ -56445,6 +57589,19 @@
       "published_at": "2026-10-28",
       "collected_at": "2026-10-29T01:42:03.974Z",
       "last_seen_at": "2026-10-29T01:41:16.223Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "f4f1c30f932dd276c79a7f45b03b6c225ebfe9e60df3608de592b5c051e79afd",
+      "url": "http://env.people.com.cn/n1/2026/1028/c1010-40822767.html",
+      "title": "交通运输是碳排放重点领域之一，碳排放量约占全国总量的10%。近日，交通运输部等四部门联合印发《绿色交通发展“十五五”规划》（以下简称《规划》）提出，到2030年，推动交通运输领域总体实现碳达峰，交通运输污染排放强度持续下降、主要污染物排放量持续下降。",
+      "source_id": "people",
+      "category": "中央部署",
+      "stage": "规划部署",
+      "published_at": "2026-10-28",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:41.988Z",
       "excerpt": "",
       "document_no": null
     },
@@ -57563,6 +58720,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:30.421Z",
       "last_seen_at": "2026-10-29T08:18:36.683Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "f8bd9bc0b7d6bc06c85e2b51073db8014b4d09118afca1c1cd0fcf0261d8ac48",
+      "url": "https://economy.gmw.cn/2026-10/16/content_39050901.htm",
+      "title": "经济V观察丨从约60米坠落看汽车安全：守住乘员舱，就是守住生命底线",
+      "source_id": "gmw",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-10-16",
+      "collected_at": "2026-10-29T08:42:43.051Z",
+      "last_seen_at": "2026-10-29T08:42:42.003Z",
       "excerpt": "",
       "document_no": null
     },
@@ -60115,9 +61285,88 @@
       "message": "fetch failed",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:11.972Z"
+    },
+    "people": {
+      "source_id": "people",
+      "checked_at": "2026-10-29T08:42:41.988Z",
+      "status": "partial",
+      "count": 32,
+      "message": "HTTP 403",
+      "pages": [
+        "http://finance.people.com.cn/"
+      ],
+      "last_success_at": "2026-10-29T08:42:41.988Z"
+    },
+    "gmw": {
+      "source_id": "gmw",
+      "checked_at": "2026-10-29T08:42:42.003Z",
+      "status": "ok",
+      "count": 37,
+      "message": "已解析 37 条公开索引",
+      "pages": [
+        "https://politics.gmw.cn/",
+        "https://economy.gmw.cn/"
+      ],
+      "last_success_at": "2026-10-29T08:42:42.003Z"
+    },
+    "thepaper": {
+      "source_id": "thepaper",
+      "checked_at": "2026-10-29T08:42:42.005Z",
+      "status": "ok",
+      "count": 3,
+      "message": "已解析 3 条公开索引",
+      "pages": [
+        "https://www.thepaper.cn/channel_25950"
+      ],
+      "last_success_at": "2026-10-29T08:42:42.005Z"
+    },
+    "nfzm": {
+      "source_id": "nfzm",
+      "checked_at": "2026-10-29T08:42:42.005Z",
+      "status": "ok",
+      "count": 5,
+      "message": "已解析 5 条公开索引",
+      "pages": [
+        "https://www.infzm.com/"
+      ],
+      "last_success_at": "2026-10-29T08:42:42.005Z"
+    },
+    "bjnews": {
+      "source_id": "bjnews",
+      "checked_at": "2026-10-29T08:42:42.006Z",
+      "status": "ok",
+      "count": 4,
+      "message": "已解析 4 条公开索引",
+      "pages": [
+        "https://www.bjnews.com.cn/news/"
+      ],
+      "last_success_at": "2026-10-29T08:42:42.006Z"
+    },
+    "ifeng": {
+      "source_id": "ifeng",
+      "checked_at": "2026-10-29T08:42:42.006Z",
+      "status": "ok",
+      "count": 8,
+      "message": "已解析 8 条公开索引",
+      "pages": [
+        "https://finance.ifeng.com/"
+      ],
+      "last_success_at": "2026-10-29T08:42:42.006Z"
     }
   },
   "runs": [
+    {
+      "id": "8b8c9d81-67da-499c-873e-fccb69a0462b",
+      "started_at": "2026-10-29T08:42:41.987Z",
+      "finished_at": "2026-10-29T08:42:43.051Z",
+      "status": "complete",
+      "total_sources": 6,
+      "processed": 6,
+      "succeeded": 6,
+      "failed": 0,
+      "new_articles": 89,
+      "note": "手动指定来源采集"
+    },
     {
       "id": "ddcf8796-3896-4c7c-b791-ed757dc69c30",
       "started_at": "2026-10-29T08:16:56.883Z",

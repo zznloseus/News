@@ -1,0 +1,5 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readerVersions,currentReaderVersion,readerDraftKey} from '../src/reader-state.mjs';
+test('reader follows current A after A→B→A, even when private B has later original capture time',()=>{const a={id:'a',captured_at:'2026-01-01'},b={id:'b',captured_at:'2026-01-02'},record={versions:[a,b],latest_version_id:'a',latest_captured_at:'2026-01-03'},bookmark={versions:[a,b],latest_version_id:'b',latest_captured_at:'2026-01-02'};assert.equal(currentReaderVersion(record,bookmark).id,'a');assert.deepEqual(readerVersions(record,bookmark).map(v=>v.id),['a','b']);assert.equal(currentReaderVersion(null,bookmark).id,'b');assert.equal(currentReaderVersion({versions:[]},bookmark).id,'b');});
+test('legacy catalogs use stored order while draft contexts distinguish note, paragraph and version',()=>{assert.equal(currentReaderVersion({versions:[{id:'a'},{id:'b'}]},null).id,'b');assert.notEqual(readerDraftKey({versionId:'a',quote:'段落'}),readerDraftKey({versionId:'b',quote:'段落'}));assert.notEqual(readerDraftKey({editing:'note-1',versionId:'a'}),readerDraftKey({editing:'note-2',versionId:'a'}));});

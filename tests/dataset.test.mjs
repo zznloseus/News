@@ -30,7 +30,7 @@ test('search supports category, source, stage, scope, dates, policy-only and pag
 });
 test('coverage counts actual recent parse success rather than all configured sources',()=>{
  const s={...emptySnapshot(),articles:[record],health:{miit:{...success},gov:{...success,source_id:'gov',status:'error'}}};
- const stats=snapshotStats(s,new Date(when));assert.equal(stats.sourceTotal,83);assert.equal(stats.successful,1);assert.equal(stats.total,1);assert.equal(sourceRows(s).length,SOURCES.length);
+ const stats=snapshotStats(s,new Date(when));assert.equal(stats.sourceTotal,90);assert.equal(stats.enabledTotal,88);assert.equal(stats.successful,1);assert.equal(stats.total,1);assert.equal(sourceRows(s).length,SOURCES.length);
  assert.equal(snapshotStats(s,new Date('2026-11-01')).successful,0);
 });
 test('CSV correctly quotes fields and neutralizes spreadsheet formulas',()=>{

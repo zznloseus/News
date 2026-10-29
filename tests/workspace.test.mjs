@@ -9,8 +9,8 @@ const row=(id,title,source_id='miit',date='2026-10-26')=>({id,title,source_id,ca
 const articles=[row('a','关于智能制造与绿色低碳协同转型的通知'),row('b','关于智能制造与绿色低碳协同转型的通知','xinhua','2026-10-27'),row('c','关于开展智能制造产业示范的措施','beijing'),row('d','关于促进就业与养老服务的指导意见','mca'),row('e','关于做好专项事务办理工作的通知','gov'),row('f','关于完善绿色低碳产业体系的意见','nea')];
 const snapshot={schema_version:1,generated_at:now.toISOString(),articles,health:{},runs:[]};const index=buildKeywordIndex(snapshot,{now});
 const params=s=>new URLSearchParams('from=2026-10-01&to=2026-10-27&'+s);
-test('five source identities cover each configured site exactly once',()=>{
- const SOURCE_TYPES=sourceModule.SOURCE_TYPES;assert.equal(SOURCE_TYPES?.length,5);assert(SOURCES.every(s=>SOURCE_TYPES.some(t=>t.id===s.source_type)));
+test('eight source identities cover each configured site exactly once',()=>{
+ const SOURCE_TYPES=sourceModule.SOURCE_TYPES;assert.equal(SOURCE_TYPES?.length,8);assert(SOURCES.every(s=>SOURCE_TYPES.some(t=>t.id===s.source_type)));
  for(const [id,type] of [['xinhua','media'],['qstheory','media'],['gov','central'],['npc','central'],['miit','ministry'],['scio','ministry'],['beijing','local'],['std','platform'],['flk','platform'],['bjggzy','platform']])assert.equal(SOURCES.find(s=>s.id===id).source_type,type);
 });
 test('source types are an OR filter, separate from content domains',()=>{

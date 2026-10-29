@@ -1,6 +1,18 @@
 import { CATEGORIES } from '@/lib/sources.mjs';
 import { validateSnapshot,queryArticles,sourceRows,snapshotStats,toCsv,snapshotUrl } from '@/lib/dataset.mjs';
 import {buildKeywordIndex,isKeywordIndexFor} from '@/lib/keywords.mjs';
+import {validateArchives,contentHash} from '@/lib/archive.mjs';
+let archiveCache:{key:number;promise:Promise<any>}|undefined;
+export function loadArchives(key=0):Promise<any>{
+ if(!archiveCache||archiveCache.key!==key){
+  const promise=fetch(new URL('data/archives.json',new URL(import.meta.env.BASE_URL,document.baseURI)),{cache:'no-store'}).then(async response=>{
+   if(!response.ok)throw new Error(`正文目录不可用（${response.status}）`);
+   const catalog=validateArchives(await response.json());
+   for(const record of Object.values(catalog.records) as any[])for(const version of record.versions)if(await contentHash(version.text)!==version.content_hash)throw new Error('正文目录校验失败');
+   return catalog;
+  });archiveCache={key,promise};promise.catch(()=>{if(archiveCache?.promise===promise)archiveCache=undefined;});
+ }return archiveCache.promise;
+}
 let cached:{key:number;promise:Promise<any>}|undefined;
 let keywordCache:{key:number;promise:Promise<any>}|undefined;
 export function loadDataset(key=0):Promise<any>{
