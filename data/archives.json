@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T02:32:46.587Z",
+  "generated_at": "2026-10-30T08:25:34.571Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -7407,6 +7407,257 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-10-30T02:32:46.587Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "57ddb9fc17915093605d841669216a72b5e27f404e8b4ce7d5a4f4b86dbb34d4": {
+      "article_id": "57ddb9fc17915093605d841669216a72b5e27f404e8b4ce7d5a4f4b86dbb34d4",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8274fc758e6b4511986fc2d4bc17a5aa.html",
+      "versions": [
+        {
+          "id": "57ddb9fc17915093605d841669216a72b5e27f404e8b4ce7d5a4f4b86dbb34d4:8b22148c104ffbb62da7f74039e76efd35508df43955ebd1e0aa93ebb1435628",
+          "content_hash": "8b22148c104ffbb62da7f74039e76efd35508df43955ebd1e0aa93ebb1435628",
+          "captured_at": "2026-10-30T08:25:28.904Z",
+          "status": "text",
+          "text": "近日，福建省通信管理局印发《福建省“十五五”信息通信业发展规划》（以下简称《规划》），系统部署“十五五”时期福建省信息通信业高质量发展重点工作。\n\n《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，深入落实习近平总书记对福建省工作的重要讲话重要指示批示精神，锚定推进行业现代化、赋能新型工业化核心目标，把握两岸融合发展示范区、“海丝”核心区建设等重大机遇，着力夯基础、惠民生、优治理、防风险、促开放。到2030年，全省信息通信业现代化建设取得重大进展，新一代通信网与算力网深度协同，人工智能全面融入网络智能升级，行业治理现代化新模式基本成型，应急通信保障和网络运行管理能力全面增强，网络和数据安全综合保障能力持续提升，行业赋能千行百业数智化转型实现规模化突破，两岸信息基础设施互联互通水平明显提升，福建省信息通信业高质量发展迈上新台阶。\n\n《规划》围绕信息基础设施建设、产业研发创新能力、行业治理体系、网络和数据安全保障、数智化赋能拓展、跨区域协同发展等6个方面，部署了24项重点任务和10项重点工程，构建涵盖行业规模、绿色低碳、基础设施、应用普及共12项量化指标体系。\n\n下一步，福建省通信管理局将扎实抓好《规划》宣贯实施，强化协同联动，全力推进重大工程项目落地见效，为福建省在中国式现代化建设中奋勇争先提供坚实支撑。",
+          "paragraphs": [
+            "近日，福建省通信管理局印发《福建省“十五五”信息通信业发展规划》（以下简称《规划》），系统部署“十五五”时期福建省信息通信业高质量发展重点工作。",
+            "《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，深入落实习近平总书记对福建省工作的重要讲话重要指示批示精神，锚定推进行业现代化、赋能新型工业化核心目标，把握两岸融合发展示范区、“海丝”核心区建设等重大机遇，着力夯基础、惠民生、优治理、防风险、促开放。到2030年，全省信息通信业现代化建设取得重大进展，新一代通信网与算力网深度协同，人工智能全面融入网络智能升级，行业治理现代化新模式基本成型，应急通信保障和网络运行管理能力全面增强，网络和数据安全综合保障能力持续提升，行业赋能千行百业数智化转型实现规模化突破，两岸信息基础设施互联互通水平明显提升，福建省信息通信业高质量发展迈上新台阶。",
+            "《规划》围绕信息基础设施建设、产业研发创新能力、行业治理体系、网络和数据安全保障、数智化赋能拓展、跨区域协同发展等6个方面，部署了24项重点任务和10项重点工程，构建涵盖行业规模、绿色低碳、基础设施、应用普及共12项量化指标体系。",
+            "下一步，福建省通信管理局将扎实抓好《规划》宣贯实施，强化协同联动，全力推进重大工程项目落地见效，为福建省在中国式现代化建设中奋勇争先提供坚实支撑。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "57ddb9fc17915093605d841669216a72b5e27f404e8b4ce7d5a4f4b86dbb34d4:8b22148c104ffbb62da7f74039e76efd35508df43955ebd1e0aa93ebb1435628",
+      "latest_captured_at": "2026-10-30T08:25:28.904Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:28.904Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "7b088b2486f05121257c3278f4094a53bb5398fff592dadafc028396a05d500d": {
+      "article_id": "7b088b2486f05121257c3278f4094a53bb5398fff592dadafc028396a05d500d",
+      "source_id": "mem",
+      "source_url": "https://www.mem.gov.cn/xw/gdyj/202610/t20261027_737194.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:28.906Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "9fe8868d27c492420fa75a8779e6aa7cce34fe562136db421902a9de892df52c": {
+      "article_id": "9fe8868d27c492420fa75a8779e6aa7cce34fe562136db421902a9de892df52c",
+      "source_id": "jiangsu",
+      "source_url": "https://www.jiangsu.gov.cn/art/2026/10/26/art_64797_11848031.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:28.907Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "273f47f16393acf280d572f1512a0c0bbcb4fe558c64235324c7c1d9761662fe": {
+      "article_id": "273f47f16393acf280d572f1512a0c0bbcb4fe558c64235324c7c1d9761662fe",
+      "source_id": "mee",
+      "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk02/202610/t20261027_1184708.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:28.908Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "6c6eb562efb7d19b27ea495766bb195e94d62d85d4dcbcb1b955aaf515906547": {
+      "article_id": "6c6eb562efb7d19b27ea495766bb195e94d62d85d4dcbcb1b955aaf515906547",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_36b817fa538349d883cb14430a9d9e4e.html",
+      "versions": [
+        {
+          "id": "6c6eb562efb7d19b27ea495766bb195e94d62d85d4dcbcb1b955aaf515906547:e82ca1d924582634d7fc63df754cdf799d386ddc56df22bbe3abf3d6cdbcc532",
+          "content_hash": "e82ca1d924582634d7fc63df754cdf799d386ddc56df22bbe3abf3d6cdbcc532",
+          "captured_at": "2026-10-30T08:25:29.193Z",
+          "status": "text",
+          "text": "近日，湖南省通信管理局印发《湖南省信息通信行业发展“十五五”规划》（以下简称《规划》），对“十五五”时期湖南省信息通信行业高质量发展作出部署。\n\n《规划》以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，贯彻落实习近平总书记关于湖南省工作的重要讲话和指示批示精神，锚定“三高四新”美好蓝图，统筹发展和安全，坚持人民至上、按需部署、创新引领、绿色低碳，抢抓新一代通信网、算力网等“六张网”建设战略机遇，巩固提升信息通信业竞争优势和领先地位，为奋力谱写中国式现代化湖南篇章筑牢数字设施基础。\n\n《规划》围绕“十五五”发展主要目标，明确到2030年的13项主要发展指标，涵盖行业规模、创新发展、绿色发展、能力建设、应用普及5个方面。同时，《规划》聚焦构建新型信息基础设施体系、推动行业深度融入经济社会高质量发展、提升行业综合管理和服务水平、提升行业统筹发展和安全水平、提升信息通信协同创新发展水平5个方面部署了21项主要任务和10项重点工程，明确相关保障措施。\n\n下一步，湖南省通信管理局将强化部门协同和政策衔接，扎实推进《规划》宣贯实施，指导全省信息通信行业结合实际细化落实举措，全力推进《规划》各项重点任务落地见效，推进湖南省新一代通信网建设，更好服务湖南经济社会高质量发展。",
+          "paragraphs": [
+            "近日，湖南省通信管理局印发《湖南省信息通信行业发展“十五五”规划》（以下简称《规划》），对“十五五”时期湖南省信息通信行业高质量发展作出部署。",
+            "《规划》以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，贯彻落实习近平总书记关于湖南省工作的重要讲话和指示批示精神，锚定“三高四新”美好蓝图，统筹发展和安全，坚持人民至上、按需部署、创新引领、绿色低碳，抢抓新一代通信网、算力网等“六张网”建设战略机遇，巩固提升信息通信业竞争优势和领先地位，为奋力谱写中国式现代化湖南篇章筑牢数字设施基础。",
+            "《规划》围绕“十五五”发展主要目标，明确到2030年的13项主要发展指标，涵盖行业规模、创新发展、绿色发展、能力建设、应用普及5个方面。同时，《规划》聚焦构建新型信息基础设施体系、推动行业深度融入经济社会高质量发展、提升行业综合管理和服务水平、提升行业统筹发展和安全水平、提升信息通信协同创新发展水平5个方面部署了21项主要任务和10项重点工程，明确相关保障措施。",
+            "下一步，湖南省通信管理局将强化部门协同和政策衔接，扎实推进《规划》宣贯实施，指导全省信息通信行业结合实际细化落实举措，全力推进《规划》各项重点任务落地见效，推进湖南省新一代通信网建设，更好服务湖南经济社会高质量发展。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "6c6eb562efb7d19b27ea495766bb195e94d62d85d4dcbcb1b955aaf515906547:e82ca1d924582634d7fc63df754cdf799d386ddc56df22bbe3abf3d6cdbcc532",
+      "latest_captured_at": "2026-10-30T08:25:29.193Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:29.193Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "98f2c78ba7509da5c2a1f030543d4feea0f1793dcf37d5315b299a484667030c": {
+      "article_id": "98f2c78ba7509da5c2a1f030543d4feea0f1793dcf37d5315b299a484667030c",
+      "source_id": "ndrc",
+      "source_url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202610/t20261023_1408367.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:29.194Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：HTTP 403"
+      },
+      "reference_links": []
+    },
+    "f2e8fda10a33ed11c9b0b3346d750411bdafa945c90c3f9cdedbe1828a3e5c3c": {
+      "article_id": "f2e8fda10a33ed11c9b0b3346d750411bdafa945c90c3f9cdedbe1828a3e5c3c",
+      "source_id": "csrc",
+      "source_url": "https://www.csrc.gov.cn/csrc/c100028/c7666352/content.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:29.196Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "aec4d410f5c5ab9dc88cc52ffc962a86ab717440c30ecce971fefc69a88c994c": {
+      "article_id": "aec4d410f5c5ab9dc88cc52ffc962a86ab717440c30ecce971fefc69a88c994c",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9741d75fd33943fa971df840536781ea.html",
+      "versions": [
+        {
+          "id": "aec4d410f5c5ab9dc88cc52ffc962a86ab717440c30ecce971fefc69a88c994c:f4a91dd0d65f65f1d7f5ce742d209ab5dc85de3b83375b40bd9b961cd2d8bb88",
+          "content_hash": "f4a91dd0d65f65f1d7f5ce742d209ab5dc85de3b83375b40bd9b961cd2d8bb88",
+          "captured_at": "2026-10-30T08:25:30.159Z",
+          "status": "text",
+          "text": "近日，河南省通信管理局正式发布《河南省信息通信行业发展“十五五”规划》（以下简称《规划》）。\n\n《规划》坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平总书记关于网络强国的重要思想、关于新型工业化的重要论述和在河南省考察时的重要讲话精神，全面落实党的二十大和二十届历次全会精神，深入实施中部地区加快崛起、黄河流域生态保护和高质量发展等国家战略，聚焦“两高四着力”重大要求和“1+2+4+N”目标任务体系，持续巩固提升信息通信业竞争优势和领先地位，适度超前布局现代化信息基础设施体系，培育壮大现代化信息通信产业体系，加快完善现代化行业监管治理体系，全面筑牢现代化网络安全保障体系，提升数智技术赋能经济社会能力，提升区域和城乡协同发展能力，有力支撑数字河南、数智强省建设，助力打造全国统一大市场循环枢纽和国内国际市场双循环支点，为奋力谱写中原大地推进中国式现代化新篇章筑牢数字根基。\n\n《规划》围绕“四个现代化体系”和“两个能力”建设部署6大重点任务、13项重点工程，明确16项主要指标。《规划》提出，到2030年，全面建成高速泛在、天地一体、云网融合、智能敏捷、绿色低碳、安全可控的智能化综合性数字信息基础设施，新一代通信网覆盖完善、性能领先，全国重要的信息通信枢纽和信息集散中心地位进一步确立和巩固提升，信息通信技术自主创新能力实现跃升，行业监管与服务效能持续增强，网络与数据安全保障体系不断健全，深度赋能经济社会高质量发展，行业现代化迈出坚实步伐，为河南省与全国同步基本实现社会主义现代化提供有力支撑。\n\n下一步，河南省通信管理局将强化政策要素保障，健全规划实施监测评估机制，加强规划衔接、政企协同，全力推动重点任务、重点工程落地见效，保障规划目标全面实现。",
+          "paragraphs": [
+            "近日，河南省通信管理局正式发布《河南省信息通信行业发展“十五五”规划》（以下简称《规划》）。",
+            "《规划》坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平总书记关于网络强国的重要思想、关于新型工业化的重要论述和在河南省考察时的重要讲话精神，全面落实党的二十大和二十届历次全会精神，深入实施中部地区加快崛起、黄河流域生态保护和高质量发展等国家战略，聚焦“两高四着力”重大要求和“1+2+4+N”目标任务体系，持续巩固提升信息通信业竞争优势和领先地位，适度超前布局现代化信息基础设施体系，培育壮大现代化信息通信产业体系，加快完善现代化行业监管治理体系，全面筑牢现代化网络安全保障体系，提升数智技术赋能经济社会能力，提升区域和城乡协同发展能力，有力支撑数字河南、数智强省建设，助力打造全国统一大市场循环枢纽和国内国际市场双循环支点，为奋力谱写中原大地推进中国式现代化新篇章筑牢数字根基。",
+            "《规划》围绕“四个现代化体系”和“两个能力”建设部署6大重点任务、13项重点工程，明确16项主要指标。《规划》提出，到2030年，全面建成高速泛在、天地一体、云网融合、智能敏捷、绿色低碳、安全可控的智能化综合性数字信息基础设施，新一代通信网覆盖完善、性能领先，全国重要的信息通信枢纽和信息集散中心地位进一步确立和巩固提升，信息通信技术自主创新能力实现跃升，行业监管与服务效能持续增强，网络与数据安全保障体系不断健全，深度赋能经济社会高质量发展，行业现代化迈出坚实步伐，为河南省与全国同步基本实现社会主义现代化提供有力支撑。",
+            "下一步，河南省通信管理局将强化政策要素保障，健全规划实施监测评估机制，加强规划衔接、政企协同，全力推动重点任务、重点工程落地见效，保障规划目标全面实现。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "aec4d410f5c5ab9dc88cc52ffc962a86ab717440c30ecce971fefc69a88c994c:f4a91dd0d65f65f1d7f5ce742d209ab5dc85de3b83375b40bd9b961cd2d8bb88",
+      "latest_captured_at": "2026-10-30T08:25:30.159Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:30.159Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31": {
+      "article_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
+      "versions": [
+        {
+          "id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "content_hash": "94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "captured_at": "2026-10-30T08:25:30.436Z",
+          "status": "text",
+          "text": "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。\n\n《规划》提出锚定基本实现新型工业化目标，以推动高质量发展为主题，以推进产业基础高级化为主线，以实施产业基础再造工程为抓手，统筹补短板、锻长板、布前沿，强化以用促攻、攻用结合，一体推进技术攻关和推广应用，系统解决产业基础薄弱问题，实现产业基础向“强创新、高自主、优质量”全面升级。到2030年，产业基础薄弱问题明显缓解，技术创新能力、自主可控能力、优质产品供给能力全面提升，基础产品质量水平明显提高，形成一批引领整机创新的关键基础产品和若干具有国际影响力的知名品牌，新培育一批产业基础领域制造业单项冠军企业和专精特新“小巨人”企业，支持产业基础长效发展的投入机制更加健全，产业基础能力总体进入国际先进行列，为构建以先进制造业为骨干的现代化产业体系提供有力支撑。\n\n围绕主要目标，《规划》聚焦提升产业基础自主可控能力、增强产业基础创新能力、完善产业技术基础体系、提高产业基础质量水平、增强企业核心竞争力、加强基础产品推广应用、优化产业基础发展生态等7个方面提出22项重点任务。同时，从强化部门协同和央地联动、开展实施情况监测评估以及做好宣传引导等方面加强《规划》组织实施。",
+          "paragraphs": [
+            "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。",
+            "《规划》提出锚定基本实现新型工业化目标，以推动高质量发展为主题，以推进产业基础高级化为主线，以实施产业基础再造工程为抓手，统筹补短板、锻长板、布前沿，强化以用促攻、攻用结合，一体推进技术攻关和推广应用，系统解决产业基础薄弱问题，实现产业基础向“强创新、高自主、优质量”全面升级。到2030年，产业基础薄弱问题明显缓解，技术创新能力、自主可控能力、优质产品供给能力全面提升，基础产品质量水平明显提高，形成一批引领整机创新的关键基础产品和若干具有国际影响力的知名品牌，新培育一批产业基础领域制造业单项冠军企业和专精特新“小巨人”企业，支持产业基础长效发展的投入机制更加健全，产业基础能力总体进入国际先进行列，为构建以先进制造业为骨干的现代化产业体系提供有力支撑。",
+            "围绕主要目标，《规划》聚焦提升产业基础自主可控能力、增强产业基础创新能力、完善产业技术基础体系、提高产业基础质量水平、增强企业核心竞争力、加强基础产品推广应用、优化产业基础发展生态等7个方面提出22项重点任务。同时，从强化部门协同和央地联动、开展实施情况监测评估以及做好宣传引导等方面加强《规划》组织实施。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+      "latest_captured_at": "2026-10-30T08:25:30.436Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:30.436Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "30a92047581fd17c9b180b3050a83b4467ee3e943da7d83b633140061b9dac4d": {
+      "article_id": "30a92047581fd17c9b180b3050a83b4467ee3e943da7d83b633140061b9dac4d",
+      "source_id": "mofcom",
+      "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_24e42675dd30435a944eee87427a94d2.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:31.649Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "41525231a3e280607cc44d8aac67b32ce044cb80a63c6623cd2326d45830c0ae": {
+      "article_id": "41525231a3e280607cc44d8aac67b32ce044cb80a63c6623cd2326d45830c0ae",
+      "source_id": "mofcom",
+      "source_url": "https://ozs.mofcom.gov.cn/tzgg/art/2026/art_6b66a870d98c466e848277ff105b9226.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:32.615Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "51776574e8f92221e16bf9ec1efc1f3969af16b6ebeb607445267fe5072f23b6": {
+      "article_id": "51776574e8f92221e16bf9ec1efc1f3969af16b6ebeb607445267fe5072f23b6",
+      "source_id": "mofcom",
+      "source_url": "https://tfs.mofcom.gov.cn/lfzqyj/art/2026/art_db6a858a9d4e4ec0a3dbeece659c324d.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T08:25:34.571Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },

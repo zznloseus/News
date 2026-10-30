@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T02:32:46.762Z",
+  "generated_at": "2026-10-30T08:25:34.736Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -705,6 +705,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-30T02:32:46.762Z"
+    },
+    "8bd6d981f00543e368db1fdf7a4d9595f01c1b006b4f2178b45ce5c1c9bf76a1": {
+      "title": "产业基础能力提升“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31",
+          "version_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "source_url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
+          "excerpt": "产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T08:25:34.736Z"
+    },
+    "8e122aadef103f8243aad15a29db1b49b3837f3cf8a4042e800d6d4e9f00c43c": {
+      "title": "黑龙江省支持信息通信业加快发展若干措施实施细则",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "69b5ecb5ec9fa03f0e616edd82dd550c1e1a8117d9e7572eee46774de85a237d",
+          "version_id": "69b5ecb5ec9fa03f0e616edd82dd550c1e1a8117d9e7572eee46774de85a237d:320c2ee9bfd8dff49a24f521ac6e2e6f03c7f06897349daa3033ecfafdbed3ea",
+          "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_7bd3c7df4c05431a913fe60ad3dd2a6b.html",
+          "excerpt": "为贯彻落实《黑龙江省通信管理局 黑龙江省财政厅关于印发〈黑龙江省支持信息通信业加快发展若干措施〉的通知》（黑通管联〔2026〕14号），省通信管理局牵头起草了《黑龙江省支持信息通信业加快发展若干措施实施细则》，现公开征求社会各界意见。有关单位、企业和各界人士可以在2026年11月12日（10个工作日）前通过以下形式提出意见建议。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T08:25:34.736Z"
+    },
+    "a62493370b97a3a8020a842a2e1ccfd4eca8e207da75e4329b05dcd3bc55f7dc": {
+      "title": "2026年黑龙江省智能家居（家庭网关、千兆全光组网设备和路由器）购新补贴实施细则",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "bcabff5b052084513ab1306b2c16f2c6582adfeeee6a0e5ef688819e1b248dbf",
+          "version_id": "bcabff5b052084513ab1306b2c16f2c6582adfeeee6a0e5ef688819e1b248dbf:d4a2db6a1f070caa10cd805299457e17420674fed5ff758f1372899dfeef4cba",
+          "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_5c5266cc49134642b4a4f81669375df5.html",
+          "excerpt": "于提质增效实施2026年消费品以旧换新政策的通知》（商消费函〔2025〕697号）、《黑龙江省关于消费品以旧换新地方自主品类实施补贴政策工作的通知》（黑商联发〔2026〕8号），我局会同省商务厅、省财政厅、省发改委制定了《2026年黑龙江省智能家居（家庭网关、千兆全光组网设备和路由器）购新补贴实施细则》（见附件），现印发你们，请遵照执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T08:25:34.736Z"
+    },
+    "ae544aa58cdac58288f45b05d4c5c79f4c88001e820c60457aafe0eae57ee150": {
+      "title": "国务院办公厅关于印发职业技能提升行动方案（2019—2021年）的通知",
+      "document_no": "国办发〔2019〕24号",
+      "citations": [
+        {
+          "article_id": "a405ba5a698cf91301155105e67f156f5291d78f4f131e045a9732ec08344df1",
+          "version_id": "a405ba5a698cf91301155105e67f156f5291d78f4f131e045a9732ec08344df1:57f4891e9aa46ff5a49eadb6f09d5853ee5752240a7b9811cfb9db23f27f0653",
+          "source_url": "https://shca.miit.gov.cn/zwgk/rcrs/art/2021/art_d8d9e7ae2ba6494aae821dfc51974d85.html",
+          "excerpt": "深入贯彻习近平总书记关于统筹推进疫情防控和经济社会发展工作的重要指示精神，落实党中央、国务院关于全面推动企业复工复产、做好“六稳”工作、落实“六保”任务等决策部署，扎实推进职业技能提升行动，支撑工业通信业高质量发展，根据《国务院办公厅关于印发职业技能提升行动方案（2019—2021年）的通知》（国办发〔2019〕24号）要求，工业和信息化部、人力资源社会保障部决定在2020年至2021年实施工业通信业职业技能提升行动计划。 有关事项通知如下。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T08:25:34.736Z"
     }
   }
 }
