@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T02:06:14.270Z",
+  "generated_at": "2026-10-30T02:32:46.762Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -641,6 +641,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-30T02:06:14.270Z"
+    },
+    "0e13bf0c1d78970e798e4d5a072658787209cf1c1d5fe0b8867694f3f4238407": {
+      "title": "吉林省旅居养老服务机构认定暂行办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "0a400e74080e8efe8641774d2eba6e92dee7414bca124d294a64f9664904634e",
+          "version_id": "0a400e74080e8efe8641774d2eba6e92dee7414bca124d294a64f9664904634e:b476bc44109758dd6c442ab92fafcf1c8081f25f5ac199ed544d08ed83a1c733",
+          "source_url": "http://xxgk.jl.gov.cn/szf/gkml/202605/t20260512_9599896.html",
+          "excerpt": "组织及成员通过出租、入股、合作等方式，依法依规盘活利用闲置农房和农村闲置集体建设用地，改造建设朝鲜族特色木屋、冰雪民宿等特色民宿，有效支持旅居项目和服务设施用地。邀请省内外社会组织和养老机构参与举办旅居养老推介活动，实施《吉林省旅居养老服务机构认定暂行办法》，2026年培育认定10个旅居养老服务机构。鼓励热点旅居城市建立库存房地产项目“房源地图”，支持文旅产业经营主体和从业人员购买库存商品房用作办公用房、职工宿舍或旅居用房等。（省民政厅、省自然资源厅、省住房城乡建设厅、省农业农村厅、省商务厅、省文化和旅游厅按职责分工负责）"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T02:32:46.762Z"
+    },
+    "23422e0f4ca27838b876403851607cd3fceded003792cfdd9d0678c0f47ed5c5": {
+      "title": "知识产权强国建设纲要（2021—2035年）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "13dbbf445dda6c49d30e36fa0d0b9f113e3d2140f3a24319dbaf6096aeb0f1a3",
+          "version_id": "13dbbf445dda6c49d30e36fa0d0b9f113e3d2140f3a24319dbaf6096aeb0f1a3:36181cfafd5fd52f5f601a348843d33c4601d3d979f3e247f641bbea71801308",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/10/13/art_75_208510.html",
+          "excerpt": "为深入贯彻落实党中央、国务院决策部署，健全知识产权公共服务体系，提升公共服务水平，更好支持科技创新和产业升级，根据《知识产权强国建设纲要（2021—2035年）》《知识产权保护和运用“十五五”规划》，提出如下意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T02:32:46.762Z"
+    },
+    "744b8c059f65036f0dcbacb3f14037fac2f219dba0ca14184591e88a91c7fe61": {
+      "title": "知识产权保护和运用“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "13dbbf445dda6c49d30e36fa0d0b9f113e3d2140f3a24319dbaf6096aeb0f1a3",
+          "version_id": "13dbbf445dda6c49d30e36fa0d0b9f113e3d2140f3a24319dbaf6096aeb0f1a3:36181cfafd5fd52f5f601a348843d33c4601d3d979f3e247f641bbea71801308",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/10/13/art_75_208510.html",
+          "excerpt": "为深入贯彻落实党中央、国务院决策部署，健全知识产权公共服务体系，提升公共服务水平，更好支持科技创新和产业升级，根据《知识产权强国建设纲要（2021—2035年）》《知识产权保护和运用“十五五”规划》，提出如下意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "候选正文标题或文号未通过核验",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T02:32:46.762Z"
+    },
+    "81037d356f8b7623e22d2faafaa637157b3af22cbe4fc1e1db91cc040e4e94e6": {
+      "title": "黑龙江省通信管理局 黑龙江省财政厅关于印发〈黑龙江省支持信息通信业加快发展若干措施〉的通知",
+      "document_no": "黑通管联〔2026〕14号",
+      "citations": [
+        {
+          "article_id": "69b5ecb5ec9fa03f0e616edd82dd550c1e1a8117d9e7572eee46774de85a237d",
+          "version_id": "69b5ecb5ec9fa03f0e616edd82dd550c1e1a8117d9e7572eee46774de85a237d:320c2ee9bfd8dff49a24f521ac6e2e6f03c7f06897349daa3033ecfafdbed3ea",
+          "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_7bd3c7df4c05431a913fe60ad3dd2a6b.html",
+          "excerpt": "为贯彻落实《黑龙江省通信管理局 黑龙江省财政厅关于印发〈黑龙江省支持信息通信业加快发展若干措施〉的通知》（黑通管联〔2026〕14号），省通信管理局牵头起草了《黑龙江省支持信息通信业加快发展若干措施实施细则》，现公开征求社会各界意见。有关单位、企业和各界人士可以在2026年11月12日（10个工作日）前通过以下形式提出意见建议。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T02:32:46.762Z"
     }
   }
 }
