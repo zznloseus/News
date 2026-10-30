@@ -15,6 +15,7 @@
     "collect": "node scripts/collect.mjs",
     "keywords": "node scripts/keywords.mjs",
     "archive": "node scripts/archive.mjs",
+    "references": "node scripts/references.mjs",
     "verify": "node scripts/verify-build.mjs"
   },
   "dependencies": {

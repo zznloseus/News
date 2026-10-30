@@ -8908,6 +8908,19 @@
       "document_no": null
     },
     {
+      "id": "21736526f5fc17ef0220848936f00cb9d761728f32b8ce4f2e703a98379908f0",
+      "url": "https://www.gov.cn/zhengce/content/202606/content_7073640.htm",
+      "title": "国务院关于印发<教育发展“十五五”规划>的通知",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "规划部署",
+      "published_at": "2026-06-29",
+      "collected_at": "2026-10-30T01:54:10.964Z",
+      "last_seen_at": "2026-10-30T01:54:10.964Z",
+      "excerpt": "",
+      "document_no": "国发〔2026〕19号"
+    },
+    {
       "id": "21749b00de96e64ac396b5777391800f4a6fdeb2f17f2bf1802ea2dcafd3ebb4",
       "url": "https://www.nhsa.gov.cn/art/2026/9/8/art_109_22052.html",
       "title": "国家医保局发布第二十一批智能监管“两库”规则和知识点",
@@ -37326,6 +37339,19 @@
       "document_no": null
     },
     {
+      "id": "95de7144287606682985687e4a56654b864c491f1d67619a7706ab7356a958ff",
+      "url": "https://www.gov.cn/zhengce/content/202602/content_7057744.htm",
+      "title": "国务院办公厅关于完善全国统一电力市场体系的实施意见",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "规划部署",
+      "published_at": "2026-02-11",
+      "collected_at": "2026-10-30T01:54:10.964Z",
+      "last_seen_at": "2026-10-30T01:54:10.964Z",
+      "excerpt": "",
+      "document_no": "国办发〔2026〕4号"
+    },
+    {
       "id": "95e838d07a6d7bed64b799483c9e71a46f955de35189f42ce3f40658c3b8bf18",
       "url": "https://www.nea.gov.cn/20261029/07750da8d7d641d0a50071cdccd3c7e5/c.html",
       "title": "国家能源局发布2026年9月全国可再生能源绿色电力证书核发及交易数据",
@@ -37363,6 +37389,19 @@
       "last_seen_at": "2026-10-29T21:01:08.805Z",
       "excerpt": "",
       "document_no": null
+    },
+    {
+      "id": "95fbcbd584b93f1e73b8ec2a77e44cce4a9b2e2713971d610acaa71fa6673b03",
+      "url": "https://www.gov.cn/zhengce/content/202604/content_7064504.htm",
+      "title": "国务院办公厅印发〈关于建立企业信用状况综合评价体系的实施方案〉的通知",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "规划部署",
+      "published_at": "2026-04-02",
+      "collected_at": "2026-10-30T01:54:10.964Z",
+      "last_seen_at": "2026-10-30T01:54:10.964Z",
+      "excerpt": "",
+      "document_no": "国办发〔2026〕8号"
     },
     {
       "id": "95fee9ab230a88b3bb7a08cca87ac3849afe1420ad03cf81708d094a4569be03",
@@ -43540,6 +43579,19 @@
       "document_no": null
     },
     {
+      "id": "af1ccef85d8dfca08058c3c232593fe7ccb34648d67df81c8c2a0a3f8137307c",
+      "url": "https://www.gov.cn/zhengce/content/202401/content_6924477.htm",
+      "title": "国务院关于修改〈消耗臭氧层物质管理条例〉的决定",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "政策发布",
+      "published_at": "2024-01-05",
+      "collected_at": "2026-10-30T02:06:14.270Z",
+      "last_seen_at": "2026-10-30T02:06:14.270Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "af2e9a86be91f44f325d53a082e2b76701d62e72df40a780ef6f173fc37896b5",
       "url": "https://www.tj.gov.cn/sy/jrgz/202610/t20261028_7643369.html",
       "title": "习近平致电祝贺卢拉当选连任巴西总统",
@@ -43744,6 +43796,19 @@
       "published_at": null,
       "collected_at": "2026-10-27T04:09:06.248Z",
       "last_seen_at": "2026-10-27T04:09:06.248Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "b01589b2f751bde009da9cf5dbea9fd57aa9102b1732c8d46aa352ccb2b4ec80",
+      "url": "https://www.gov.cn/zhengce/content/2020-08/20/content_5536179.htm",
+      "title": "中华人民共和国预算法实施条例",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "政策发布",
+      "published_at": "2020-08-20",
+      "collected_at": "2026-10-30T01:54:10.964Z",
+      "last_seen_at": "2026-10-30T01:54:10.964Z",
       "excerpt": "",
       "document_no": null
     },
@@ -44812,6 +44877,19 @@
       "last_seen_at": "2026-10-28T09:29:18.373Z",
       "excerpt": "",
       "document_no": null
+    },
+    {
+      "id": "b410951ca418a111408f7c50f3db96b3d24494fb48f664b92d0bd2ebeab7eb1d",
+      "url": "https://www.gov.cn/zhengce/content/202604/content_7066483.htm",
+      "title": "国务院关于推进服务业扩能提质的意见",
+      "source_id": "gov",
+      "category": "综合政策",
+      "stage": "规划部署",
+      "published_at": "2026-04-21",
+      "collected_at": "2026-10-30T02:06:14.270Z",
+      "last_seen_at": "2026-10-30T02:06:14.270Z",
+      "excerpt": "",
+      "document_no": "国发〔2026〕7号"
     },
     {
       "id": "b42c922cd0b7471738a2dfbb65e84916e7cb555c69f30eae2429c4c5fc830d33",
