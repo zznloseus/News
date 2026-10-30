@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T08:25:34.571Z",
+  "generated_at": "2026-10-30T15:46:43.717Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -838,14 +838,15 @@
       "source_id": "sichuan",
       "source_url": "https://www.sc.gov.cn/10462/zfwjts/2026/10/23/02eb28b3920d4f16bf58011700fa8c2e.shtml",
       "versions": [],
-      "last_attempt": {
-        "captured_at": "2026-10-29T08:41:09.171Z",
-        "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
-      },
       "latest_version_id": null,
       "latest_captured_at": null,
-      "latest_status": null
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.023Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
     },
     "23c7de5de988a5e7defc977227c9ede8e4dad3af3c9d556ba33b4210c76dfac3": {
       "article_id": "23c7de5de988a5e7defc977227c9ede8e4dad3af3c9d556ba33b4210c76dfac3",
@@ -1155,14 +1156,15 @@
       "source_id": "beijing",
       "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261027_4919856.html",
       "versions": [],
-      "last_attempt": {
-        "captured_at": "2026-10-29T08:41:10.500Z",
-        "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
-      },
       "latest_version_id": null,
       "latest_captured_at": null,
-      "latest_status": null
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.030Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
     },
     "33be5d9a0988dd9a2f6388d72856c642397e7d373497fae3629211a8850e37a3": {
       "article_id": "33be5d9a0988dd9a2f6388d72856c642397e7d373497fae3629211a8850e37a3",
@@ -1837,28 +1839,30 @@
       "source_id": "xinjiang",
       "source_url": "https://www.xinjiang.gov.cn/xinjiang/bmdt/202610/eb5a9d0dc7ed4196b68020aeb01e08a4.shtml",
       "versions": [],
-      "last_attempt": {
-        "captured_at": "2026-10-29T08:43:13.419Z",
-        "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
-      },
       "latest_version_id": null,
       "latest_captured_at": null,
-      "latest_status": null
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.025Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
     },
     "10283cce6aeb62fb4520ab232d67fddc4ca2f1038759307c48976fe8912d1d4a": {
       "article_id": "10283cce6aeb62fb4520ab232d67fddc4ca2f1038759307c48976fe8912d1d4a",
       "source_id": "henan",
       "source_url": "https://www.henan.gov.cn/2026/10-26/3441197.html",
       "versions": [],
-      "last_attempt": {
-        "captured_at": "2026-10-29T08:43:14.075Z",
-        "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
-      },
       "latest_version_id": null,
       "latest_captured_at": null,
-      "latest_status": null
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.971Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
     },
     "11dcca8d5c961855c6411971dc94199615b2b9b9be38fac74972ba439887e49d": {
       "article_id": "11dcca8d5c961855c6411971dc94199615b2b9b9be38fac74972ba439887e49d",
@@ -2521,14 +2525,15 @@
       "source_id": "mohurd",
       "source_url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_1333320b01924a7aa34945db517d8f37.html",
       "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-29T08:43:24.676Z",
+        "captured_at": "2026-10-30T15:46:39.029Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
-      "latest_version_id": null,
-      "latest_captured_at": null,
-      "latest_status": null
+      "reference_links": []
     },
     "5b0dbb35504c2aba4c64b9c89c2227461e6e708c66ec85db4727536df46ac8d3": {
       "article_id": "5b0dbb35504c2aba4c64b9c89c2227461e6e708c66ec85db4727536df46ac8d3",
@@ -3160,14 +3165,15 @@
       "source_id": "shaanxi",
       "source_url": "https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/zcwj/nszfbgtwj/szbh/202610/t20261026_3706711.html",
       "versions": [],
-      "last_attempt": {
-        "captured_at": "2026-10-29T08:43:34.420Z",
-        "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
-      },
       "latest_version_id": null,
       "latest_captured_at": null,
-      "latest_status": null
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.021Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
     },
     "af558000dfac4a240d978d1b287dcd0d5dad422f071ba290d49158f489e31845": {
       "article_id": "af558000dfac4a240d978d1b287dcd0d5dad422f071ba290d49158f489e31845",
@@ -3401,14 +3407,15 @@
       "source_id": "henan",
       "source_url": "https://www.henan.gov.cn/2026/10-21/3439306.html",
       "versions": [],
-      "last_attempt": {
-        "captured_at": "2026-10-29T08:43:36.345Z",
-        "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
-      },
       "latest_version_id": null,
       "latest_captured_at": null,
-      "latest_status": null
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.027Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
     },
     "ba93caa0669b886f3659dd2bede5e818449cb88bd8f1c78bdfc2f31b9ba6382d": {
       "article_id": "ba93caa0669b886f3659dd2bede5e818449cb88bd8f1c78bdfc2f31b9ba6382d",
@@ -7658,6 +7665,81 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-10-30T08:25:34.571Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "42fb3095644d398740652a5416b6889abb0d1bd38323687c3247c6d365cc581d": {
+      "article_id": "42fb3095644d398740652a5416b6889abb0d1bd38323687c3247c6d365cc581d",
+      "source_id": "nfra",
+      "source_url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1277118&itemId=861",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.746Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "50c17e36639f0bd7ae04ca9a39e6c7724d7709b79b5c4e3a5a5d70bcc4d90b33": {
+      "article_id": "50c17e36639f0bd7ae04ca9a39e6c7724d7709b79b5c4e3a5a5d70bcc4d90b33",
+      "source_id": "nfra",
+      "source_url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1277241&itemId=861",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:39.969Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "66667a271294bb329259fd60f90a27fa61e462a82e0529e6d6e8e061bac7266e": {
+      "article_id": "66667a271294bb329259fd60f90a27fa61e462a82e0529e6d6e8e061bac7266e",
+      "source_id": "mofcom",
+      "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_787f0441da1f4c0e8b5bad10118247f3.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:41.889Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "91c1723b3e3d03f920f0d951efda23f5dc7ac8c6dce36f54690e790ecb63a62f": {
+      "article_id": "91c1723b3e3d03f920f0d951efda23f5dc7ac8c6dce36f54690e790ecb63a62f",
+      "source_id": "mofcom",
+      "source_url": "https://sms.mofcom.gov.cn/myzcsy/zgcysmzzqtcymyzcsy/art/2026/art_d770e6de2e944f0aaa5fd865e88a2bb8.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:43.497Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "be59dd4989de6c844a59d1667dd452bcd682250419c92f23bba2fd27f5fa86b2": {
+      "article_id": "be59dd4989de6c844a59d1667dd452bcd682250419c92f23bba2fd27f5fa86b2",
+      "source_id": "mofcom",
+      "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_6acbcee5bcab4c81b2e115699f192621.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-30T15:46:43.717Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },

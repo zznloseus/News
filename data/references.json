@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T08:25:34.736Z",
+  "generated_at": "2026-10-30T15:46:44.006Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -769,6 +769,76 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-30T08:25:34.736Z"
+    },
+    "bfef433b6611a12664d132931410ddd47bf9aadaa0f2ebedf5a4cd9ea8997a04": {
+      "title": "国家能源局关于印发〈可再生能源绿色电力证书核发和交易规则〉的通知",
+      "document_no": "国能发新能规〔2024〕67号",
+      "citations": [
+        {
+          "article_id": "385b93a6ab0d6376c13a642bfa37d3f1033d7038c024b48c0937a8542b9f09bd",
+          "version_id": "385b93a6ab0d6376c13a642bfa37d3f1033d7038c024b48c0937a8542b9f09bd:7606bdac64147c42a1daa2e2c79715a12e5f8528e6175000b3c5ac1b52468327",
+          "source_url": "https://www.nea.gov.cn/20260107/9a905f263a8b4aa4a06e1a96855cc8eb/c.html",
+          "excerpt": "绿证）核发等相关管理工作，依法维护各方合法权益，根据《中华人民共和国能源法》《国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》（发改能源〔2023〕1044号）、《国家能源局关于印发〈可再生能源绿色电力证书核发和交易规则〉的通知》（国能发新能规〔2024〕67号）及相关政策要求，制定本细则。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T15:46:44.006Z"
+    },
+    "c48dd194dc8224beb22694b571c6adf977577c1d91b7faeaa462a351b98dd000": {
+      "title": "中共中央办公厅国务院办公厅关于加快建立长期护理保险制度的意见",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "6e906f26d1d00acaeba04f5e76d7d9d2950cd2098984444691bcddf010fcbb7f",
+          "version_id": "6e906f26d1d00acaeba04f5e76d7d9d2950cd2098984444691bcddf010fcbb7f:c2ed80abd906cf1f3b06229ed2b0a9ecad97d82c87630f0f27fe4d671a160fb8",
+          "source_url": "http://xxgk.jl.gov.cn/szf/gkml/202605/t20260509_9591364.html",
+          "excerpt": "为贯彻落实《中共中央办公厅国务院办公厅关于加快建立长期护理保险制度的意见》相关要求，加快推动长期护理保险制度落地实施，结合我省实际，制定本方案。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "候选页面不是可用政策文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T15:46:44.006Z"
+    },
+    "cc88dc03212eb77912df2f658fc059d9a37d0a4c74a1ab8b45af5e9a14e402d7": {
+      "title": "国务院关于修改和废止部分行政法规的决定",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "01057afe65376ea3c10bead843ab18f23779f85a732f0edebed2219c9e07295e",
+          "version_id": "01057afe65376ea3c10bead843ab18f23779f85a732f0edebed2219c9e07295e:498a6289cbb22cbd550e6ebfb061312e759ae5c8696124b7ef9635de92cfd4b4",
+          "source_url": "https://www.mee.gov.cn/zcwj/gwywj/202610/t20261010_1175970.shtml",
+          "excerpt": "民共和国国务院令第573号公布 根据2018年3月19日《国务院关于修改和废止部分行政法规的决定》第一次修订 根据2023年12月29日《国务院关于修改〈消耗臭氧层物质管理条例〉的决定》第二次修订 根据2026年8月8日《国务院关于修改和废止部分行政法规的决定》第三次修订)"
+        },
+        {
+          "article_id": "af1ccef85d8dfca08058c3c232593fe7ccb34648d67df81c8c2a0a3f8137307c",
+          "version_id": "af1ccef85d8dfca08058c3c232593fe7ccb34648d67df81c8c2a0a3f8137307c:63e43d3af8060150c59a8fca043dfdfd16b165cba486437d664862db93a41c52",
+          "source_url": "https://www.gov.cn/zhengce/content/202401/content_6924477.htm",
+          "excerpt": "（2010年4月8日中华人民共和国国务院令第573号公布 根据2018年3月19日《国务院关于修改和废止部分行政法规的决定》第一次修订 根据2023年12月29日《国务院关于修改〈消耗臭氧层物质管理条例〉的决定》第二次修订）"
+        }
+      ],
+      "status": "unresolved",
+      "message": "同名官方候选不唯一，版本待核实",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T15:46:44.006Z"
+    },
+    "ddfdd0d4d0fa1636a52cced78cdd499e18ef09106c4ce6e16acd2907cc6c5f97": {
+      "title": "关于完善全国统一电力市场体系的实施意见",
+      "document_no": "国办发〔2026〕4号",
+      "citations": [
+        {
+          "article_id": "b25b370daa816aeeae40ff20aa27dffdc62f1501b415ab54f33cdfae760c937e",
+          "version_id": "b25b370daa816aeeae40ff20aa27dffdc62f1501b415ab54f33cdfae760c937e:deb28ce97f1ec5919f98a940fd419d43f06dc2a1b52aa0a45af62aab1980b0ef",
+          "source_url": "https://www.shanxi.gov.cn/zcwjk/bgtwj/202610/t20261026_10244568.shtml",
+          "excerpt": "为贯彻落实国务院办公厅《关于完善全国统一电力市场体系的实施意见》（国办发〔2026〕4号），加快健全适应新型电力系统的市场机制，推动我省全面融入全国统一电力市场，助力全省能源禀赋向发展动能转化，结合实际制定本方案。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T15:46:44.006Z"
     }
   }
 }
