@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T15:46:44.006Z",
+  "generated_at": "2026-10-30T20:39:07.609Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -839,6 +839,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-30T15:46:44.006Z"
+    },
+    "5fedb1aec6233a70cf1e096bd98ae1a7fc9e6a2284997eeb7d6a621ec3f652bd": {
+      "title": "财政部&#xa0;税务总局关于集成电路企业增值税加计抵减政策的通知",
+      "document_no": "财税〔2023〕17号",
+      "citations": [
+        {
+          "article_id": "b7ef7b5c390f194fdc45f512066636c95f7f6a10805167f56ba4b6f8f3466022",
+          "version_id": "b7ef7b5c390f194fdc45f512066636c95f7f6a10805167f56ba4b6f8f3466022:ffa437dcdee42b9e9bbcb41653362a81d0b320ac54a7178963961a7426396b16",
+          "source_url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_7d2e760b4be94217b8f55caec840b30d.html",
+          "excerpt": "根据《财政部&#xa0;税务总局关于集成电路企业增值税加计抵减政策的通知》（财税〔2023〕17号）要求，为做好2026年度享受加计抵减政策的集成电路企业清单制定工作，现将有关事项通知如下："
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T20:39:07.609Z"
+    },
+    "e2fa793461940a2e60f2f1b3a0fd1c31cfa218bb271112d0f161e8433ca145de": {
+      "title": "通信专业技术人员职业水平评价暂行规定",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c5c4e82ac2fe1f66de68e5d950dbe11a64eb31a21d2a72bc1a83076feb139161",
+          "version_id": "c5c4e82ac2fe1f66de68e5d950dbe11a64eb31a21d2a72bc1a83076feb139161:3b103abb793ecb2e72b1c9a08806b1b87212969688eefddd767a10f40872af9b",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_4e8e7cad5e2744e88645c18e6344ce91.html",
+          "excerpt": "根据《通信专业技术人员职业水平评价暂行规定》第十条、第十一条和第十二条规定："
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T20:39:07.609Z"
+    },
+    "e3681b4f73065ba5abc05fe125b08ed11a3aeb82a801d501150d672984ad4913": {
+      "title": "2027年度氢氟碳化物配额总量设定与分配方案",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "ba93caa0669b886f3659dd2bede5e818449cb88bd8f1c78bdfc2f31b9ba6382d",
+          "version_id": "ba93caa0669b886f3659dd2bede5e818449cb88bd8f1c78bdfc2f31b9ba6382d:c3f3c7727ef1cf514def849af01ff90702b0413e1e90aa4adbf0d83c1073e696",
+          "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk05/202610/t20261019_1183257.html",
+          "excerpt": "，履行《关于消耗臭氧层物质的蒙特利尔议定书》及其《基加利修正案》，实现2027年度消耗臭氧层物质和氢氟碳化物履约目标，根据《消耗臭氧层物质管理条例》，我部组织编制了 《2027年度消耗臭氧层物质配额总量设定与分配方案》 《2027年度氢氟碳化物配额总量设定与分配方案》 ，现印发给你们。请按照消耗臭氧层物质生产、使用、进出口配额许可及进出口审批事项办理流程，于2026年10月31日前组织做好2027年度消耗臭氧层物质生产配额、内用生产配额和使用配额以及氢氟碳化物生产配额、内用生产配额和进口配额申请工作。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T20:39:07.609Z"
+    },
+    "ec0603065b5b5793b21e0c40aa69431133564ad9a2cc812e48102cc21e62f947": {
+      "title": "关于加快推动科技保险高质量发展 有力支撑高水平科技自立自强的若干意见",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "7166c3e56966a109b9e6355fab9f9dd5c0f1d10634a3b3d54702f401ac57f168",
+          "version_id": "7166c3e56966a109b9e6355fab9f9dd5c0f1d10634a3b3d54702f401ac57f168:cce1527eda1d150dd13e6067360271308e0bed5107b76810a41e46c6e9fd33c0",
+          "source_url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2026/202602/t20260228_195992.html",
+          "excerpt": "深入贯彻党的二十大和二十届历次全会精神，认真落实全国科技大会、中央金融工作会议部署，健全重大技术攻关风险分散机制，建立科技保险政策体系，科技部、金融监管总局、工业和信息化部、国家知识产权局联合制定了《关于加快推动科技保险高质量发展 有力支撑高水平科技自立自强的若干意见》。现印发给你们，请遵照执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-30T20:39:07.609Z"
     }
   }
 }
