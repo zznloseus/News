@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T00:37:37.364Z",
+  "generated_at": "2026-10-31T06:51:07.101Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -16,7 +16,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:53:18.985Z"
+      "checked_at": "2026-10-31T06:51:07.101Z"
     },
     "14c44edf6408840d004d05cbb1ece76212453ee990ad52791c7c06d3c53c66b2": {
       "title": "党政机关厉行节约反对浪费条例",
@@ -32,7 +32,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:53:18.985Z"
+      "checked_at": "2026-10-31T06:51:07.101Z"
     },
     "21eda5921b379674f6f664ba5910237a3de309afc9ff44a5f5d78b27a8b18bd0": {
       "title": "内蒙古自治区人民政府关于印发<内蒙古自治区国民经济和社会发展第十五个五年规划纲要>的通知",
@@ -48,7 +48,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:53:18.985Z"
+      "checked_at": "2026-10-31T06:51:07.101Z"
     },
     "23640c4e8d13014b8970cdfc0cf46ee1ba1ef1ff0146883e7d5489996b850a15": {
       "title": "关于资格考试工作中有关问题的通知",
@@ -973,6 +973,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-31T00:37:37.364Z"
+    },
+    "fc08f2a4b2013f0b87405323c2282ef614bcde8b3ea93293889217ba8df0acd3": {
+      "title": "江苏省国民经济和社会发展第十五个五年规划纲要",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4972da934b1f93a8607b04e24ff64aa3413b257e341b57c06189c20ae6ccb1e2",
+          "version_id": "4972da934b1f93a8607b04e24ff64aa3413b257e341b57c06189c20ae6ccb1e2:9636100d73f3276ccd7ba5cba7fe927ae1281bd5a967c301de428c5a12bdfe88",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/9/16/art_46144_11830686.html",
+          "excerpt": "义现代化夯实基础、全面发力的关键时期，也是奋力谱写“强富美高”新江苏现代化建设新篇章的关键阶段。为更好服务中国式现代化江苏新实践，依据《交通强国建设纲要》《国家水上交通安全监管和救助系统布局规划（2025－2035年）》《江苏省国民经济和社会发展第十五个五年规划纲要》等文件要求，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T06:51:07.101Z"
     }
   }
 }
