@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T06:51:04.462Z",
+  "generated_at": "2026-10-31T13:30:25.714Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -6290,9 +6290,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:01:35.181Z",
+        "captured_at": "2026-10-31T13:30:23.124Z",
         "status": "unavailable",
-        "message": "HTTP 404"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -7157,7 +7157,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:41.522Z",
+        "captured_at": "2026-10-31T13:30:23.126Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7172,7 +7172,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:41.523Z",
+        "captured_at": "2026-10-31T13:30:23.128Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7187,7 +7187,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:41.524Z",
+        "captured_at": "2026-10-31T13:30:23.130Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7202,7 +7202,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:41.525Z",
+        "captured_at": "2026-10-31T13:30:23.132Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7217,7 +7217,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:43.204Z",
+        "captured_at": "2026-10-31T13:30:25.137Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7232,9 +7232,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:44.232Z",
+        "captured_at": "2026-10-31T13:30:25.139Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -7247,7 +7247,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:44.234Z",
+        "captured_at": "2026-10-31T13:30:25.141Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7262,7 +7262,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T02:32:44.235Z",
+        "captured_at": "2026-10-31T13:30:25.143Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -8207,6 +8207,73 @@
         "captured_at": "2026-10-31T06:51:04.462Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
+      },
+      "reference_links": []
+    },
+    "cc646076e9b9ce347ee5c78bc36d4c0989fdaef67fc5d1400d05c18ec54c828c": {
+      "article_id": "cc646076e9b9ce347ee5c78bc36d4c0989fdaef67fc5d1400d05c18ec54c828c",
+      "source_id": "ndrc",
+      "source_url": "https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260820_1407104.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T13:30:25.145Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：HTTP 403"
+      },
+      "reference_links": []
+    },
+    "d19dc5c11ad26945f6976d083ab314ab4a824c591d4034a0464162ed71b4e684": {
+      "article_id": "d19dc5c11ad26945f6976d083ab314ab4a824c591d4034a0464162ed71b4e684",
+      "source_id": "ndrc",
+      "source_url": "https://www.ndrc.gov.cn/xwdt/tzgg/202609/t20260910_1407525.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T13:30:25.147Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：HTTP 403"
+      },
+      "reference_links": []
+    },
+    "246897bca1243286d2df0565f5455fa020a15dc17fbeb6b63f89561f31afe0ca": {
+      "article_id": "246897bca1243286d2df0565f5455fa020a15dc17fbeb6b63f89561f31afe0ca",
+      "source_id": "nea",
+      "source_url": "https://www.nea.gov.cn/20260724/aabe4bec49d141daaa36901c276997c9/c.html",
+      "versions": [
+        {
+          "id": "246897bca1243286d2df0565f5455fa020a15dc17fbeb6b63f89561f31afe0ca:eec0c2bd2f384b55576e2372711b2af43e3d185db70f98d16d9030001dc9637e",
+          "content_hash": "eec0c2bd2f384b55576e2372711b2af43e3d185db70f98d16d9030001dc9637e",
+          "captured_at": "2026-10-31T13:30:25.714Z",
+          "status": "text",
+          "text": "目录项的基本信息\n\n公开事项名称: 关于中国—国际可再生能源署（IRENA）合作专项工作组换届及扩容结果的公告\n\n索引号: 000019705/2026-000110 主办单位: 国家能源局\n\n制发日期: 2026-07-20\n\n关于中国—国际可再生能源署（IRENA）合作专项工作组换届及扩容结果的公告\n\n为深化中国与国际可再生能源署（IRENA）务实合作， 2026年3月，国家能源局发布公告，对中国—IRENA“1+1+N”（ 1个合作指导委员会、1个合作办公室和N个合作专项工作组）合作机制下首批能源转型、水电、太阳能、氢能、电网5个专项工作组进行换届，并增设储能、风能、教育与青年3个专项工作组，面向社会公开征集新一届组成单位。经自主申报、协商确认和择优遴选，现将新一届组成单位名单予以公布（详见附件），其中各组长（副组长）单位任期3年，自发布之日起。\n\n附件： 中国—国际可再生能源署（IRENA）合作专项工作组组成单位名单\n\n2026年7月20日",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 关于中国—国际可再生能源署（IRENA）合作专项工作组换届及扩容结果的公告",
+            "索引号: 000019705/2026-000110 主办单位: 国家能源局",
+            "制发日期: 2026-07-20",
+            "关于中国—国际可再生能源署（IRENA）合作专项工作组换届及扩容结果的公告",
+            "为深化中国与国际可再生能源署（IRENA）务实合作， 2026年3月，国家能源局发布公告，对中国—IRENA“1+1+N”（ 1个合作指导委员会、1个合作办公室和N个合作专项工作组）合作机制下首批能源转型、水电、太阳能、氢能、电网5个专项工作组进行换届，并增设储能、风能、教育与青年3个专项工作组，面向社会公开征集新一届组成单位。经自主申报、协商确认和择优遴选，现将新一届组成单位名单予以公布（详见附件），其中各组长（副组长）单位任期3年，自发布之日起。",
+            "附件： 中国—国际可再生能源署（IRENA）合作专项工作组组成单位名单",
+            "2026年7月20日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "246897bca1243286d2df0565f5455fa020a15dc17fbeb6b63f89561f31afe0ca:eec0c2bd2f384b55576e2372711b2af43e3d185db70f98d16d9030001dc9637e",
+      "latest_captured_at": "2026-10-31T13:30:25.714Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T13:30:25.714Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
       },
       "reference_links": []
     }
