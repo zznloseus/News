@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T20:39:07.609Z",
+  "generated_at": "2026-10-31T00:37:37.364Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -903,6 +903,76 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-30T20:39:07.609Z"
+    },
+    "ccbfd967de935a8a13d7c186d3f33fa64c7cec2cc2c4a82a04ef4e316ce003b2": {
+      "title": "工业和信息化部办公厅 住房城乡建设部办公厅 交通运输部办公厅 国家卫生健康委办公厅 中国民航局综合司 国家消防救援局办公室 中国地震局办公室关于组织开展2026年安全应急装备应用推广典型案例推荐工作的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "f2c819f44cb29c0305b23a7ed15b877bda28801ce208704ca732b2c4a554858b",
+          "version_id": "f2c819f44cb29c0305b23a7ed15b877bda28801ce208704ca732b2c4a554858b:05e0245a892345194982f642eb70d24945fd7a63a390c4132f3baac278cd0af6",
+          "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_b5ef31b619ba46499a17e1a0e3c504ce.html",
+          "excerpt": "根据《工业和信息化部办公厅 住房城乡建设部办公厅 交通运输部办公厅 国家卫生健康委办公厅 中国民航局综合司 国家消防救援局办公室 中国地震局办公室关于组织开展2026年安全应急装备应用推广典型案例推荐工作的通知》（ 工信厅联安全函〔 2025 〕 548 号），经企业申报、地方工业和信息化主管部门和有关中央企业推荐、综合评审、名单公示，确定了2026年安全应急装备应用推广典型案例名单，现予以公布。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T00:37:37.364Z"
+    },
+    "f1badef3a88781038542fedddc31393be1055dfb91ef5752ed390bc533bb512f": {
+      "title": "中华人民共和国民用核设施安全监督管理条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "1ee61ac4de7b2a193a00b25c51620ea34921d2abc4ac95fe38cb51a9ec8ce7b7",
+          "version_id": "1ee61ac4de7b2a193a00b25c51620ea34921d2abc4ac95fe38cb51a9ec8ce7b7:022b113b3f2a3a10ec027e60a9bc84f9ebabb5ed40a9a67d749ef1c51f0f9518",
+          "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202610/t20261016_1183182.html",
+          "excerpt": "根据《中华人民共和国核安全法》和《中华人民共和国民用核设施安全监督管理条例》及其实施细则，我局组织检查组于2026年10月11日至14日对田湾核电站7号机组离开25%额定功率（热）控制点进行了核安全检查（检查报告见附件）。检查结果表明，田湾核电站7号机组已具备离开25%额定功率（热）的基本条件。我局同意你公司在落实本次检查提出的相关改进要求，并经生态环境部华东核与辐射安全"
+        },
+        {
+          "article_id": "7c0ed046853c4bb06536999704edf5947fb38767d3a3b3bf03c4b7ff8154fefd",
+          "version_id": "7c0ed046853c4bb06536999704edf5947fb38767d3a3b3bf03c4b7ff8154fefd:f6f3217bc986cc5ef0d15a9be1058ca817d24b11ffc82bfc9dd93f022865b893",
+          "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202610/t20261021_1184100.html",
+          "excerpt": "根据《中华人民共和国核安全法》和《中华人民共和国民用核设施安全监督管理条例》的有关要求，我局对你公司提交的申请文件进行了技术审评，认为你公司《广西防城港核电厂5、6号机组建造阶段质量保证大纲》（0版）是可以接受的，现予批准。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T00:37:37.364Z"
+    },
+    "f275b3a4ea30935528ac41587981ed57b4df343edcc4ae65041177dfca764eab": {
+      "title": "关于核定通信专业技术人员职业水平考试收费标准的通知",
+      "document_no": "湘价函〔2013〕84号",
+      "citations": [
+        {
+          "article_id": "c5c4e82ac2fe1f66de68e5d950dbe11a64eb31a21d2a72bc1a83076feb139161",
+          "version_id": "c5c4e82ac2fe1f66de68e5d950dbe11a64eb31a21d2a72bc1a83076feb139161:3b103abb793ecb2e72b1c9a08806b1b87212969688eefddd767a10f40872af9b",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_4e8e7cad5e2744e88645c18e6344ce91.html",
+          "excerpt": "根据国家发展和改革委员会 财政部《关于全国通信专业技术人员职业水平考试收费标准及有关问题的通知》（发改价格〔2011〕2402号）和湖南省物价局 湖南省财政厅《关于核定通信专业技术人员职业水平考试收费标准的通知》（湘价函〔2013〕84号）的文件规定，核定考试费标准每科70元，两科共140元。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T00:37:37.364Z"
+    },
+    "f55030d0dcab765faab4b8b22389ceee5dbd6e8a21c4e145761f76b16996d298": {
+      "title": "黑龙江省关于消费品以旧换新地方自主品类实施补贴政策工作的通知",
+      "document_no": "黑商联发〔2026〕8号",
+      "citations": [
+        {
+          "article_id": "bcabff5b052084513ab1306b2c16f2c6582adfeeee6a0e5ef688819e1b248dbf",
+          "version_id": "bcabff5b052084513ab1306b2c16f2c6582adfeeee6a0e5ef688819e1b248dbf:d4a2db6a1f070caa10cd805299457e17420674fed5ff758f1372899dfeef4cba",
+          "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_5c5266cc49134642b4a4f81669375df5.html",
+          "excerpt": "为进一步释放智能家居消费潜力，加速信息消费升级，根据《商务部等7部门关于提质增效实施2026年消费品以旧换新政策的通知》（商消费函〔2025〕697号）、《黑龙江省关于消费品以旧换新地方自主品类实施补贴政策工作的通知》（黑商联发〔2026〕8号），我局会同省商务厅、省财政厅、省发改委制定了《2026年黑龙江省智能家居（家庭网关、千兆全光组网设备和路由器）购新补贴实施细则》（见附件），现印发你们，请遵照执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T00:37:37.364Z"
     }
   }
 }

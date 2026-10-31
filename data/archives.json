@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T20:39:07.433Z",
+  "generated_at": "2026-10-31T00:37:37.183Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1883,14 +1883,15 @@
       "source_id": "liaoning",
       "source_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026101915441826587/index.shtml",
       "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-29T08:43:19.078Z",
+        "captured_at": "2026-10-31T00:37:35.780Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
-      "latest_version_id": null,
-      "latest_captured_at": null,
-      "latest_status": null
+      "reference_links": []
     },
     "14bc07dca5fdcad3a8ecb4ddfd2d2449c1cf67ec8d493c0e26ba96a0fbc8bf57": {
       "article_id": "14bc07dca5fdcad3a8ecb4ddfd2d2449c1cf67ec8d493c0e26ba96a0fbc8bf57",
@@ -2830,14 +2831,15 @@
       "source_id": "liaoning",
       "source_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026101913561799567/index.shtml",
       "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-29T08:43:27.091Z",
+        "captured_at": "2026-10-31T00:37:35.781Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
-      "latest_version_id": null,
-      "latest_captured_at": null,
-      "latest_status": null
+      "reference_links": []
     },
     "7f16fa6bc19f575692bd656d8ecc82ef1bbb0dd9e576ff6ff9b96eeab4b2dc6b": {
       "article_id": "7f16fa6bc19f575692bd656d8ecc82ef1bbb0dd9e576ff6ff9b96eeab4b2dc6b",
@@ -3668,14 +3670,15 @@
       "source_id": "liaoning",
       "source_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026101913500815391/index.shtml",
       "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-29T08:43:37.795Z",
+        "captured_at": "2026-10-31T00:37:35.782Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
-      "latest_version_id": null,
-      "latest_captured_at": null,
-      "latest_status": null
+      "reference_links": []
     },
     "e4129c1cb54f628c0dfbc334c17468434537b2d5e00019d8c2dbb86ac88b49cf": {
       "article_id": "e4129c1cb54f628c0dfbc334c17468434537b2d5e00019d8c2dbb86ac88b49cf",
@@ -5107,10 +5110,11 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-29T21:01:45.690Z",
+        "captured_at": "2026-10-31T00:37:33.753Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
-      }
+      },
+      "reference_links": []
     },
     "0e2c6587b4206523dd2c59e92d36d954bfe23a2b4c762ffdb09e2468766dd4a2": {
       "article_id": "0e2c6587b4206523dd2c59e92d36d954bfe23a2b4c762ffdb09e2468766dd4a2",
@@ -7973,6 +7977,191 @@
         "captured_at": "2026-10-30T20:39:07.433Z",
         "status": "text",
         "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "1e46f5d82274ac10d1fae3ac1636682cb70b26214896a6e75fb1cecd269fe638": {
+      "article_id": "1e46f5d82274ac10d1fae3ac1636682cb70b26214896a6e75fb1cecd269fe638",
+      "source_id": "hunca",
+      "source_url": "https://hunca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_3a108e27dc224a628ca1a7e76af5fe9d.html",
+      "versions": [
+        {
+          "id": "1e46f5d82274ac10d1fae3ac1636682cb70b26214896a6e75fb1cecd269fe638:7cd173c363164882fc8eb8c9adacb708e9a3687a2979b2a78e644fbd6d7251d6",
+          "content_hash": "7cd173c363164882fc8eb8c9adacb708e9a3687a2979b2a78e644fbd6d7251d6",
+          "captured_at": "2026-10-31T00:37:35.778Z",
+          "status": "text",
+          "text": "近日，湖南省通信管理局印发《湖南省信息通信行业发展“十五五”规划》（以下简称《规划》），对“十五五”时期湖南省信息通信行业高质量发展作出部署。\n\n《规划》 以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，贯彻落实习近平总书记关于湖南工作的重要讲话和指示批示精神，锚定 “ 三高四新 ” 美好蓝图，统筹发展和安全， 坚持人民至上、按需部署、创新引领、绿色低碳 ， 抢抓 新一代通信网、算力网等 “ 六张网 ” 建设战略机遇， 巩固提升信息通信业竞争优势和领先地位，为奋力谱写中国式现代化湖南篇章筑牢数字 设施 基础 。\n\n《规划》围绕“十五五”发展主要目标，明确到 2030 年的 13 项主要发展指标，涵盖行业规模、创新发展、绿色发展、能力建设、应用普及 5 个方面。同时，《规划》聚焦构建新型信息基础设施体系、推动行业深度融入经济社会高质量发展、提升行业综合管理和服务水平、提升行业统筹发展和安全水平、提升信息通信协同创新发展水平 5 个方面部署了 21 项主要任务和 10 项重点工程，明确相关保障措施。\n\n下一步， 湖南省通信管理局将 强化部门协同和政策衔接，扎实 推进 《规划》宣贯实施，指导全省信息通信行业结合实际细化落实举措， 全力推进《规划》 各项重点任务落地见效， 推进湖南省新一代通信网建设，更好服务湖南经济社会高质量发展。",
+          "paragraphs": [
+            "近日，湖南省通信管理局印发《湖南省信息通信行业发展“十五五”规划》（以下简称《规划》），对“十五五”时期湖南省信息通信行业高质量发展作出部署。",
+            "《规划》 以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，贯彻落实习近平总书记关于湖南工作的重要讲话和指示批示精神，锚定 “ 三高四新 ” 美好蓝图，统筹发展和安全， 坚持人民至上、按需部署、创新引领、绿色低碳 ， 抢抓 新一代通信网、算力网等 “ 六张网 ” 建设战略机遇， 巩固提升信息通信业竞争优势和领先地位，为奋力谱写中国式现代化湖南篇章筑牢数字 设施 基础 。",
+            "《规划》围绕“十五五”发展主要目标，明确到 2030 年的 13 项主要发展指标，涵盖行业规模、创新发展、绿色发展、能力建设、应用普及 5 个方面。同时，《规划》聚焦构建新型信息基础设施体系、推动行业深度融入经济社会高质量发展、提升行业综合管理和服务水平、提升行业统筹发展和安全水平、提升信息通信协同创新发展水平 5 个方面部署了 21 项主要任务和 10 项重点工程，明确相关保障措施。",
+            "下一步， 湖南省通信管理局将 强化部门协同和政策衔接，扎实 推进 《规划》宣贯实施，指导全省信息通信行业结合实际细化落实举措， 全力推进《规划》 各项重点任务落地见效， 推进湖南省新一代通信网建设，更好服务湖南经济社会高质量发展。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "1e46f5d82274ac10d1fae3ac1636682cb70b26214896a6e75fb1cecd269fe638:7cd173c363164882fc8eb8c9adacb708e9a3687a2979b2a78e644fbd6d7251d6",
+      "latest_captured_at": "2026-10-31T00:37:35.778Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:35.778Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "1b88a7584550edb41ffeb34aee2e1cc5f6a8e6b8ba9a820c4b074d8983aa1d13": {
+      "article_id": "1b88a7584550edb41ffeb34aee2e1cc5f6a8e6b8ba9a820c4b074d8983aa1d13",
+      "source_id": "csrc",
+      "source_url": "https://www.csrc.gov.cn/csrc/c100028/c7665462/content.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:35.779Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85": {
+      "article_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85",
+      "source_id": "miit",
+      "source_url": "http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
+      "versions": [
+        {
+          "id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "content_hash": "94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "captured_at": "2026-10-31T00:37:36.988Z",
+          "status": "text",
+          "text": "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。\n\n《规划》提出锚定基本实现新型工业化目标，以推动高质量发展为主题，以推进产业基础高级化为主线，以实施产业基础再造工程为抓手，统筹补短板、锻长板、布前沿，强化以用促攻、攻用结合，一体推进技术攻关和推广应用，系统解决产业基础薄弱问题，实现产业基础向“强创新、高自主、优质量”全面升级。到2030年，产业基础薄弱问题明显缓解，技术创新能力、自主可控能力、优质产品供给能力全面提升，基础产品质量水平明显提高，形成一批引领整机创新的关键基础产品和若干具有国际影响力的知名品牌，新培育一批产业基础领域制造业单项冠军企业和专精特新“小巨人”企业，支持产业基础长效发展的投入机制更加健全，产业基础能力总体进入国际先进行列，为构建以先进制造业为骨干的现代化产业体系提供有力支撑。\n\n围绕主要目标，《规划》聚焦提升产业基础自主可控能力、增强产业基础创新能力、完善产业技术基础体系、提高产业基础质量水平、增强企业核心竞争力、加强基础产品推广应用、优化产业基础发展生态等7个方面提出22项重点任务。同时，从强化部门协同和央地联动、开展实施情况监测评估以及做好宣传引导等方面加强《规划》组织实施。",
+          "paragraphs": [
+            "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。",
+            "《规划》提出锚定基本实现新型工业化目标，以推动高质量发展为主题，以推进产业基础高级化为主线，以实施产业基础再造工程为抓手，统筹补短板、锻长板、布前沿，强化以用促攻、攻用结合，一体推进技术攻关和推广应用，系统解决产业基础薄弱问题，实现产业基础向“强创新、高自主、优质量”全面升级。到2030年，产业基础薄弱问题明显缓解，技术创新能力、自主可控能力、优质产品供给能力全面提升，基础产品质量水平明显提高，形成一批引领整机创新的关键基础产品和若干具有国际影响力的知名品牌，新培育一批产业基础领域制造业单项冠军企业和专精特新“小巨人”企业，支持产业基础长效发展的投入机制更加健全，产业基础能力总体进入国际先进行列，为构建以先进制造业为骨干的现代化产业体系提供有力支撑。",
+            "围绕主要目标，《规划》聚焦提升产业基础自主可控能力、增强产业基础创新能力、完善产业技术基础体系、提高产业基础质量水平、增强企业核心竞争力、加强基础产品推广应用、优化产业基础发展生态等7个方面提出22项重点任务。同时，从强化部门协同和央地联动、开展实施情况监测评估以及做好宣传引导等方面加强《规划》组织实施。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+      "latest_captured_at": "2026-10-31T00:37:36.988Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:36.988Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "e65adafc4f2b3667b2d2f2bd3053a05d0906523c3ade2097b4bbf66b61b04061": {
+      "article_id": "e65adafc4f2b3667b2d2f2bd3053a05d0906523c3ade2097b4bbf66b61b04061",
+      "source_id": "liaoning",
+      "source_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfl/2026n/2026101611112971642/index.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:36.989Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "4890e34ccde98eeb4a8682caaf43a8c8f4375e3d206182b83e6894a6e29715ff": {
+      "article_id": "4890e34ccde98eeb4a8682caaf43a8c8f4375e3d206182b83e6894a6e29715ff",
+      "source_id": "stats",
+      "source_url": "https://www.stats.gov.cn/xw/tjxw/tjdt/202610/t20261016_1965602.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:36.990Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "f2c819f44cb29c0305b23a7ed15b877bda28801ce208704ca732b2c4a554858b": {
+      "article_id": "f2c819f44cb29c0305b23a7ed15b877bda28801ce208704ca732b2c4a554858b",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_b5ef31b619ba46499a17e1a0e3c504ce.html",
+      "versions": [
+        {
+          "id": "f2c819f44cb29c0305b23a7ed15b877bda28801ce208704ca732b2c4a554858b:05e0245a892345194982f642eb70d24945fd7a63a390c4132f3baac278cd0af6",
+          "content_hash": "05e0245a892345194982f642eb70d24945fd7a63a390c4132f3baac278cd0af6",
+          "captured_at": "2026-10-31T00:37:37.182Z",
+          "status": "text",
+          "text": "工业和信息化部办公厅 住房城乡建设部办公厅 交通运输部办公厅 国家卫生健康委办公厅\n\n&#xa0;中国民航局综合司 国家消防救援局办公室 中国地震局办公室关于公布\n\n2026 年 安全应急装备应用推广典型案例名单的通知\n\n工信厅联安全函〔 2026 〕 490 号\n\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、住房城乡建设厅（委、局）、交通运输厅（委、局）、卫生健康委，民航各地区管理局，各省、自治区、直辖市消防救援总队、地震局，各消防救援机动总队，有关单位：\n\n根据《工业和信息化部办公厅 住房城乡建设部办公厅 交通运输部办公厅 国家卫生健康委办公厅 中国民航局综合司 国家消防救援局办公室 中国地震局办公室关于组织开展2026年安全应急装备应用推广典型案例推荐工作的通知》（ 工信厅联安全函〔 2025 〕 548 号），经企业申报、地方工业和信息化主管部门和有关中央企业推荐、综合评审、名单公示，确定了2026年安全应急装备应用推广典型案例名单，现予以公布。\n\n请结合实际，借鉴经验做法，积极宣传推广，在技术创新、应用落地、政府服务等方面对入选项目加大支持力度，推动安全应急装备产业创新发展。\n\n附件：2026年安全应急装备应用推广典型案例名单\n\n工业和信息化部办公厅\n\n住房城乡建设部办公厅\n\n交通运输部办公厅\n\n国家卫生健康委办公厅\n\n&#xa0;中国民航局综合司\n\n国家消防救援局办公室\n\n中国地震局办公室\n\n2026年10月14日",
+          "paragraphs": [
+            "工业和信息化部办公厅 住房城乡建设部办公厅 交通运输部办公厅 国家卫生健康委办公厅",
+            "&#xa0;中国民航局综合司 国家消防救援局办公室 中国地震局办公室关于公布",
+            "2026 年 安全应急装备应用推广典型案例名单的通知",
+            "工信厅联安全函〔 2026 〕 490 号",
+            "各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门、住房城乡建设厅（委、局）、交通运输厅（委、局）、卫生健康委，民航各地区管理局，各省、自治区、直辖市消防救援总队、地震局，各消防救援机动总队，有关单位：",
+            "根据《工业和信息化部办公厅 住房城乡建设部办公厅 交通运输部办公厅 国家卫生健康委办公厅 中国民航局综合司 国家消防救援局办公室 中国地震局办公室关于组织开展2026年安全应急装备应用推广典型案例推荐工作的通知》（ 工信厅联安全函〔 2025 〕 548 号），经企业申报、地方工业和信息化主管部门和有关中央企业推荐、综合评审、名单公示，确定了2026年安全应急装备应用推广典型案例名单，现予以公布。",
+            "请结合实际，借鉴经验做法，积极宣传推广，在技术创新、应用落地、政府服务等方面对入选项目加大支持力度，推动安全应急装备产业创新发展。",
+            "附件：2026年安全应急装备应用推广典型案例名单",
+            "工业和信息化部办公厅",
+            "住房城乡建设部办公厅",
+            "交通运输部办公厅",
+            "国家卫生健康委办公厅",
+            "&#xa0;中国民航局综合司",
+            "国家消防救援局办公室",
+            "中国地震局办公室",
+            "2026年10月14日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "f2c819f44cb29c0305b23a7ed15b877bda28801ce208704ca732b2c4a554858b:05e0245a892345194982f642eb70d24945fd7a63a390c4132f3baac278cd0af6",
+      "latest_captured_at": "2026-10-31T00:37:37.182Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:37.182Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "54d5bb3ca7947789e0c8ad2fa61ca02f0f622a3fe5649fbe4ce8267c36425d08": {
+      "article_id": "54d5bb3ca7947789e0c8ad2fa61ca02f0f622a3fe5649fbe4ce8267c36425d08",
+      "source_id": "ndrc",
+      "source_url": "https://www.ndrc.gov.cn/xwdt/tzgg/202609/t20260921_1407757.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:37.183Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：HTTP 403"
+      },
+      "reference_links": []
+    },
+    "70e69f0bf0083660b40f2d790ab27255123e8b8598526de4af19b410c08cba01": {
+      "article_id": "70e69f0bf0083660b40f2d790ab27255123e8b8598526de4af19b410c08cba01",
+      "source_id": "ndrc",
+      "source_url": "https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260817_1407042.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T00:37:37.183Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：HTTP 403"
       },
       "reference_links": []
     }
