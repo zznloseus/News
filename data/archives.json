@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T18:25:15.466Z",
+  "generated_at": "2026-10-31T22:24:12.868Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1858,9 +1858,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.971Z",
+        "captured_at": "2026-10-31T22:24:09.069Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：HTTP 403"
       },
       "reference_links": []
     },
@@ -3062,7 +3062,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T20:39:01.067Z",
+        "captured_at": "2026-10-31T22:24:09.764Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3077,7 +3077,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T20:39:03.135Z",
+        "captured_at": "2026-10-31T22:24:10.957Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3896,7 +3896,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T20:39:01.068Z",
+        "captured_at": "2026-10-31T22:24:09.766Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7539,9 +7539,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T08:25:28.907Z",
+        "captured_at": "2026-10-31T22:24:09.064Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7554,7 +7554,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T08:25:28.908Z",
+        "captured_at": "2026-10-31T22:24:09.067Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7602,7 +7602,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T08:25:29.194Z",
+        "captured_at": "2026-10-31T22:24:09.071Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -7617,9 +7617,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T08:25:29.196Z",
+        "captured_at": "2026-10-31T22:24:09.761Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7893,7 +7893,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T20:39:03.133Z",
+        "captured_at": "2026-10-31T22:24:10.956Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -8402,6 +8402,99 @@
         "captured_at": "2026-10-31T18:25:15.466Z",
         "status": "text",
         "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "6724ec8241cf98805996a584e7a6872e10c73890d592d979d455ab34a4285bdd": {
+      "article_id": "6724ec8241cf98805996a584e7a6872e10c73890d592d979d455ab34a4285bdd",
+      "source_id": "nea",
+      "source_url": "http://www.nea.gov.cn/20260928/ccc0e6f629384053b0bf50cc3f018187/c.html",
+      "versions": [
+        {
+          "id": "6724ec8241cf98805996a584e7a6872e10c73890d592d979d455ab34a4285bdd:d53a10a4a2b27e275e3923a2c4991c45576a0600a7e0324b193383e7cdb53fde",
+          "content_hash": "d53a10a4a2b27e275e3923a2c4991c45576a0600a7e0324b193383e7cdb53fde",
+          "captured_at": "2026-10-31T22:24:12.495Z",
+          "status": "text",
+          "text": "目录项的基本信息\n\n公开事项名称: 关于披露中国能源传媒集团有限公司负责人2025年度薪酬情况的通知\n\n索引号: 000019705/2026-000154 主办单位: 国家能源局\n\n制发日期: 2026-09-16\n\n关于披露中国能源传媒集团有限公司负责人2025年度薪酬情况的通知\n\n根据《人力资源社会保障部办公厅关于做好2025年中央企业工资分配情况备案和信息披露工作的通知》（人社厅函〔2026〕87号）精神，现对中国能源传媒集团有限公司负责人2025年度薪酬信息进行披露。\n\n附件： 中国能源传媒集团有限公司负责人2025年度薪酬情况表\n\n国家能源局人事司\n\n2026年9月16日",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 关于披露中国能源传媒集团有限公司负责人2025年度薪酬情况的通知",
+            "索引号: 000019705/2026-000154 主办单位: 国家能源局",
+            "制发日期: 2026-09-16",
+            "关于披露中国能源传媒集团有限公司负责人2025年度薪酬情况的通知",
+            "根据《人力资源社会保障部办公厅关于做好2025年中央企业工资分配情况备案和信息披露工作的通知》（人社厅函〔2026〕87号）精神，现对中国能源传媒集团有限公司负责人2025年度薪酬信息进行披露。",
+            "附件： 中国能源传媒集团有限公司负责人2025年度薪酬情况表",
+            "国家能源局人事司",
+            "2026年9月16日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "6724ec8241cf98805996a584e7a6872e10c73890d592d979d455ab34a4285bdd:d53a10a4a2b27e275e3923a2c4991c45576a0600a7e0324b193383e7cdb53fde",
+      "latest_captured_at": "2026-10-31T22:24:12.495Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T22:24:12.495Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc": {
+      "article_id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc",
+      "source_id": "nea",
+      "source_url": "http://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
+      "versions": [
+        {
+          "id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "content_hash": "85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "captured_at": "2026-10-31T22:24:12.866Z",
+          "status": "text",
+          "text": "目录项的基本信息\n\n公开事项名称: 关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知\n\n索引号: 000019705/2026-000141 主办单位: 国家能源局\n\n制发日期: 2026-08-31\n\n国家能源局综合司关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知\n\n为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。\n\n欢迎有关单位和社会各界人士提出宝贵意见建议，自本通知发布之日起30日内传真至010-81929559，或通过电子邮件发至jianguansi@nea.gov.cn。\n\n感谢您的参与和支持！\n\n附件： 供电企业信息公开实施办法（修订稿）\n\n国家能源局综合司\n\n2026年8月31日",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
+            "索引号: 000019705/2026-000141 主办单位: 国家能源局",
+            "制发日期: 2026-08-31",
+            "国家能源局综合司关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
+            "为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。",
+            "欢迎有关单位和社会各界人士提出宝贵意见建议，自本通知发布之日起30日内传真至010-81929559，或通过电子邮件发至jianguansi@nea.gov.cn。",
+            "感谢您的参与和支持！",
+            "附件： 供电企业信息公开实施办法（修订稿）",
+            "国家能源局综合司",
+            "2026年8月31日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+      "latest_captured_at": "2026-10-31T22:24:12.866Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T22:24:12.866Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "838a3f8139f4e5101c1cdd4f53f9fd934491b61968cbc00789b217dd85de4ab2": {
+      "article_id": "838a3f8139f4e5101c1cdd4f53f9fd934491b61968cbc00789b217dd85de4ab2",
+      "source_id": "nea",
+      "source_url": "https://www.nea.gov.cn/20260209/ea5b9bede4764590bff3c62244f6f57c/c.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-10-31T22:24:12.868Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     }

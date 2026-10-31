@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T18:25:15.732Z",
+  "generated_at": "2026-10-31T22:24:13.141Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -171,12 +171,18 @@
           "version_id": "42a8014dea11a2f33e7d88ffebd0952649f1439795062e9e29a8afd6b4dc7df5:134d75fa9e73705360ccf1e9419a5ec43e1664b13cbaa5412db935c616173e06",
           "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_ed6bb05c12814243a22b70d96e626d17.html",
           "excerpt": "2. 凡提交虚假材料 （假身份证件、无效学历、假资历证件、假专业材料等 ） 参加资格复审的，根据《专业技术人员资格考试违纪违规行为处理规定》给予相应处理。"
+        },
+        {
+          "article_id": "c5c4e82ac2fe1f66de68e5d950dbe11a64eb31a21d2a72bc1a83076feb139161",
+          "version_id": "c5c4e82ac2fe1f66de68e5d950dbe11a64eb31a21d2a72bc1a83076feb139161:3b103abb793ecb2e72b1c9a08806b1b87212969688eefddd767a10f40872af9b",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_4e8e7cad5e2744e88645c18e6344ce91.html",
+          "excerpt": "（二）报考人员有提供虚假证明材料或者以其他不正当手段取得相应资格证书或合格证明等严重违纪违规行为的，按照《专业技术人员资格考试违纪违规行为处理规定》（人社部令第31号）处理。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:53:18.985Z"
+      "checked_at": "2026-10-31T22:24:13.141Z"
     },
     "65fe25e5ea55b5aa795dcf9bfc427a17691863fc9a48a063b081443f4379554e": {
       "title": "关于开展 202 6 年湖南省通信专业技术人员初级和中级职业水平考试的通知",
@@ -208,7 +214,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-10-31T22:24:13.141Z"
     },
     "3b92823406964ee8431fb1d196332146314b0f52d42db4defa672c945ca03f88": {
       "title": "关于全国通信专业技术人员职业水平考试收费标准及有关问题的通知",
@@ -224,7 +230,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-10-31T22:24:13.141Z"
     },
     "664c047564878f828daa5ddda20811d29c8f61e7f6e66f7233ac97568f48379b": {
       "title": "内蒙古自治区党委 自治区人民政府关于贯彻落实<教育强国建设规划纲要(2024—2035年)>加快建设教育强区的意见",
@@ -1021,6 +1027,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-31T18:25:15.732Z"
+    },
+    "5194ee24ed6aa0f14bf94a9f6e6a2dddf450d687f691a872c29c4ed73d9eb64f": {
+      "title": "人力资源社会保障部办公厅关于做好2025年中央企业工资分配情况备案和信息披露工作的通知",
+      "document_no": "人社厅函〔2026〕87号",
+      "citations": [
+        {
+          "article_id": "6724ec8241cf98805996a584e7a6872e10c73890d592d979d455ab34a4285bdd",
+          "version_id": "6724ec8241cf98805996a584e7a6872e10c73890d592d979d455ab34a4285bdd:d53a10a4a2b27e275e3923a2c4991c45576a0600a7e0324b193383e7cdb53fde",
+          "source_url": "http://www.nea.gov.cn/20260928/ccc0e6f629384053b0bf50cc3f018187/c.html",
+          "excerpt": "根据《人力资源社会保障部办公厅关于做好2025年中央企业工资分配情况备案和信息披露工作的通知》（人社厅函〔2026〕87号）精神，现对中国能源传媒集团有限公司负责人2025年度薪酬信息进行披露。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T22:24:13.141Z"
     }
   }
 }
