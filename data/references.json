@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T13:30:25.980Z",
+  "generated_at": "2026-10-31T18:25:15.732Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -144,7 +144,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:53:18.985Z"
+      "checked_at": "2026-10-31T18:25:15.732Z"
     },
     "5a081601a8d02f9eb711a5180572e5ee0a2857785391b77aac4cdfe635aaf1f0": {
       "title": "关于更高水平更高质量做好节能降碳工作的意见",
@@ -160,7 +160,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:53:18.985Z"
+      "checked_at": "2026-10-31T18:25:15.732Z"
     },
     "622d749358e331a395605bdb56ae90259c566c9041f12fd871df5c431effa53a": {
       "title": "专业技术人员资格考试违纪违规行为处理规定",
@@ -989,6 +989,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-31T06:51:07.101Z"
+    },
+    "32c9d9dc7179de7d79432c76d83ff4cf3e94349c739a89638b5b7d75bc8a1933": {
+      "title": "公共企事业单位信息公开规定制定办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e",
+          "version_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "source_url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
+          "excerpt": "为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T18:25:15.732Z"
+    },
+    "5e946b5c6772689db1df07b6a13eeb88133311446bea6d8add23faaf1ad5ee14": {
+      "title": "供电企业信息公开实施办法",
+      "document_no": "国能发监管规〔2021〕56号",
+      "citations": [
+        {
+          "article_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e",
+          "version_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "source_url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
+          "excerpt": "企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-10-31T18:25:15.732Z"
     }
   }
 }

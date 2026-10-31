@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T13:30:25.714Z",
+  "generated_at": "2026-10-31T18:25:15.466Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -842,9 +842,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.023Z",
+        "captured_at": "2026-10-31T18:25:13.821Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -1160,7 +1160,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.030Z",
+        "captured_at": "2026-10-31T18:25:13.829Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -1843,7 +1843,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.025Z",
+        "captured_at": "2026-10-31T18:25:13.823Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -2530,7 +2530,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.029Z",
+        "captured_at": "2026-10-31T18:25:13.827Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3173,9 +3173,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.021Z",
+        "captured_at": "2026-10-31T18:25:13.818Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -3416,9 +3416,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.027Z",
+        "captured_at": "2026-10-31T18:25:13.825Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：HTTP 403"
       },
       "reference_links": []
     },
@@ -7524,7 +7524,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T08:25:28.906Z",
+        "captured_at": "2026-10-31T18:25:14.316Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7742,7 +7742,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.746Z",
+        "captured_at": "2026-10-31T18:25:14.094Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7757,7 +7757,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-10-30T15:46:39.969Z",
+        "captured_at": "2026-10-31T18:25:14.314Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -8272,6 +8272,134 @@
       "latest_status": "text",
       "last_attempt": {
         "captured_at": "2026-10-31T13:30:25.714Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "2c835e03196d52d76090c40000c918810d0c426159cc3b645e310fdb99b11c3e": {
+      "article_id": "2c835e03196d52d76090c40000c918810d0c426159cc3b645e310fdb99b11c3e",
+      "source_id": "nea",
+      "source_url": "https://www.nea.gov.cn/20260717/ec48a28e7dee4c29abaaa28e7a79848f/c.html",
+      "versions": [
+        {
+          "id": "2c835e03196d52d76090c40000c918810d0c426159cc3b645e310fdb99b11c3e:77d9acd0833dc9af622faaba5c45e510e3dd0ee336c89d759863efc13f0a40a3",
+          "content_hash": "77d9acd0833dc9af622faaba5c45e510e3dd0ee336c89d759863efc13f0a40a3",
+          "captured_at": "2026-10-31T18:25:14.782Z",
+          "status": "text",
+          "text": "目录项的基本信息\n\n公开事项名称: 国家能源局综合司关于公开征求《GB26164.1-2010 电力安全工作规程 热力和机械部分（征求意见稿）》等2项国家强制性标准意见的通知\n\n索引号: 000019705/2026-000084 主办单位: 国家能源局\n\n制发日期: 2026-07-14\n\n国家能源局综合司关于公开征求《GB26164.1-2010 电力安全工作规程 热力和机械部分（征求意见稿）》\n\n等2项国家强制性标准意见的通知\n\n按照国家强制性标准制修订计划，我局组织有关单位修订《GB 26164.1-2010电力安全工作规程 热力与机械部分》《GB 26861-2011电力安全工作规程 高压试验室部分》2项强制性国家标准，分别形成《电力安全工作规程 热力与机械部分（征求意见稿）》《电力安全工作规程 高压试验室部分（征求意见稿）》，现向社会公开征求意见。\n\n欢迎有关单位和社会各界人士提出宝贵建议，并反馈我局（安全司）。请在本公告发布之日起60日内将相关建议传真至010-81929600，或通过电子邮件发至dlawh@nea.gov.cn。\n\n感谢您的参与和支持！\n\n附件：\n\n1.电力安全工作规程 热力与机械部分（征求意见稿）\n\n2.《电力安全工作规程 热力与机械部分（征求意见稿）》编制说明\n\n3.电力安全工作规程 高压试验室部分（征求意见稿）\n\n4.《电力安全工作规程 高压试验室部分（征求意见稿）》编制说明\n\n国家能源局综合司\n\n2026年7月14日",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 国家能源局综合司关于公开征求《GB26164.1-2010 电力安全工作规程 热力和机械部分（征求意见稿）》等2项国家强制性标准意见的通知",
+            "索引号: 000019705/2026-000084 主办单位: 国家能源局",
+            "制发日期: 2026-07-14",
+            "国家能源局综合司关于公开征求《GB26164.1-2010 电力安全工作规程 热力和机械部分（征求意见稿）》",
+            "等2项国家强制性标准意见的通知",
+            "按照国家强制性标准制修订计划，我局组织有关单位修订《GB 26164.1-2010电力安全工作规程 热力与机械部分》《GB 26861-2011电力安全工作规程 高压试验室部分》2项强制性国家标准，分别形成《电力安全工作规程 热力与机械部分（征求意见稿）》《电力安全工作规程 高压试验室部分（征求意见稿）》，现向社会公开征求意见。",
+            "欢迎有关单位和社会各界人士提出宝贵建议，并反馈我局（安全司）。请在本公告发布之日起60日内将相关建议传真至010-81929600，或通过电子邮件发至dlawh@nea.gov.cn。",
+            "感谢您的参与和支持！",
+            "附件：",
+            "1.电力安全工作规程 热力与机械部分（征求意见稿）",
+            "2.《电力安全工作规程 热力与机械部分（征求意见稿）》编制说明",
+            "3.电力安全工作规程 高压试验室部分（征求意见稿）",
+            "4.《电力安全工作规程 高压试验室部分（征求意见稿）》编制说明",
+            "国家能源局综合司",
+            "2026年7月14日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "2c835e03196d52d76090c40000c918810d0c426159cc3b645e310fdb99b11c3e:77d9acd0833dc9af622faaba5c45e510e3dd0ee336c89d759863efc13f0a40a3",
+      "latest_captured_at": "2026-10-31T18:25:14.782Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T18:25:14.782Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "50febcb4d7bd98519bd41774beeee5a0909f7f9808b3b6f9a258563d908434b1": {
+      "article_id": "50febcb4d7bd98519bd41774beeee5a0909f7f9808b3b6f9a258563d908434b1",
+      "source_id": "nea",
+      "source_url": "https://www.nea.gov.cn/20260922/80504e4223fe473195bf7e2eac21dede/c.html",
+      "versions": [
+        {
+          "id": "50febcb4d7bd98519bd41774beeee5a0909f7f9808b3b6f9a258563d908434b1:5cfa0c7e171d59555745dafc81e8a9babeefb31ab12d417674e2ad8c9793de58",
+          "content_hash": "5cfa0c7e171d59555745dafc81e8a9babeefb31ab12d417674e2ad8c9793de58",
+          "captured_at": "2026-10-31T18:25:15.145Z",
+          "status": "text",
+          "text": "目录项的基本信息\n\n公开事项名称: 国家能源局综合司关于下达2026年能源领域行业标准制修订计划及外文版翻译计划的通知\n\n索引号: 000019705/2026-000151 主办单位: 国家能源局\n\n制发日期: 2026-09-22\n\n国家能源局综合司关于下达2026年能源领域行业标准制修订计划及外文版翻译计划的通知\n\n国能综通科技〔2026〕83号\n\n各能源行业标准化管理机构：\n\n根据国家能源局2026年标准化工作安排，现下达2026年能源领域行业标准制定计划（共计849项，见附件1）、标准修订计划（共计450项，见附件2）及外文版翻译计划（共计56项，见附件3）。请组织各有关标准化技术委员会、标准起草单位、翻译工作承担单位抓好工作落实。\n\n特此通知。\n\n附件：1. 2026年能源领域行业标准制定计划\n\n2. 2026年能源领域行业标准修订计划\n\n3. 2026年能源领域行业标准外文版翻译计划\n\n国家能源局综合司\n\n2026年8月28日",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 国家能源局综合司关于下达2026年能源领域行业标准制修订计划及外文版翻译计划的通知",
+            "索引号: 000019705/2026-000151 主办单位: 国家能源局",
+            "制发日期: 2026-09-22",
+            "国家能源局综合司关于下达2026年能源领域行业标准制修订计划及外文版翻译计划的通知",
+            "国能综通科技〔2026〕83号",
+            "各能源行业标准化管理机构：",
+            "根据国家能源局2026年标准化工作安排，现下达2026年能源领域行业标准制定计划（共计849项，见附件1）、标准修订计划（共计450项，见附件2）及外文版翻译计划（共计56项，见附件3）。请组织各有关标准化技术委员会、标准起草单位、翻译工作承担单位抓好工作落实。",
+            "特此通知。",
+            "附件：1. 2026年能源领域行业标准制定计划",
+            "2. 2026年能源领域行业标准修订计划",
+            "3. 2026年能源领域行业标准外文版翻译计划",
+            "国家能源局综合司",
+            "2026年8月28日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "国能综通科技〔2026〕83号"
+        }
+      ],
+      "latest_version_id": "50febcb4d7bd98519bd41774beeee5a0909f7f9808b3b6f9a258563d908434b1:5cfa0c7e171d59555745dafc81e8a9babeefb31ab12d417674e2ad8c9793de58",
+      "latest_captured_at": "2026-10-31T18:25:15.145Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T18:25:15.145Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e": {
+      "article_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e",
+      "source_id": "nea",
+      "source_url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
+      "versions": [
+        {
+          "id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "content_hash": "85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "captured_at": "2026-10-31T18:25:15.466Z",
+          "status": "text",
+          "text": "目录项的基本信息\n\n公开事项名称: 关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知\n\n索引号: 000019705/2026-000141 主办单位: 国家能源局\n\n制发日期: 2026-08-31\n\n国家能源局综合司关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知\n\n为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。\n\n欢迎有关单位和社会各界人士提出宝贵意见建议，自本通知发布之日起30日内传真至010-81929559，或通过电子邮件发至jianguansi@nea.gov.cn。\n\n感谢您的参与和支持！\n\n附件： 供电企业信息公开实施办法（修订稿）\n\n国家能源局综合司\n\n2026年8月31日",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
+            "索引号: 000019705/2026-000141 主办单位: 国家能源局",
+            "制发日期: 2026-08-31",
+            "国家能源局综合司关于公开征求《供电企业信息公开实施办法》（修订稿）意见的通知",
+            "为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。",
+            "欢迎有关单位和社会各界人士提出宝贵意见建议，自本通知发布之日起30日内传真至010-81929559，或通过电子邮件发至jianguansi@nea.gov.cn。",
+            "感谢您的参与和支持！",
+            "附件： 供电企业信息公开实施办法（修订稿）",
+            "国家能源局综合司",
+            "2026年8月31日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+      "latest_captured_at": "2026-10-31T18:25:15.466Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-10-31T18:25:15.466Z",
         "status": "text",
         "message": "已提取正文文字；不含图片和附件"
       },
