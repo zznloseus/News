@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T02:02:07.282Z",
+  "generated_at": "2026-11-01T10:17:53.102Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1075,6 +1075,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-01T02:02:07.282Z"
+    },
+    "0ac32586e67b930c5823164162707d4dc2aa3c5d5c3ae2cb8623880700fe315d": {
+      "title": "电力并网运行管理规定",
+      "document_no": "国能发监管规〔2021〕60号",
+      "citations": [
+        {
+          "article_id": "d59fb7b931648d65a066d7bea3765dc97ced8f60404dca3ef5937d0756be8063",
+          "version_id": "d59fb7b931648d65a066d7bea3765dc97ced8f60404dca3ef5937d0756be8063:ae6830b57bf8d5f5aa42d8b944c0b259b0e26d4e51ed6f19e6262ba0008bf215",
+          "source_url": "https://www.nea.gov.cn/20260930/43fede537ca048b1a6a51fe0970fb205/c.html",
+          "excerpt": "统一电力市场决策部署，规范电力系统并网运行管理，保障电力系统安全、优质、经济运行及相关市场主体合法权益，根据《中华人民共和国能源法》《中华人民共和国电力法》《电网调度管理条例》《电力监管条例》等法律法规，国家能源局对现行《电力并网运行管理规定》（国能发监管规〔2021〕60号，以下简称《规定》）进行修订，形成了《电力并网运行管理规定（征求意见稿）》，现向社会公开征求意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T10:17:53.102Z"
+    },
+    "21815b957faad18f39284cf10fa8000e671376503aef8bc056be1efc42f0c65d": {
+      "title": "电网调度管理条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "d59fb7b931648d65a066d7bea3765dc97ced8f60404dca3ef5937d0756be8063",
+          "version_id": "d59fb7b931648d65a066d7bea3765dc97ced8f60404dca3ef5937d0756be8063:ae6830b57bf8d5f5aa42d8b944c0b259b0e26d4e51ed6f19e6262ba0008bf215",
+          "source_url": "https://www.nea.gov.cn/20260930/43fede537ca048b1a6a51fe0970fb205/c.html",
+          "excerpt": "为贯彻落实党中央、国务院关于深化电力体制改革、建设全国统一电力市场决策部署，规范电力系统并网运行管理，保障电力系统安全、优质、经济运行及相关市场主体合法权益，根据《中华人民共和国能源法》《中华人民共和国电力法》《电网调度管理条例》《电力监管条例》等法律法规，国家能源局对现行《电力并网运行管理规定》（国能发监管规〔2021〕60号，以下简称《规定》）进行修订，形成了《电力并网运行管理规定（征求意见稿）》，现向社会公开征求意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T10:17:53.102Z"
+    },
+    "91ccb16be2703553e2e7db5d7e25d05acf852e0f8b51dc368630d3cd84623fb8": {
+      "title": "中共中央办公厅国务院办公厅关于健全社会信用体系的意见",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "9bfe75ef6a4b24bd0778f91dd69d71834db0fa693f4d40fba6d1a624711ed55b",
+          "version_id": "9bfe75ef6a4b24bd0778f91dd69d71834db0fa693f4d40fba6d1a624711ed55b:20748dd9899eadb187af8075b70bebee5a9d6d413d2072bf9b1fdd5ce5505797",
+          "source_url": "https://www.nea.gov.cn/20260107/7b3c26b1527d4283a7736680a3755a43/c.html",
+          "excerpt": "第一条 为规范能源行业公共信用信息管理，推进能源行业信用体系建设，根据《中华人民共和国能源法》等法律法规，以及《中共中央办公厅国务院办公厅关于健全社会信用体系的意见》等政策文件，结合能源行业实际，制定本办法。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "候选页面不是可用政策文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T10:17:53.102Z"
+    },
+    "a7efd455595a86b77f681932d1861753cea6b01de2834193e06339a31fbfd0f2": {
+      "title": "能源行业公共信用信息管理办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "9bfe75ef6a4b24bd0778f91dd69d71834db0fa693f4d40fba6d1a624711ed55b",
+          "version_id": "9bfe75ef6a4b24bd0778f91dd69d71834db0fa693f4d40fba6d1a624711ed55b:20748dd9899eadb187af8075b70bebee5a9d6d413d2072bf9b1fdd5ce5505797",
+          "source_url": "https://www.nea.gov.cn/20260107/7b3c26b1527d4283a7736680a3755a43/c.html",
+          "excerpt": "为贯彻落实党中央、国务院决策部署，进一步强化能源行业公共信用信息管理，推动信用信息归集、共享和应用，我局研究制定了《能源行业公共信用信息管理办法》,现予印发，自2026年5月1日起施行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T10:17:53.102Z"
     }
   }
 }
