@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T22:24:13.141Z",
+  "generated_at": "2026-11-01T02:02:07.282Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -246,7 +246,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-11-01T02:02:07.282Z"
     },
     "668c2a3cff3a424a15860b869f17144427ef346c2e9dd4c3d15e37706d9b8035": {
       "title": "省政府关于印发江苏省深化零基预算改革方案的通知",
@@ -262,7 +262,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-11-01T02:02:07.282Z"
     },
     "669dc40f21c4810d99c2aa27e64cf0510b9c1f745b67481a9fb875d07c834d80": {
       "title": "关于印发 专业技术人员职业资格考试报名证明事项告知承诺制工作规程 > 的通知",
@@ -1043,6 +1043,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-10-31T22:24:13.141Z"
+    },
+    "a3c58475713cacf36acef792577260089869b95ec9d0c896556ea32c0778a313": {
+      "title": "油气管网设施公平开放信息公开与报送办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "90ae7e84cb93b9aa403d08d23bb246c81d9cef051dca3a5395e1bbc3a848560d",
+          "version_id": "90ae7e84cb93b9aa403d08d23bb246c81d9cef051dca3a5395e1bbc3a848560d:8ec6ea94277e2e0362e0045e4c99367d1ebb6c4dab7a77ee4d136522231f4621",
+          "source_url": "http://www.nea.gov.cn/20260909/22d62e1a042a420c846f7598589136e2/c.html",
+          "excerpt": "为落实《中华人民共和国能源法》《油气管网设施公平开放监管办法》有关要求，进一步规范油气管网设施运营企业信息公开与报送行为，我们制定了《油气管网设施公平开放信息公开与报送办法》，现印发给你们，请遵照执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "同名官方候选不唯一，版本待核实",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T02:02:07.282Z"
+    },
+    "a9b9203aca30fd9234eff0bd736b3b6585222af3eaaca06e86bcffa9a577cad6": {
+      "title": "油气管网设施公平开放监管办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "90ae7e84cb93b9aa403d08d23bb246c81d9cef051dca3a5395e1bbc3a848560d",
+          "version_id": "90ae7e84cb93b9aa403d08d23bb246c81d9cef051dca3a5395e1bbc3a848560d:8ec6ea94277e2e0362e0045e4c99367d1ebb6c4dab7a77ee4d136522231f4621",
+          "source_url": "http://www.nea.gov.cn/20260909/22d62e1a042a420c846f7598589136e2/c.html",
+          "excerpt": "为落实《中华人民共和国能源法》《油气管网设施公平开放监管办法》有关要求，进一步规范油气管网设施运营企业信息公开与报送行为，我们制定了《油气管网设施公平开放信息公开与报送办法》，现印发给你们，请遵照执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T02:02:07.282Z"
     }
   }
 }
