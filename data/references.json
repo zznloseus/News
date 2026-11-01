@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T17:05:07.499Z",
+  "generated_at": "2026-11-01T21:55:08.269Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -310,7 +310,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-11-01T21:55:08.269Z"
     },
     "6f89d260f45042876856fba5cd9bfe238c74ad06c81206e238a83021fe2eb17d": {
       "title": "关于推动历史经典产业高质量发展的意见",
@@ -326,7 +326,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-11-01T21:55:08.269Z"
     },
     "7d7481ff45b351417327e76709bed0417485167acb4494e71ed8d40bc916e1a4": {
       "title": "交通强国建设纲要",
@@ -342,7 +342,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-11-01T21:55:08.269Z"
     },
     "8f49c1ac1d5341e644e5c3a04649dcc4c401982ca57aabf33641cb40ca49eb4b": {
       "title": "全国统一电力市场信用评价指引（征求意见稿）",
@@ -1187,6 +1187,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-01T17:05:07.499Z"
+    },
+    "ae41f934435eaf27b4eacee19d2bc2954f0332e125258f22c4f925428e983d89": {
+      "title": "新型电力系统建设“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "fd7658dc4f9e43f94c061979577ae7803b4ab3a6aac22910b5889ab10da6bdbd",
+          "version_id": "fd7658dc4f9e43f94c061979577ae7803b4ab3a6aac22910b5889ab10da6bdbd:6675c15d2d2fcd9310ba764192422cc19cf2b246061560bcf9a9902c919a53c7",
+          "source_url": "http://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html",
+          "excerpt": "煤电与新能源融合是推进煤电行业节能降碳工作的重要抓手，是促进新能源消纳的有效手段。为贯彻中共中央办公厅、国务院办公厅《关于更高水平更高质量做好节能降碳工作的意见》，落实《新型电力系统建设“十五五”规划》，推动煤电与新能源融合发展，现提出以下实施意见。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T21:55:08.269Z"
     }
   }
 }
