@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T10:17:53.102Z",
+  "generated_at": "2026-11-01T17:05:07.499Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -278,7 +278,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T01:54:10.964Z"
+      "checked_at": "2026-11-01T17:05:07.499Z"
     },
     "6c2d9176cba59455f654289c0006045fe3359049692e07841d398232c5b26394": {
       "title": "消耗臭氧层物质管理条例",
@@ -1139,6 +1139,54 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-01T10:17:53.102Z"
+    },
+    "26dce0beb16dc7df0c898206ccff515d0a12776b4d6a298aa93d58aca5b3efa3": {
+      "title": "能源领域首台（套）重大技术装备评定和评价办法",
+      "document_no": "国能发科技〔2022〕81号",
+      "citations": [
+        {
+          "article_id": "fd4e4a4242b589c830aa3516a5753b099162325a15fa77385934c5f06f861d44",
+          "version_id": "fd4e4a4242b589c830aa3516a5753b099162325a15fa77385934c5f06f861d44:092152171691c423ab8c74de054fbf0361599c13390437a3b7956a3da4928f37",
+          "source_url": "https://www.nea.gov.cn/20260209/852658bf1dab460bacbedb630493bc9c/c.html",
+          "excerpt": "全新战略和创新驱动发展战略，落实《中华人民共和国能源法》关于“国家支持依托重大工程集中开展科技攻关和集成应用示范”的有关部署，按照《关于促进能源领域首台（套）重大技术装备示范应用的通知》（国能发科技〔2018〕49号）和《能源领域首台（套）重大技术装备评定和评价办法》（国能发科技〔2022〕81号，以下简称《评价办法》），现组织开展第六批能源领域首台（套）重大技术装备申报工作。具体事项通知如下。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T17:05:07.499Z"
+    },
+    "32ea4246db0535aabf1d574b234a63b2d1102c16800403bc0fc46d3bc985b638": {
+      "title": "关于促进能源领域首台（套）重大技术装备示范应用的通知",
+      "document_no": "国能发科技〔2018〕49号",
+      "citations": [
+        {
+          "article_id": "fd4e4a4242b589c830aa3516a5753b099162325a15fa77385934c5f06f861d44",
+          "version_id": "fd4e4a4242b589c830aa3516a5753b099162325a15fa77385934c5f06f861d44:092152171691c423ab8c74de054fbf0361599c13390437a3b7956a3da4928f37",
+          "source_url": "https://www.nea.gov.cn/20260209/852658bf1dab460bacbedb630493bc9c/c.html",
+          "excerpt": "为深入贯彻“四个革命、一个合作”能源安全新战略和创新驱动发展战略，落实《中华人民共和国能源法》关于“国家支持依托重大工程集中开展科技攻关和集成应用示范”的有关部署，按照《关于促进能源领域首台（套）重大技术装备示范应用的通知》（国能发科技〔2018〕49号）和《能源领域首台（套）重大技术装备评定和评价办法》（国能发科技〔2022〕81号，以下简称《评价办法》），现组织开展第六批能源领域首台（套）重大技术装备申报工作。具体事项通知如下。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T17:05:07.499Z"
+    },
+    "c477eb9230f17f781b9e9daa88d43c801b8d49db891b31255cdab01ffc815e21": {
+      "title": "中国共产党巡视工作条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "ecef2f78c6034bb5cb813342ce84e477216aafd2a5b9acff70eba4f43dec2484",
+          "version_id": "ecef2f78c6034bb5cb813342ce84e477216aafd2a5b9acff70eba4f43dec2484:2be8e7378e3f418b9d1cd28da3b3de79c49fca7d725e7834ae2435679f174093",
+          "source_url": "https://www.nea.gov.cn/20260903/b95bac39f8fa4dada7235b671a0a2c8d/c.html",
+          "excerpt": "根据《中国共产党巡视工作条例》规定，巡视组主要受理反映被巡视党组织领导班子及其成员和重要岗位领导干部问题的来信来电，重点是关于违反政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律和生活纪律方面的情况。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-01T17:05:07.499Z"
     }
   }
 }
