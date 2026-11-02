@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T09:11:23.405Z",
+  "generated_at": "2026-11-02T20:10:19.664Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -550,7 +550,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:01:41.057Z"
+      "checked_at": "2026-11-02T20:10:19.664Z"
     },
     "1e0ad281ec736ea6edfb5841f6dbffd1ed6c139442e7dc05c317a517323d0f55": {
       "title": "商务部等7部门关于提质增效实施2026年消费品以旧换新政策的通知",
@@ -566,7 +566,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:01:41.057Z"
+      "checked_at": "2026-11-02T20:10:19.664Z"
     },
     "3654b8c91ed0afaf161aad3ee774ef1116375ba8a06a14db00f461d5085ef5b1": {
       "title": "国务院关于印发实施〈中华人民共和国促进科技成果转化法〉若干规定的通知",
@@ -582,7 +582,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:01:41.057Z"
+      "checked_at": "2026-11-02T20:10:19.664Z"
     },
     "4b05d5e441c1c7e948a67167cf7644255c5b862c744c2fb152fcf4c166d57b1b": {
       "title": "教育强国建设规划纲要（2024—2035年）",
@@ -598,7 +598,7 @@
       "status": "unresolved",
       "message": "候选正文标题或文号未通过核验",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:06:14.270Z"
+      "checked_at": "2026-11-02T20:10:19.664Z"
     },
     "5563c7a09cc9ece38fb3b35489bae2339ae964034a1617688e55444cfd156b15": {
       "title": "国务院关于推进服务业扩能提质的意见",
