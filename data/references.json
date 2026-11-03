@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T20:10:19.664Z",
+  "generated_at": "2026-11-03T02:52:10.150Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -641,12 +641,24 @@
           "version_id": "21736526f5fc17ef0220848936f00cb9d761728f32b8ce4f2e703a98379908f0:e9e2c5485d63a8fe1c862a6c218a1453e311c403d427655732648f1bf0dc7d2d",
           "source_url": "https://www.gov.cn/zhengce/content/202606/content_7073640.htm",
           "excerpt": "为加快建设教育强国，根据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》和《教育强国建设规划纲要（2024—2035年）》，制定本规划。"
+        },
+        {
+          "article_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31",
+          "version_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "source_url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
+          "excerpt": "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。"
+        },
+        {
+          "article_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85",
+          "version_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "source_url": "http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
+          "excerpt": "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:06:14.270Z"
+      "checked_at": "2026-11-03T02:52:10.150Z"
     },
     "0e13bf0c1d78970e798e4d5a072658787209cf1c1d5fe0b8867694f3f4238407": {
       "title": "吉林省旅居养老服务机构认定暂行办法",
@@ -662,7 +674,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:32:46.762Z"
+      "checked_at": "2026-11-03T02:52:10.150Z"
     },
     "23422e0f4ca27838b876403851607cd3fceded003792cfdd9d0678c0f47ed5c5": {
       "title": "知识产权强国建设纲要（2021—2035年）",
@@ -678,7 +690,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:32:46.762Z"
+      "checked_at": "2026-11-03T02:52:10.150Z"
     },
     "744b8c059f65036f0dcbacb3f14037fac2f219dba0ca14184591e88a91c7fe61": {
       "title": "知识产权保护和运用“十五五”规划",
@@ -694,7 +706,7 @@
       "status": "unresolved",
       "message": "候选正文标题或文号未通过核验",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:32:46.762Z"
+      "checked_at": "2026-11-03T02:52:10.150Z"
     },
     "81037d356f8b7623e22d2faafaa637157b3af22cbe4fc1e1db91cc040e4e94e6": {
       "title": "黑龙江省通信管理局 黑龙江省财政厅关于印发〈黑龙江省支持信息通信业加快发展若干措施〉的通知",
