@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T02:52:09.870Z",
+  "generated_at": "2026-11-03T03:52:25.845Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1160,9 +1160,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T21:54:59.674Z",
+        "captured_at": "2026-11-03T03:52:22.887Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7190,7 +7190,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T17:05:02.396Z",
+        "captured_at": "2026-11-03T03:52:21.616Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7205,7 +7205,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T17:05:02.397Z",
+        "captured_at": "2026-11-03T03:52:21.619Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7220,7 +7220,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T17:05:03.306Z",
+        "captured_at": "2026-11-03T03:52:21.832Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7235,9 +7235,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T17:05:04.543Z",
+        "captured_at": "2026-11-03T03:52:21.834Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -7250,7 +7250,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T17:05:04.545Z",
+        "captured_at": "2026-11-03T03:52:21.837Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7265,7 +7265,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T17:05:05.393Z",
+        "captured_at": "2026-11-03T03:52:22.601Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7745,7 +7745,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-01T21:54:59.907Z",
+        "captured_at": "2026-11-03T03:52:24.338Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -9889,6 +9889,84 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-03T02:52:09.870Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289": {
+      "article_id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_fe5c039608c74784be417b1f986f202d.html",
+      "versions": [
+        {
+          "id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289:5c1cbaaaa39eb38b30334c6ccce89bf248c6e931997c157dbae24ee53a214427",
+          "content_hash": "5c1cbaaaa39eb38b30334c6ccce89bf248c6e931997c157dbae24ee53a214427",
+          "captured_at": "2026-11-03T03:52:23.643Z",
+          "status": "text",
+          "text": "近日，经辽宁省政府常务会审议通过，辽宁省通信管理局正式发布《辽宁省信息通信行业发展“十五五”规划》（以下简称《规划》）。《规划》依据《辽宁省国民经济和社会发展第十五个五年规划纲要》、工业和信息化部《信息通信行业发展“十五五”规划》编制。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入学习贯彻习近平总书记对辽宁振兴发展的重要讲话和重要指示精神，牢牢把握高质量发展这个首要任务，夯实信息基础设施底座，建强产业生态，优化行业治理，筑牢安全防线，深化数实融合应用，不断巩固提升信息通信业竞争优势和领先地位。\n\n《规划》围绕加快新型信息基础设施建设布局、提升行业监管和服务现代化水平、增强网络与数据安全保障能力、全面推进各领域数智化融合应用4个部分，部署了17项重点任务及7项专栏工程，构建涵盖行业发展、绿色发展、能力建设、应用普及共13项量化指标体系。\n\n《规划》提出，到2030年，全省信息通信业整体水平全面提升，建成覆盖完善、性能领先的新一代通信网，算力基础设施供给能力显著增强，技术产业创新成效凸显，行业治理体系敏捷高效，安全保障能力全面加强，行业融合赋能水平进一步提升。行业现代化迈出坚实步伐，有力支撑辽宁全面振兴取得新的更大突破，为到2035年基本实现信息通信行业现代化奠定坚实基础。\n\n下一步，辽宁省通信管理局将从健全统筹协调推进机制、加强要素资源保障支撑、建强高素质专业化队伍、强化规划落地实施保障等方面扎实做好《规划》宣贯落地，加快发展新质生产力，加快推进新型工业化，奋力谱写中国式现代化辽宁篇章。",
+          "paragraphs": [
+            "近日，经辽宁省政府常务会审议通过，辽宁省通信管理局正式发布《辽宁省信息通信行业发展“十五五”规划》（以下简称《规划》）。《规划》依据《辽宁省国民经济和社会发展第十五个五年规划纲要》、工业和信息化部《信息通信行业发展“十五五”规划》编制。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入学习贯彻习近平总书记对辽宁振兴发展的重要讲话和重要指示精神，牢牢把握高质量发展这个首要任务，夯实信息基础设施底座，建强产业生态，优化行业治理，筑牢安全防线，深化数实融合应用，不断巩固提升信息通信业竞争优势和领先地位。",
+            "《规划》围绕加快新型信息基础设施建设布局、提升行业监管和服务现代化水平、增强网络与数据安全保障能力、全面推进各领域数智化融合应用4个部分，部署了17项重点任务及7项专栏工程，构建涵盖行业发展、绿色发展、能力建设、应用普及共13项量化指标体系。",
+            "《规划》提出，到2030年，全省信息通信业整体水平全面提升，建成覆盖完善、性能领先的新一代通信网，算力基础设施供给能力显著增强，技术产业创新成效凸显，行业治理体系敏捷高效，安全保障能力全面加强，行业融合赋能水平进一步提升。行业现代化迈出坚实步伐，有力支撑辽宁全面振兴取得新的更大突破，为到2035年基本实现信息通信行业现代化奠定坚实基础。",
+            "下一步，辽宁省通信管理局将从健全统筹协调推进机制、加强要素资源保障支撑、建强高素质专业化队伍、强化规划落地实施保障等方面扎实做好《规划》宣贯落地，加快发展新质生产力，加快推进新型工业化，奋力谱写中国式现代化辽宁篇章。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289:5c1cbaaaa39eb38b30334c6ccce89bf248c6e931997c157dbae24ee53a214427",
+      "latest_captured_at": "2026-11-03T03:52:23.643Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-03T03:52:23.643Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "741d15e89962fc0f600e56fcfba740504714baa420d3ebeb0096dbb8bd3ece2e": {
+      "article_id": "741d15e89962fc0f600e56fcfba740504714baa420d3ebeb0096dbb8bd3ece2e",
+      "source_id": "samr",
+      "source_url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_f416cea5ade9492dbbcc893261f554ce.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-03T03:52:25.301Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "a62b7b82db914f532d376219c8838cefa6edb1f2138b1e26d3d68a5cc7ab5f28": {
+      "article_id": "a62b7b82db914f532d376219c8838cefa6edb1f2138b1e26d3d68a5cc7ab5f28",
+      "source_id": "samr",
+      "source_url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_68185d006b7742beaa47c19fa487699e.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-03T03:52:25.568Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "eeb88b32d7c4310fd8f3300ef80a23a822441155cf9a4a7a045ce3d8c5ab45e2": {
+      "article_id": "eeb88b32d7c4310fd8f3300ef80a23a822441155cf9a4a7a045ce3d8c5ab45e2",
+      "source_id": "samr",
+      "source_url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_b41ff389fdd8435a9d9d7b23a326c437.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-03T03:52:25.845Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },

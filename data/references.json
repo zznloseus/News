@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T02:52:10.150Z",
+  "generated_at": "2026-11-03T03:52:26.068Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -722,7 +722,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T02:32:46.762Z"
+      "checked_at": "2026-11-03T03:52:26.068Z"
     },
     "8bd6d981f00543e368db1fdf7a4d9595f01c1b006b4f2178b45ce5c1c9bf76a1": {
       "title": "产业基础能力提升“十五五”规划",
@@ -733,12 +733,18 @@
           "version_id": "b68b944f66c99d9cb703c3cb390a35890e7fe1bbbfd970a43e8325d13aa23c31:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
           "source_url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
           "excerpt": "产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。"
+        },
+        {
+          "article_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85",
+          "version_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
+          "source_url": "http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
+          "excerpt": "产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T08:25:34.736Z"
+      "checked_at": "2026-11-03T03:52:26.068Z"
     },
     "8e122aadef103f8243aad15a29db1b49b3837f3cf8a4042e800d6d4e9f00c43c": {
       "title": "黑龙江省支持信息通信业加快发展若干措施实施细则",
@@ -1215,6 +1221,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-01T21:55:08.269Z"
+    },
+    "53403bf916c07e32121b4a238c0706aebafb5bd350571a15d9d69a3477e4c298": {
+      "title": "辽宁省国民经济和社会发展第十五个五年规划纲要",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289",
+          "version_id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289:5c1cbaaaa39eb38b30334c6ccce89bf248c6e931997c157dbae24ee53a214427",
+          "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_fe5c039608c74784be417b1f986f202d.html",
+          "excerpt": "近日，经辽宁省政府常务会审议通过，辽宁省通信管理局正式发布《辽宁省信息通信行业发展“十五五”规划》（以下简称《规划》）。《规划》依据《辽宁省国民经济和社会发展第十五个五年规划纲要》、工业和信息化部《信息通信行业发展“十五五”规划》编制。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入学习贯彻习近平总书记对辽宁振兴发展的重要讲话和重要指示精神，牢牢把握高质量发展这个首要任务，夯实信息基础设施底座，建强产业生态，优化行业治理"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-03T03:52:26.068Z"
+    },
+    "a09fe4ccff6f6b70f305825b936f1db25ebbaf2decfa3f4bff5eb1b404f92d9e": {
+      "title": "信息通信行业发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289",
+          "version_id": "c3601a29ee7dbf1cc81e824332285f3b2985355074edc92c6a3a26dfede46289:5c1cbaaaa39eb38b30334c6ccce89bf248c6e931997c157dbae24ee53a214427",
+          "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_fe5c039608c74784be417b1f986f202d.html",
+          "excerpt": "近日，经辽宁省政府常务会审议通过，辽宁省通信管理局正式发布《辽宁省信息通信行业发展“十五五”规划》（以下简称《规划》）。《规划》依据《辽宁省国民经济和社会发展第十五个五年规划纲要》、工业和信息化部《信息通信行业发展“十五五”规划》编制。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入学习贯彻习近平总书记对辽宁振兴发展的重要讲话和重要指示精神，牢牢把握高质量发展这个首要任务，夯实信息基础设施底座，建强产业生态，优化行业治理，筑牢安全防线，深化数实融合应用，不断巩固提升信息"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-03T03:52:26.068Z"
     }
   }
 }
