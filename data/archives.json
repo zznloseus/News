@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T10:41:14.419Z",
+  "generated_at": "2026-11-03T18:21:55.252Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -3063,7 +3063,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T01:25:11.697Z",
+        "captured_at": "2026-11-03T18:21:51.316Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3078,7 +3078,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T01:25:13.273Z",
+        "captured_at": "2026-11-03T18:21:52.304Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3239,7 +3239,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T09:11:13.983Z",
+        "captured_at": "2026-11-03T18:21:53.483Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -3757,7 +3757,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T09:11:13.984Z",
+        "captured_at": "2026-11-03T18:21:53.484Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3899,7 +3899,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T01:25:11.699Z",
+        "captured_at": "2026-11-03T18:21:51.319Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7605,7 +7605,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T01:25:11.691Z",
+        "captured_at": "2026-11-03T18:21:51.312Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -7620,7 +7620,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T01:25:11.693Z",
+        "captured_at": "2026-11-03T18:21:51.314Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7896,7 +7896,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-02T01:25:13.272Z",
+        "captured_at": "2026-11-03T18:21:52.302Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -10207,6 +10207,107 @@
         "captured_at": "2026-11-03T10:41:14.419Z",
         "status": "text",
         "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "174a697e6443b9804ff6dbe16505bca4fcf793840c1ea8b33b374d3890f2a74d": {
+      "article_id": "174a697e6443b9804ff6dbe16505bca4fcf793840c1ea8b33b374d3890f2a74d",
+      "source_id": "beijing",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261103_4930094.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-03T18:21:51.309Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "d95d805ea9302d5f48259f445a3efc8d726cdd8c1e223121a37621d651f934c1": {
+      "article_id": "d95d805ea9302d5f48259f445a3efc8d726cdd8c1e223121a37621d651f934c1",
+      "source_id": "hljca",
+      "source_url": "https://hljca.miit.gov.cn/zwgk/txfzgl/art/2023/art_4fb967c7b6e047e4b6d2abbe32b58221.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-03T18:21:54.698Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "db606e4e24092a6dba190b1d10cbdca391058663a4baed929f5374ef2406c080": {
+      "article_id": "db606e4e24092a6dba190b1d10cbdca391058663a4baed929f5374ef2406c080",
+      "source_id": "hljca",
+      "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_795bca686be54c7aa36e5632785fd6c6.html",
+      "versions": [
+        {
+          "id": "db606e4e24092a6dba190b1d10cbdca391058663a4baed929f5374ef2406c080:c1ddfde1039521004e5370a786f9a93aa3a852a8779d1045f06ed16385f3eda2",
+          "content_hash": "c1ddfde1039521004e5370a786f9a93aa3a852a8779d1045f06ed16385f3eda2",
+          "captured_at": "2026-11-03T18:21:54.981Z",
+          "status": "partial",
+          "text": "为科学谋划我省信息通信行业未来五年发展，加快构建新型数字基础设施，赋能千行百业数字化转型，我局组织起草了《黑龙江省“十五五”信息通信行业发展规划（征求意见稿）》，现向社会公开征求意见，意见反馈截止时间为2026年5月21日。\n\n附件： 《黑龙江省“十五五”信息通信行业发展规划（征求意见稿）》.pdf &#xa0;\n\n联系人：李默涵\n\n联系电话：0451-53005821\n\n电子邮箱：hljtxygh@163.com\n\n黑龙江省通信管理局\n\n&#xa0; 2026年5月11日",
+          "paragraphs": [
+            "为科学谋划我省信息通信行业未来五年发展，加快构建新型数字基础设施，赋能千行百业数字化转型，我局组织起草了《黑龙江省“十五五”信息通信行业发展规划（征求意见稿）》，现向社会公开征求意见，意见反馈截止时间为2026年5月21日。",
+            "附件： 《黑龙江省“十五五”信息通信行业发展规划（征求意见稿）》.pdf &#xa0;",
+            "联系人：李默涵",
+            "联系电话：0451-53005821",
+            "电子邮箱：hljtxygh@163.com",
+            "黑龙江省通信管理局",
+            "&#xa0; 2026年5月11日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "db606e4e24092a6dba190b1d10cbdca391058663a4baed929f5374ef2406c080:c1ddfde1039521004e5370a786f9a93aa3a852a8779d1045f06ed16385f3eda2",
+      "latest_captured_at": "2026-11-03T18:21:54.981Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-03T18:21:54.981Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "dc0c8829f56102c12692fc994362ef81f9b29a1ec62b22fc21e45b0f4023d39e": {
+      "article_id": "dc0c8829f56102c12692fc994362ef81f9b29a1ec62b22fc21e45b0f4023d39e",
+      "source_id": "hljca",
+      "source_url": "https://hljca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_96c3cc43043d480b84e7fd4d6879ee08.html",
+      "versions": [
+        {
+          "id": "dc0c8829f56102c12692fc994362ef81f9b29a1ec62b22fc21e45b0f4023d39e:685e1c36b2fb38a5af69d12892deeeb1ee8e533c4f123ef7eaf281f476248e36",
+          "content_hash": "685e1c36b2fb38a5af69d12892deeeb1ee8e533c4f123ef7eaf281f476248e36",
+          "captured_at": "2026-11-03T18:21:55.252Z",
+          "status": "partial",
+          "text": "工信部规〔2026〕188号\n\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门，各省、自治区、直辖市通信管理局，部直属单位，有关行业协会，有关企业：\n\n现将《信息通信行业发展“十五五”规划》印发给你们，请结合实际，认真贯彻实施。\n\n附件： 信息通信行业发展“十五五”规划.pdf &#xa0;\n\n工业和信息化部\n\n2026年8月12日",
+          "paragraphs": [
+            "工信部规〔2026〕188号",
+            "各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化主管部门，各省、自治区、直辖市通信管理局，部直属单位，有关行业协会，有关企业：",
+            "现将《信息通信行业发展“十五五”规划》印发给你们，请结合实际，认真贯彻实施。",
+            "附件： 信息通信行业发展“十五五”规划.pdf &#xa0;",
+            "工业和信息化部",
+            "2026年8月12日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "工信部规〔2026〕188号"
+        }
+      ],
+      "latest_version_id": "dc0c8829f56102c12692fc994362ef81f9b29a1ec62b22fc21e45b0f4023d39e:685e1c36b2fb38a5af69d12892deeeb1ee8e533c4f123ef7eaf281f476248e36",
+      "latest_captured_at": "2026-11-03T18:21:55.252Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-03T18:21:55.252Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
       },
       "reference_links": []
     }
