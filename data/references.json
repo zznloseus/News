@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T03:52:26.068Z",
+  "generated_at": "2026-11-03T10:41:14.595Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -760,7 +760,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T08:25:34.736Z"
+      "checked_at": "2026-11-03T10:41:14.595Z"
     },
     "a62493370b97a3a8020a842a2e1ccfd4eca8e207da75e4329b05dcd3bc55f7dc": {
       "title": "2026年黑龙江省智能家居（家庭网关、千兆全光组网设备和路由器）购新补贴实施细则",
@@ -776,7 +776,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T08:25:34.736Z"
+      "checked_at": "2026-11-03T10:41:14.595Z"
     },
     "ae544aa58cdac58288f45b05d4c5c79f4c88001e820c60457aafe0eae57ee150": {
       "title": "国务院办公厅关于印发职业技能提升行动方案（2019—2021年）的通知",
@@ -792,7 +792,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-30T08:25:34.736Z"
+      "checked_at": "2026-11-03T10:41:14.595Z"
     },
     "bfef433b6611a12664d132931410ddd47bf9aadaa0f2ebedf5a4cd9ea8997a04": {
       "title": "国家能源局关于印发〈可再生能源绿色电力证书核发和交易规则〉的通知",
@@ -1253,6 +1253,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-03T03:52:26.068Z"
+    },
+    "893a5c17bda7561b58cb86220dbbfd7193c3ec6111c78e3156cf60c93450e3eb": {
+      "title": "关于组织建立信息通信业“走出去”企业信息库的通知",
+      "document_no": "工通信函〔2026〕276号",
+      "citations": [
+        {
+          "article_id": "7a4dd97deca90b7342073f7912b2cd6de4059f865676e6aa6b7ccdd8eba9f5f0",
+          "version_id": "7a4dd97deca90b7342073f7912b2cd6de4059f865676e6aa6b7ccdd8eba9f5f0:aee89dd0a29d89092f1e2fa1ec9e524034acac9088af237cbd90b8522148948a",
+          "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_d6908e2c9107440bbdcd5c3efabbec71.html",
+          "excerpt": "为支持信息通信企业有序海外布局，提升信息通信业国际化发展水平，助力构建国内国际双循环相互促进的新发展格局，我局按照工业和信息化部信息通信发展司印发的《关于组织建立信息通信业“走出去”企业信息库的通知》（工通信函〔2026〕276号）有关要求，现组织我省“走出去”企业信息库申报工作。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-03T10:41:14.595Z"
     }
   }
 }
