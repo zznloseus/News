@@ -11,6 +11,7 @@ export function readerVersions(record,bookmark){
 export function currentReaderVersion(record,bookmark){
  return record?.versions?.length?latestArchiveVersion(record):latestArchiveVersion(bookmark);
 }
-export const readerDraftKey=({editing='',versionId='',quote=''})=>JSON.stringify([editing,versionId,quote]);
+/** @param {{editing?:string,versionId?:string,quote?:string,quoteStart?:number|null}} context */
+export const readerDraftKey=({editing='',versionId='',quote='',quoteStart=null})=>JSON.stringify([editing,versionId,quote,quoteStart]);
 // Unfinished text survives switching articles/views in this visit. It is never published.
 export const readerDrafts=new Map();

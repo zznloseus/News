@@ -3,7 +3,7 @@ import type {Article} from './types';
 import * as helpers from '../lib/library.mjs';
 export type ArchiveVersion={id:string;content_hash:string;captured_at:string;status:'text'|'partial';text:string;paragraphs:string[];issuer:string|null;region:string|null;title?:string|null;document_no?:string|null};
 export type BookmarkRecord={article:Article;saved_at:string;versions:ArchiveVersion[];latest_version_id?:string|null;latest_captured_at?:string|null;latest_status?:'text'|'partial'|null};
-export type LibraryNote={id:string;article_id:string;version_id:string|null;quote:string;text:string;created_at:string;updated_at:string;deleted_at:string|null};
+export type LibraryNote={id:string;article_id:string;version_id:string|null;quote:string;quote_start?:number;text:string;created_at:string;updated_at:string;deleted_at:string|null};
 export type PrivateLibraryState={schema_version:1;bookmarks:BookmarkRecord[];notes:LibraryNote[];legacy_migrated:boolean};
 export type PrivateLibraryStore={read:()=>Promise<PrivateLibraryState>;update:(mutator:(state:PrivateLibraryState)=>PrivateLibraryState)=>Promise<PrivateLibraryState>;exportBackup:()=>Promise<string>;importBackup:(text:string)=>Promise<PrivateLibraryState>;recoverRaw:()=>Promise<unknown>;replaceForRecovery:(state:PrivateLibraryState)=>Promise<PrivateLibraryState>;close:()=>void};
 export const openPrivateLibrary=open as unknown as (options?:{indexedDB?:IDBFactory;legacyStorage?:Storage;databaseName?:string})=>Promise<PrivateLibraryStore>;
