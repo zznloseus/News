@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T23:57:01.103Z",
+  "generated_at": "2026-11-04T05:51:47.196Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -942,7 +942,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T00:37:37.364Z"
+      "checked_at": "2026-11-04T05:51:47.196Z"
     },
     "f1badef3a88781038542fedddc31393be1055dfb91ef5752ed390bc533bb512f": {
       "title": "中华人民共和国民用核设施安全监督管理条例",
@@ -964,7 +964,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T00:37:37.364Z"
+      "checked_at": "2026-11-04T05:51:47.196Z"
     },
     "f275b3a4ea30935528ac41587981ed57b4df343edcc4ae65041177dfca764eab": {
       "title": "关于核定通信专业技术人员职业水平考试收费标准的通知",
@@ -980,7 +980,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T00:37:37.364Z"
+      "checked_at": "2026-11-04T05:51:47.196Z"
     },
     "f55030d0dcab765faab4b8b22389ceee5dbd6e8a21c4e145761f76b16996d298": {
       "title": "黑龙江省关于消费品以旧换新地方自主品类实施补贴政策工作的通知",
@@ -996,7 +996,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T00:37:37.364Z"
+      "checked_at": "2026-11-04T05:51:47.196Z"
     },
     "fc08f2a4b2013f0b87405323c2282ef614bcde8b3ea93293889217ba8df0acd3": {
       "title": "江苏省国民经济和社会发展第十五个五年规划纲要",
