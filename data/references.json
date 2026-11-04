@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T05:51:47.196Z",
+  "generated_at": "2026-11-04T14:11:00.386Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -16,7 +16,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T06:51:07.101Z"
+      "checked_at": "2026-11-04T14:11:00.386Z"
     },
     "14c44edf6408840d004d05cbb1ece76212453ee990ad52791c7c06d3c53c66b2": {
       "title": "党政机关厉行节约反对浪费条例",
@@ -32,7 +32,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T06:51:07.101Z"
+      "checked_at": "2026-11-04T14:11:00.386Z"
     },
     "21eda5921b379674f6f664ba5910237a3de309afc9ff44a5f5d78b27a8b18bd0": {
       "title": "内蒙古自治区人民政府关于印发<内蒙古自治区国民经济和社会发展第十五个五年规划纲要>的通知",
@@ -48,7 +48,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T06:51:07.101Z"
+      "checked_at": "2026-11-04T14:11:00.386Z"
     },
     "23640c4e8d13014b8970cdfc0cf46ee1ba1ef1ff0146883e7d5489996b850a15": {
       "title": "关于资格考试工作中有关问题的通知",
@@ -1012,7 +1012,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T06:51:07.101Z"
+      "checked_at": "2026-11-04T14:11:00.386Z"
     },
     "32c9d9dc7179de7d79432c76d83ff4cf3e94349c739a89638b5b7d75bc8a1933": {
       "title": "公共企事业单位信息公开规定制定办法",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T05:51:47.003Z",
+  "generated_at": "2026-11-04T14:11:00.105Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1160,9 +1160,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:22.887Z",
+        "captured_at": "2026-11-04T14:10:54.259Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -5113,7 +5113,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T10:41:12.228Z",
+        "captured_at": "2026-11-04T14:10:54.261Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7190,9 +7190,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:21.616Z",
+        "captured_at": "2026-11-04T14:10:43.837Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -7205,9 +7205,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:21.619Z",
+        "captured_at": "2026-11-04T14:10:43.840Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -7220,9 +7220,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:21.832Z",
+        "captured_at": "2026-11-04T14:10:43.842Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -7235,9 +7235,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:21.834Z",
+        "captured_at": "2026-11-04T14:10:54.251Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "fetch failed"
       },
       "reference_links": []
     },
@@ -7250,7 +7250,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:21.837Z",
+        "captured_at": "2026-11-04T14:10:54.254Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7265,9 +7265,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T03:52:22.601Z",
+        "captured_at": "2026-11-04T14:10:54.256Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -10473,6 +10473,84 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-04T05:51:47.003Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "73189132ae2aa763253c9af30a206e48127bb658f9cab13e58f86f7c50c9cf0d": {
+      "article_id": "73189132ae2aa763253c9af30a206e48127bb658f9cab13e58f86f7c50c9cf0d",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_fda9cc7c938e434b93d8df886fd10dd2.html",
+      "versions": [
+        {
+          "id": "73189132ae2aa763253c9af30a206e48127bb658f9cab13e58f86f7c50c9cf0d:b2e24640da4b66b1f1acb8c7e18a44ff8fbfa4c1e627f3a8f4fc80a3c7f7e327",
+          "content_hash": "b2e24640da4b66b1f1acb8c7e18a44ff8fbfa4c1e627f3a8f4fc80a3c7f7e327",
+          "captured_at": "2026-11-04T14:10:58.791Z",
+          "status": "text",
+          "text": "近日，河北省通信管理局正式发布《河北省信息通信行业发展“十五五”规划》（以下简称《规划》）。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入贯彻习近平总书记关于网络强国的重要思想和关于制造强国、新型工业化的重要论述，认真贯彻落实习近平总书记考察河北重要讲话和重要指示精神，围绕工业和信息化部、河北省委省政府关于“十五五”时期工作的系列部署，统筹谋划“十五五”时期河北省信息通信行业发展。\n\n《规划》以坚持人民至上、坚持创新引领、坚持融合发展、坚持均衡协调、坚持安全可靠为基本原则，明确到2030年，全省全面建成覆盖完善、性能领先的新一代通信网，行业现代化迈出坚实步伐，为2035年河北基本实现信息通信行业现代化奠定坚实基础。\n\n《规划》围绕经济效益及业务量、行业绿色发展、供给能力建设、应用普及与赋能等方面科学制定并提出了“十五五”时期河北省信息通信行业发展的11项重点目标，确定了推进信息基础设施升级、拓展行业赋能和融合应用、深化国家战略实施和区域协同发展、优化行业治理体系、提升网络和数据安全风险防范应对能力等5大方面的22项重点任务及10项重点工程，为“十五五”时期河北省信息通信行业发展明确了方向。\n\n下一步，河北省通信管理局将围绕全面提升党建引领作用、营造协同多元发展环境、加大政策资金支持、加强人才队伍建设、强化规划统筹和落地实施等五个方面持续发力，确保《规划》确定的目标任务如期完成，以信息通信行业高质量发展助力“十五五”时期河北经济社会高质量发展。",
+          "paragraphs": [
+            "近日，河北省通信管理局正式发布《河北省信息通信行业发展“十五五”规划》（以下简称《规划》）。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入贯彻习近平总书记关于网络强国的重要思想和关于制造强国、新型工业化的重要论述，认真贯彻落实习近平总书记考察河北重要讲话和重要指示精神，围绕工业和信息化部、河北省委省政府关于“十五五”时期工作的系列部署，统筹谋划“十五五”时期河北省信息通信行业发展。",
+            "《规划》以坚持人民至上、坚持创新引领、坚持融合发展、坚持均衡协调、坚持安全可靠为基本原则，明确到2030年，全省全面建成覆盖完善、性能领先的新一代通信网，行业现代化迈出坚实步伐，为2035年河北基本实现信息通信行业现代化奠定坚实基础。",
+            "《规划》围绕经济效益及业务量、行业绿色发展、供给能力建设、应用普及与赋能等方面科学制定并提出了“十五五”时期河北省信息通信行业发展的11项重点目标，确定了推进信息基础设施升级、拓展行业赋能和融合应用、深化国家战略实施和区域协同发展、优化行业治理体系、提升网络和数据安全风险防范应对能力等5大方面的22项重点任务及10项重点工程，为“十五五”时期河北省信息通信行业发展明确了方向。",
+            "下一步，河北省通信管理局将围绕全面提升党建引领作用、营造协同多元发展环境、加大政策资金支持、加强人才队伍建设、强化规划统筹和落地实施等五个方面持续发力，确保《规划》确定的目标任务如期完成，以信息通信行业高质量发展助力“十五五”时期河北经济社会高质量发展。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "73189132ae2aa763253c9af30a206e48127bb658f9cab13e58f86f7c50c9cf0d:b2e24640da4b66b1f1acb8c7e18a44ff8fbfa4c1e627f3a8f4fc80a3c7f7e327",
+      "latest_captured_at": "2026-11-04T14:10:58.791Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-04T14:10:58.791Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "37ffbbc40ebf631adece905306420a5375271a7eb5ae80b2ef5f3160b492c88f": {
+      "article_id": "37ffbbc40ebf631adece905306420a5375271a7eb5ae80b2ef5f3160b492c88f",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2021/1130/20271.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-04T14:10:59.657Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "41e72bf738055eb5c94b860cd9c43ca50b4620279477e61e854478b694de38e4": {
+      "article_id": "41e72bf738055eb5c94b860cd9c43ca50b4620279477e61e854478b694de38e4",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2025/1226/26965.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-04T14:10:59.884Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "41fae1ade35188363df212b266be724afe3222856328e7e7b2de55ff81334bab": {
+      "article_id": "41fae1ade35188363df212b266be724afe3222856328e7e7b2de55ff81334bab",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2021/0201/18168.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-04T14:11:00.105Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
