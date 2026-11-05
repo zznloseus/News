@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T21:12:37.265Z",
+  "generated_at": "2026-11-05T02:08:27.991Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -144,7 +144,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T18:25:15.732Z"
+      "checked_at": "2026-11-05T02:08:27.991Z"
     },
     "5a081601a8d02f9eb711a5180572e5ee0a2857785391b77aac4cdfe635aaf1f0": {
       "title": "关于更高水平更高质量做好节能降碳工作的意见",
@@ -155,12 +155,18 @@
           "version_id": "392ef3121a6674edc0d049fc70622da13f9915ba6c18ef4188ec013a43827894:4c669e8eaa64bc038f51f4d1927f6461d8ab6f53d280bd1b1648e3df207b9177",
           "source_url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0331685d2cee4709864678ce1c7f7da2.html",
           "excerpt": "为贯彻落实中共中央办公厅、国务院办公厅《关于更高水平更高质量做好节能降碳工作的意见》《碳达峰碳中和综合评价考核办法》等工作要求，构建工业和信息化领域碳排放总量和强度双控（以下简称“碳排放双控”）工作体系，加力实施工业节能降碳工程，加快发展方式绿色低碳转型，工业和信息化部近日印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》（以下简称《实施方案》）。"
+        },
+        {
+          "article_id": "fd7658dc4f9e43f94c061979577ae7803b4ab3a6aac22910b5889ab10da6bdbd",
+          "version_id": "fd7658dc4f9e43f94c061979577ae7803b4ab3a6aac22910b5889ab10da6bdbd:6675c15d2d2fcd9310ba764192422cc19cf2b246061560bcf9a9902c919a53c7",
+          "source_url": "http://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html",
+          "excerpt": "煤电与新能源融合是推进煤电行业节能降碳工作的重要抓手，是促进新能源消纳的有效手段。为贯彻中共中央办公厅、国务院办公厅《关于更高水平更高质量做好节能降碳工作的意见》，落实《新型电力系统建设“十五五”规划》，推动煤电与新能源融合发展，现提出以下实施意见。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T18:25:15.732Z"
+      "checked_at": "2026-11-05T02:08:27.991Z"
     },
     "622d749358e331a395605bdb56ae90259c566c9041f12fd871df5c431effa53a": {
       "title": "专业技术人员资格考试违纪违规行为处理规定",
@@ -1023,12 +1029,18 @@
           "version_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
           "source_url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
           "excerpt": "为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。"
+        },
+        {
+          "article_id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc",
+          "version_id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "source_url": "http://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
+          "excerpt": "为深入贯彻落实党中央和国务院关于全面推进公共企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T18:25:15.732Z"
+      "checked_at": "2026-11-05T02:08:27.991Z"
     },
     "5e946b5c6772689db1df07b6a13eeb88133311446bea6d8add23faaf1ad5ee14": {
       "title": "供电企业信息公开实施办法",
@@ -1269,6 +1281,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-03T10:41:14.595Z"
+    },
+    "f50ce64ce869a2f947723aa6d292ac51570c04168062e991bf9358164cb024cb": {
+      "title": "云南省国民经济和社会发展第十五个五年规划纲要",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "ba5c71743ad24377fbe35ad3f8f7d928e7e1b325409023c9f02743e28aedbfa0",
+          "version_id": "ba5c71743ad24377fbe35ad3f8f7d928e7e1b325409023c9f02743e28aedbfa0:76b4a344f17bab70a74d2f63965882a752cad909f7f93a5e0ac65b73e04f81af",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261103_4380364.html",
+          "excerpt": "根据《云南省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-05T02:08:27.991Z"
     }
   }
 }
