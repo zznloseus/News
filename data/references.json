@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T02:08:27.991Z",
+  "generated_at": "2026-11-05T10:38:50.750Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -220,7 +220,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T22:24:13.141Z"
+      "checked_at": "2026-11-05T10:38:50.750Z"
     },
     "3b92823406964ee8431fb1d196332146314b0f52d42db4defa672c945ca03f88": {
       "title": "关于全国通信专业技术人员职业水平考试收费标准及有关问题的通知",
@@ -236,7 +236,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T22:24:13.141Z"
+      "checked_at": "2026-11-05T10:38:50.750Z"
     },
     "664c047564878f828daa5ddda20811d29c8f61e7f6e66f7233ac97568f48379b": {
       "title": "内蒙古自治区党委 自治区人民政府关于贯彻落实<教育强国建设规划纲要(2024—2035年)>加快建设教育强区的意见",
@@ -1051,12 +1051,18 @@
           "version_id": "612b8d29b2105c0e14354509f3bf796ae92751e47c2ec9fbecde4b85b4e50f9e:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
           "source_url": "https://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
           "excerpt": "企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。"
+        },
+        {
+          "article_id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc",
+          "version_id": "796cc3614c4325b13cf2134d74df28f75e17511bcf57f8c3bbd9b5361bae3cbc:85618f713039d6115f91fd0559f7a4997b4fadfcfc5c38a3eaf1b505c76476a2",
+          "source_url": "http://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
+          "excerpt": "企事业单位信息公开工作的决策部署，进一步提高供电企业工作透明度，切实保障广大电力用户的知情权、参与权、监督权，根据《中华人民共和国能源法》《电力监管条例》《公共企事业单位信息公开规定制定办法》等法律法规，国家能源局对现行《供电企业信息公开实施办法》（国能发监管规〔2021〕56号）进行了修订，现向社会公开征求意见。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T18:25:15.732Z"
+      "checked_at": "2026-11-05T10:38:50.750Z"
     },
     "5194ee24ed6aa0f14bf94a9f6e6a2dddf450d687f691a872c29c4ed73d9eb64f": {
       "title": "人力资源社会保障部办公厅关于做好2025年中央企业工资分配情况备案和信息披露工作的通知",
@@ -1072,7 +1078,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-10-31T22:24:13.141Z"
+      "checked_at": "2026-11-05T10:38:50.750Z"
     },
     "a3c58475713cacf36acef792577260089869b95ec9d0c896556ea32c0778a313": {
       "title": "油气管网设施公平开放信息公开与报送办法",
