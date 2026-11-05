@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T10:38:50.547Z",
+  "generated_at": "2026-11-05T18:40:24.161Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1160,9 +1160,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:54.259Z",
+        "captured_at": "2026-11-05T18:40:22.702Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7190,9 +7190,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:43.837Z",
+        "captured_at": "2026-11-05T18:40:19.199Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -7205,9 +7205,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:43.840Z",
+        "captured_at": "2026-11-05T18:40:19.201Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -7220,9 +7220,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:43.842Z",
+        "captured_at": "2026-11-05T18:40:20.597Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7235,9 +7235,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:54.251Z",
+        "captured_at": "2026-11-05T18:40:21.501Z",
         "status": "unavailable",
-        "message": "fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7250,7 +7250,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:54.254Z",
+        "captured_at": "2026-11-05T18:40:21.503Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7265,9 +7265,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T14:10:54.256Z",
+        "captured_at": "2026-11-05T18:40:22.375Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -10770,6 +10770,127 @@
         "captured_at": "2026-11-05T10:38:50.547Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "9a8a5278f37be80caa27f67d65125169fdf595e1c6efb6e0c2ebf3645e32a924": {
+      "article_id": "9a8a5278f37be80caa27f67d65125169fdf595e1c6efb6e0c2ebf3645e32a924",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9b0c3adacea742ed84f6851c9d139622.html",
+      "versions": [
+        {
+          "id": "9a8a5278f37be80caa27f67d65125169fdf595e1c6efb6e0c2ebf3645e32a924:383d8c74daedf8a13bea1a960b358d48b43820f1e752e822abcb9c2bb096372c",
+          "content_hash": "383d8c74daedf8a13bea1a960b358d48b43820f1e752e822abcb9c2bb096372c",
+          "captured_at": "2026-11-05T18:40:17.917Z",
+          "status": "partial",
+          "text": "发改环资〔2026〕1424号\n\n各省、自治区、直辖市发展改革委、工业和信息化主管部门、自然资源主管部门、水利（水务）厅（局）、机关事务管理部门：\n\n为推进各类资源节约集约利用，维护国家资源安全，加快经济社会发展全面绿色转型，国家发展改革委、工业和信息化部、自然资源部、水利部、国管局制定了《实施全面节约战略行动方案》。现印发给你们，请结合实际抓好贯彻落实。\n\n国家发展改革委\n\n工业和信息化部\n\n自然资源部\n\n水利部\n\n国管局\n\n2026年9月29日",
+          "paragraphs": [
+            "发改环资〔2026〕1424号",
+            "各省、自治区、直辖市发展改革委、工业和信息化主管部门、自然资源主管部门、水利（水务）厅（局）、机关事务管理部门：",
+            "为推进各类资源节约集约利用，维护国家资源安全，加快经济社会发展全面绿色转型，国家发展改革委、工业和信息化部、自然资源部、水利部、国管局制定了《实施全面节约战略行动方案》。现印发给你们，请结合实际抓好贯彻落实。",
+            "国家发展改革委",
+            "工业和信息化部",
+            "自然资源部",
+            "水利部",
+            "国管局",
+            "2026年9月29日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "发改环资〔2026〕1424号"
+        }
+      ],
+      "latest_version_id": "9a8a5278f37be80caa27f67d65125169fdf595e1c6efb6e0c2ebf3645e32a924:383d8c74daedf8a13bea1a960b358d48b43820f1e752e822abcb9c2bb096372c",
+      "latest_captured_at": "2026-11-05T18:40:17.917Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-05T18:40:17.917Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "e0628a4c1f545663b4aa17ba8c8ff28076f8f9b75afc46ffba62634720f9e5f2": {
+      "article_id": "e0628a4c1f545663b4aa17ba8c8ff28076f8f9b75afc46ffba62634720f9e5f2",
+      "source_id": "miit",
+      "source_url": "http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9b0c3adacea742ed84f6851c9d139622.html",
+      "versions": [
+        {
+          "id": "e0628a4c1f545663b4aa17ba8c8ff28076f8f9b75afc46ffba62634720f9e5f2:383d8c74daedf8a13bea1a960b358d48b43820f1e752e822abcb9c2bb096372c",
+          "content_hash": "383d8c74daedf8a13bea1a960b358d48b43820f1e752e822abcb9c2bb096372c",
+          "captured_at": "2026-11-05T18:40:19.197Z",
+          "status": "partial",
+          "text": "发改环资〔2026〕1424号\n\n各省、自治区、直辖市发展改革委、工业和信息化主管部门、自然资源主管部门、水利（水务）厅（局）、机关事务管理部门：\n\n为推进各类资源节约集约利用，维护国家资源安全，加快经济社会发展全面绿色转型，国家发展改革委、工业和信息化部、自然资源部、水利部、国管局制定了《实施全面节约战略行动方案》。现印发给你们，请结合实际抓好贯彻落实。\n\n国家发展改革委\n\n工业和信息化部\n\n自然资源部\n\n水利部\n\n国管局\n\n2026年9月29日",
+          "paragraphs": [
+            "发改环资〔2026〕1424号",
+            "各省、自治区、直辖市发展改革委、工业和信息化主管部门、自然资源主管部门、水利（水务）厅（局）、机关事务管理部门：",
+            "为推进各类资源节约集约利用，维护国家资源安全，加快经济社会发展全面绿色转型，国家发展改革委、工业和信息化部、自然资源部、水利部、国管局制定了《实施全面节约战略行动方案》。现印发给你们，请结合实际抓好贯彻落实。",
+            "国家发展改革委",
+            "工业和信息化部",
+            "自然资源部",
+            "水利部",
+            "国管局",
+            "2026年9月29日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "发改环资〔2026〕1424号"
+        }
+      ],
+      "latest_version_id": "e0628a4c1f545663b4aa17ba8c8ff28076f8f9b75afc46ffba62634720f9e5f2:383d8c74daedf8a13bea1a960b358d48b43820f1e752e822abcb9c2bb096372c",
+      "latest_captured_at": "2026-11-05T18:40:19.197Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-05T18:40:19.197Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "91395461f346413b593ecccf744d2e0a67b20b2ad0cb510138826617b2615ad1": {
+      "article_id": "91395461f346413b593ecccf744d2e0a67b20b2ad0cb510138826617b2615ad1",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2024/1227/25581.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-05T18:40:23.668Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "95c1bc6477109eb3347b3ad6be0579e3b1b366868ce5b5d8a5517407aa91eb52": {
+      "article_id": "95c1bc6477109eb3347b3ad6be0579e3b1b366868ce5b5d8a5517407aa91eb52",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2024/0315/24099.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-05T18:40:23.914Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "990f2d424a481f6e80d64ca9316dc4a946bc6f1e358702990c9341c1da34151c": {
+      "article_id": "990f2d424a481f6e80d64ca9316dc4a946bc6f1e358702990c9341c1da34151c",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2026/0320/27266.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-05T18:40:24.161Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     }
