@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T18:40:24.415Z",
+  "generated_at": "2026-11-06T00:01:31.880Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1110,7 +1110,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T02:02:07.282Z"
+      "checked_at": "2026-11-06T00:01:31.880Z"
     },
     "0ac32586e67b930c5823164162707d4dc2aa3c5d5c3ae2cb8623880700fe315d": {
       "title": "电力并网运行管理规定",
@@ -1126,7 +1126,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T10:17:53.102Z"
+      "checked_at": "2026-11-06T00:01:31.880Z"
     },
     "21815b957faad18f39284cf10fa8000e671376503aef8bc056be1efc42f0c65d": {
       "title": "电网调度管理条例",
@@ -1303,6 +1303,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-05T02:08:27.991Z"
+    },
+    "4bad4623d7297990bb48f4ceeb7871c3a51a449f5e840ea4c2f73e5136b6a907": {
+      "title": "“健康云南2030”规划纲要",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "e4bc807e23ee956a7003cf408dba0322d9432576dee187bc9ee88a14b6224c8c",
+          "version_id": "e4bc807e23ee956a7003cf408dba0322d9432576dee187bc9ee88a14b6224c8c:9849cf237844acd5e6e631bdbadb4a812fc5a01558a81c03406d11e6411e003c",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261103_4380365.html",
+          "excerpt": "为加快建设健康云南，根据《国民健康“十五五”规划》、《云南省国民经济和社会发展第十五个五年规划纲要》和《“健康云南2030”规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-06T00:01:31.880Z"
+    },
+    "ba0ec8e79fac099b703d6134d7ab1f15f85da55ece5c1297722bae3704daed72": {
+      "title": "国民健康“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "e4bc807e23ee956a7003cf408dba0322d9432576dee187bc9ee88a14b6224c8c",
+          "version_id": "e4bc807e23ee956a7003cf408dba0322d9432576dee187bc9ee88a14b6224c8c:9849cf237844acd5e6e631bdbadb4a812fc5a01558a81c03406d11e6411e003c",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261103_4380365.html",
+          "excerpt": "为加快建设健康云南，根据《国民健康“十五五”规划》、《云南省国民经济和社会发展第十五个五年规划纲要》和《“健康云南2030”规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-06T00:01:31.880Z"
     }
   }
 }
