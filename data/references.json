@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T00:01:31.880Z",
+  "generated_at": "2026-11-06T06:29:58.435Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1142,7 +1142,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T10:17:53.102Z"
+      "checked_at": "2026-11-06T06:29:58.435Z"
     },
     "91ccb16be2703553e2e7db5d7e25d05acf852e0f8b51dc368630d3cd84623fb8": {
       "title": "中共中央办公厅国务院办公厅关于健全社会信用体系的意见",
@@ -1158,7 +1158,7 @@
       "status": "unresolved",
       "message": "候选页面不是可用政策文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T10:17:53.102Z"
+      "checked_at": "2026-11-06T06:29:58.435Z"
     },
     "a7efd455595a86b77f681932d1861753cea6b01de2834193e06339a31fbfd0f2": {
       "title": "能源行业公共信用信息管理办法",
@@ -1174,7 +1174,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T10:17:53.102Z"
+      "checked_at": "2026-11-06T06:29:58.435Z"
     },
     "26dce0beb16dc7df0c898206ccff515d0a12776b4d6a298aa93d58aca5b3efa3": {
       "title": "能源领域首台（套）重大技术装备评定和评价办法",
@@ -1190,7 +1190,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T17:05:07.499Z"
+      "checked_at": "2026-11-06T06:29:58.435Z"
     },
     "32ea4246db0535aabf1d574b234a63b2d1102c16800403bc0fc46d3bc985b638": {
       "title": "关于促进能源领域首台（套）重大技术装备示范应用的通知",

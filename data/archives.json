@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T00:01:31.620Z",
+  "generated_at": "2026-11-06T06:29:58.140Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1858,9 +1858,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-04T21:12:35.664Z",
+        "captured_at": "2026-11-06T06:29:58.134Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：HTTP 403"
       },
       "reference_links": []
     },
@@ -5379,9 +5379,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:26.896Z",
+        "captured_at": "2026-11-06T06:29:56.265Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -5968,7 +5968,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.192Z",
+        "captured_at": "2026-11-06T06:29:56.982Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5983,7 +5983,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.194Z",
+        "captured_at": "2026-11-06T06:29:56.985Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -5998,7 +5998,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.197Z",
+        "captured_at": "2026-11-06T06:29:56.988Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -6013,7 +6013,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.672Z",
+        "captured_at": "2026-11-06T06:29:58.127Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6180,7 +6180,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.674Z",
+        "captured_at": "2026-11-06T06:29:58.129Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -6248,7 +6248,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.676Z",
+        "captured_at": "2026-11-06T06:29:58.130Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -6263,7 +6263,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-05T02:08:27.678Z",
+        "captured_at": "2026-11-06T06:29:58.132Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -11053,6 +11053,51 @@
         "captured_at": "2026-11-06T00:01:31.620Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "b6118293b069dba1aff3cdad848ee025b9819187f63e327068824c2344849f94": {
+      "article_id": "b6118293b069dba1aff3cdad848ee025b9819187f63e327068824c2344849f94",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2025/1226/26960.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-06T06:29:58.136Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "bece1007988bbb4c6727bf6b8fab70aa8f268a45dd6db174e1935a703479b65f": {
+      "article_id": "bece1007988bbb4c6727bf6b8fab70aa8f268a45dd6db174e1935a703479b65f",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2024/0407/24204.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-06T06:29:58.139Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "c471bd79689654ffa43f7fb26b161d52c76e8285a1fd6e3325a881d146205803": {
+      "article_id": "c471bd79689654ffa43f7fb26b161d52c76e8285a1fd6e3325a881d146205803",
+      "source_id": "safe",
+      "source_url": "https://www.safe.gov.cn/safe/2025/0328/25916.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-06T06:29:58.140Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     }
