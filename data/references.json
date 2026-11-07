@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T00:48:57.373Z",
+  "generated_at": "2026-11-07T06:58:10.586Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -332,7 +332,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T21:55:08.269Z"
+      "checked_at": "2026-11-07T06:58:10.586Z"
     },
     "7d7481ff45b351417327e76709bed0417485167acb4494e71ed8d40bc916e1a4": {
       "title": "交通强国建设纲要",
@@ -348,7 +348,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T21:55:08.269Z"
+      "checked_at": "2026-11-07T06:58:10.586Z"
     },
     "8f49c1ac1d5341e644e5c3a04649dcc4c401982ca57aabf33641cb40ca49eb4b": {
       "title": "全国统一电力市场信用评价指引（征求意见稿）",
@@ -364,7 +364,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-02T01:25:13.917Z"
+      "checked_at": "2026-11-07T06:58:10.586Z"
     },
     "9d4063e58264d65c18c5a95e1c920c0c72c34d4dca5a4292ecd959ddbd5b587a": {
       "title": "地理标志产品保护办法",
@@ -1238,7 +1238,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-01T21:55:08.269Z"
+      "checked_at": "2026-11-07T06:58:10.586Z"
     },
     "53403bf916c07e32121b4a238c0706aebafb5bd350571a15d9d69a3477e4c298": {
       "title": "辽宁省国民经济和社会发展第十五个五年规划纲要",
