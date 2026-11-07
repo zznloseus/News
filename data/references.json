@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T13:55:04.021Z",
+  "generated_at": "2026-11-07T18:37:11.673Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -380,7 +380,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-02T01:25:13.917Z"
+      "checked_at": "2026-11-07T18:37:11.673Z"
     },
     "a69f04992cb88eab33d01afc39dabab5c3d79584032cb4300fbe74e159b6a036": {
       "title": "国务院办公厅关于完善全国统一电力市场体系的实施意见",
@@ -1527,6 +1527,54 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-07T13:55:04.021Z"
+    },
+    "922a16a37acbfe2ef281fd91b5847ab7070ce22d289d4ecc1f050d9cd7eb9a88": {
+      "title": "关于党纪政务处分决定执行工作的实施办法 （试行）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322",
+          "version_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322:3bc5767d462bab9e176d03087519c27e72b24bab9d48a938a2ee6b2e44e2d244",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_179259cef69249808e072aa5ce590004.html",
+          "excerpt": "因涉嫌经济或其它重大问题正在立案审查尚未结案，或被采取强制措施和受刑事处罚期间的，不得申报参加职称评审。受到党纪政务处分的，涉及职称申报晋升的，执行《关于党纪政务处分决定执行工作的实施办法 （试行） 》 （湘纪发 〔 2 022 〕 3 号） 相关规定。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T18:37:11.673Z"
+    },
+    "c5ff9c2c7f9d5b98797ba7faed4d2a16092d75d78ff1c40a7ce0dbd82a13ec93": {
+      "title": "湖南省人力资源和社会保障厅关于做好 20 2 6 年度 全省高级 职称评审工作的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322",
+          "version_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322:3bc5767d462bab9e176d03087519c27e72b24bab9d48a938a2ee6b2e44e2d244",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_179259cef69249808e072aa5ce590004.html",
+          "excerpt": "根据《湖南省人力资源和社会保障厅关于做好 20 2 6 年度 全省高级 职称评审工作的通知》要求，现就做好 20 2 6 年度湖南省 信息与 通信工程 专业 高级职称评审工作有关事项通知如下："
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T18:37:11.673Z"
+    },
+    "fefca32625290f5f1c89ccc11430411df6028b3048c87394fe1bfde87ff972bb": {
+      "title": "湖南省职称评审监管实施办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322",
+          "version_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322:3bc5767d462bab9e176d03087519c27e72b24bab9d48a938a2ee6b2e44e2d244",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_179259cef69249808e072aa5ce590004.html",
+          "excerpt": "（一）申报人责任追究。 对于弄虚作假承诺不实的申报人员，无论是否通过复核进入评审程序或通过评审，一经发现一律按照《湖南省职称评审监管实施办法》记录诚信档案库，从次年起 3 年不得申报评审职称。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T18:37:11.673Z"
     }
   }
 }
