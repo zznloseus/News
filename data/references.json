@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T06:58:10.586Z",
+  "generated_at": "2026-11-07T13:55:04.021Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1463,6 +1463,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-07T00:48:57.373Z"
+    },
+    "010f2d040f5226248f54618dfa49c714569d4f05677b1750ee67330e2fabbdba": {
+      "title": "关于印发 湖南省 通信工程专业高级工程师 职称申报评价办法（ 试行 ） > 的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322",
+          "version_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322:3bc5767d462bab9e176d03087519c27e72b24bab9d48a938a2ee6b2e44e2d244",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_179259cef69249808e072aa5ce590004.html",
+          "excerpt": "信息与通信工程专业 高级职称评审执行省职改办《关于做好全省事业单位高级职称年度评审职数申报与管理的通知》 （湘职改办〔 2020 〕 3 号） 和 省职改办、省 通信工程专业 职改工作领导小组《关于印发 湖南省 通信工程专业高级工程师 职称申报评价办法（ 试行 ） > 的通知》 （湘职改办〔 2018 〕 3 号） 等文件规定的标准条件 ， 晋升信息与通信工程专业高级职称 （副高） 应具备信息与通信工程专业中级职称 。"
+        }
+      ],
+      "status": "resolved",
+      "message": "上位文件已收录并已留存",
+      "resolved_id": "3ec80a66eb04c7d92555d3a0fd3b39b3d4f0bf7d217dd18130cb64928b12f1e9",
+      "checked_at": "2026-11-07T13:55:04.021Z"
+    },
+    "42932485d77420afef8d1fc197b0ed897048ab13da8addc2a969711a03160f32": {
+      "title": "人力资源社会保障部办公厅关于进一步做好民营企业职称工作的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322",
+          "version_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322:3bc5767d462bab9e176d03087519c27e72b24bab9d48a938a2ee6b2e44e2d244",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_179259cef69249808e072aa5ce590004.html",
+          "excerpt": "民营企业专业技术人员按照《人力资源社会保障部办公厅关于进一步做好民营企业职称工作的通知》 （ 人社厅发〔 2020 〕 13 号 ） 等文件要求参加职称评审。经组织选派援外、援藏、援疆的专业技术人员按有关规定执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T13:55:04.021Z"
+    },
+    "6201a7b9efc6645335911e60e98519dcae58a571623d8395349ec54d237ae2a6": {
+      "title": "中共中央办公厅 国务院办公厅 印发〈关于深化职称制度改革的意见〉的通知",
+      "document_no": "中办发〔2016〕77 号",
+      "citations": [
+        {
+          "article_id": "3ec80a66eb04c7d92555d3a0fd3b39b3d4f0bf7d217dd18130cb64928b12f1e9",
+          "version_id": "3ec80a66eb04c7d92555d3a0fd3b39b3d4f0bf7d217dd18130cb64928b12f1e9:5190527626df9268ca7f2028bf7069bc655741755c4591635058939d5782a75c",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_9237baf8b6164a06a5f256528ea0432c.html",
+          "excerpt": "第一条 为全面贯彻落实《中共中央办公厅 国务院办公厅 印发〈关于深化职称制度改革的意见〉的通知》（中办发〔2016〕77 号）和《中共湖南省委办公厅 湖南省人民政府办公厅印发〈关于深化职称制度改革的实施意见>的通知》（湘办发〔2017〕33号）精神，促进通信工程专业高级工程师职称评审科学化、规范化和制度化，结合我省实际，制定本办法。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T13:55:04.021Z"
+    },
+    "6696b4b5dc662f02d58715a67432a0f0ffe565f365d7cf9f730d8ad8fa4e9a79": {
+      "title": "关于做好全省事业单位高级职称年度评审职数申报与管理的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322",
+          "version_id": "5c314be77e900a4095a8925c713ac59baf0439124b247cb2aaeb93de818ba322:3bc5767d462bab9e176d03087519c27e72b24bab9d48a938a2ee6b2e44e2d244",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/rcrs/art/2026/art_179259cef69249808e072aa5ce590004.html",
+          "excerpt": "信息与通信工程专业 高级职称评审执行省职改办《关于做好全省事业单位高级职称年度评审职数申报与管理的通知》 （湘职改办〔 2020 〕 3 号） 和 省职改办、省 通信工程专业 职改工作领导小组《关于印发 湖南省 通信工程专业高级工程师 职称申报评价办法（ 试行 ） > 的通知》 （湘职改办〔 2018 〕 3 号） 等文件规定的标准条件 ， 晋升信息与通信工程专业高级职称 （副高） 应具备信息与通信"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T13:55:04.021Z"
     }
   }
 }
