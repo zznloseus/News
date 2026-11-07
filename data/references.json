@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T18:37:11.673Z",
+  "generated_at": "2026-11-07T22:38:01.279Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -412,7 +412,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-02T01:25:13.917Z"
+      "checked_at": "2026-11-07T22:38:01.279Z"
     },
     "ab9f3aae61a242288670469a8e924e3f64f9c5921178edde70710ef63ea725cf": {
       "title": "碳达峰碳中和综合评价考核办法",
@@ -1575,6 +1575,54 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-07T18:37:11.673Z"
+    },
+    "02b1c77695e26b185defc09c8dd98d245686068618c502c926ef606e8593a92d": {
+      "title": "中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707",
+          "version_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707:f8081c4d69422d463f735a124e370b056039929e1478c3eed38e1421e0e1f80b",
+          "source_url": "https://www.hlj.gov.cn/hlj/c108376/202611/c00_31992538.shtml",
+          "excerpt": "为加快建设教育强省、更好服务支撑教育强国建设，根据国务院《教育发展“十五五”规划》和《中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议》、《黑龙江省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T22:38:01.279Z"
+    },
+    "a5cc0131428f12e0ed364be23b8912ba7d19870529e300036d50f78ea4bd5198": {
+      "title": "黑龙江省国民经济和社会发展第十五个五年规划纲要",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707",
+          "version_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707:f8081c4d69422d463f735a124e370b056039929e1478c3eed38e1421e0e1f80b",
+          "source_url": "https://www.hlj.gov.cn/hlj/c108376/202611/c00_31992538.shtml",
+          "excerpt": "为加快建设教育强省、更好服务支撑教育强国建设，根据国务院《教育发展“十五五”规划》和《中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议》、《黑龙江省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T22:38:01.279Z"
+    },
+    "da7a8a5dc1baaba122fed04c70356fbedf631b7b24303aff1c11baeb4cd45df9": {
+      "title": "教育发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707",
+          "version_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707:f8081c4d69422d463f735a124e370b056039929e1478c3eed38e1421e0e1f80b",
+          "source_url": "https://www.hlj.gov.cn/hlj/c108376/202611/c00_31992538.shtml",
+          "excerpt": "为加快建设教育强省、更好服务支撑教育强国建设，根据国务院《教育发展“十五五”规划》和《中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议》、《黑龙江省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T22:38:01.279Z"
     }
   }
 }
