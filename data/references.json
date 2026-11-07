@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T20:48:02.265Z",
+  "generated_at": "2026-11-07T00:48:57.373Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1399,6 +1399,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-06T20:48:02.265Z"
+    },
+    "01919b6e6bf4c497930e7d4f08939c4beea4e07dd721c113f5285d3c414d2aa6": {
+      "title": "自然资源保护利用“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "7943505c63f1ff7843a7c1f754f5facd4741f523742f93a4aecd0a40d1a97526",
+          "version_id": "7943505c63f1ff7843a7c1f754f5facd4741f523742f93a4aecd0a40d1a97526:3d242f5525b192802c42d8c8c480fb3e99e87158839d12fcc9da98dbca06464c",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261106_4381287.html",
+          "excerpt": "根据《自然资源保护利用“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T00:48:57.373Z"
+    },
+    "23abd94e49bce1779880ff95283df48a62820f1edacba80d001b28d0ed59bd87": {
+      "title": "循环经济发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c878a62c1e6da7b66b63a7d7b94a26fb41d4558bc8e25c35921c271cf0191971",
+          "version_id": "c878a62c1e6da7b66b63a7d7b94a26fb41d4558bc8e25c35921c271cf0191971:def673aba381172e3b462633373121dbc7852b34ad4f129e20018a727582a2b1",
+          "source_url": "https://www.tj.gov.cn/sy/tjxw/202611/t20261106_7651097.html",
+          "excerpt": "为推动资源节约集约高效利用，加快构建超大城市废弃物循环利用体系，促进循环经济产业升级，按照生态环境法典和循环经济促进法有关规定，根据《循环经济发展“十五五”规划》《天津市国民经济和社会发展第十五个五年规划纲要》等，日前，我市印发《天津市循环经济发展“十五五”规划》（以下简称《规划》），系统推进减量化、分类回收、再利用、资源化等工作，发挥区位、港口、产业优势，围绕废弃物回收利用、交易服务平台建设、资源循环利用设备研发制造、咨询服务等领域，发展壮大资源循环利用"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T00:48:57.373Z"
+    },
+    "809642071552e0a9fff4f252f7cc925cacd009565e5c6064d2676d2e5b34db2f": {
+      "title": "天津市循环经济发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c878a62c1e6da7b66b63a7d7b94a26fb41d4558bc8e25c35921c271cf0191971",
+          "version_id": "c878a62c1e6da7b66b63a7d7b94a26fb41d4558bc8e25c35921c271cf0191971:def673aba381172e3b462633373121dbc7852b34ad4f129e20018a727582a2b1",
+          "source_url": "https://www.tj.gov.cn/sy/tjxw/202611/t20261106_7651097.html",
+          "excerpt": "源节约集约高效利用，加快构建超大城市废弃物循环利用体系，促进循环经济产业升级，按照生态环境法典和循环经济促进法有关规定，根据《循环经济发展“十五五”规划》《天津市国民经济和社会发展第十五个五年规划纲要》等，日前，我市印发《天津市循环经济发展“十五五”规划》（以下简称《规划》），系统推进减量化、分类回收、再利用、资源化等工作，发挥区位、港口、产业优势，围绕废弃物回收利用、交易服务平台建设、资源循环利用设备研发制造、咨询服务等领域，发展壮大资源循环利用产业。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T00:48:57.373Z"
+    },
+    "c4802dbd16c13c62b3b8bf010b48473a2e6d005d17911848b668b7c97b129762": {
+      "title": "天津市国民经济和社会发展第十五个五年规划纲要",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c878a62c1e6da7b66b63a7d7b94a26fb41d4558bc8e25c35921c271cf0191971",
+          "version_id": "c878a62c1e6da7b66b63a7d7b94a26fb41d4558bc8e25c35921c271cf0191971:def673aba381172e3b462633373121dbc7852b34ad4f129e20018a727582a2b1",
+          "source_url": "https://www.tj.gov.cn/sy/tjxw/202611/t20261106_7651097.html",
+          "excerpt": "为推动资源节约集约高效利用，加快构建超大城市废弃物循环利用体系，促进循环经济产业升级，按照生态环境法典和循环经济促进法有关规定，根据《循环经济发展“十五五”规划》《天津市国民经济和社会发展第十五个五年规划纲要》等，日前，我市印发《天津市循环经济发展“十五五”规划》（以下简称《规划》），系统推进减量化、分类回收、再利用、资源化等工作，发挥区位、港口、产业优势，围绕废弃物回收利用、交易服务平台建设、资源循环利用设备研发制造、咨询服务等领域，发展壮大资源循环利用产业。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-07T00:48:57.373Z"
     }
   }
 }
