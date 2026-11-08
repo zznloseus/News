@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T02:14:07.061Z",
+  "generated_at": "2026-11-08T10:04:31.412Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -508,7 +508,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-02T09:11:23.405Z"
+      "checked_at": "2026-11-08T10:04:31.412Z"
     },
     "d56b79640601e9ecc10c698f8972b927e777d7b894ffb0394b9d5e6510829935": {
       "title": "关于2026年度全国通信专业技术人员职业资格考试工作安排及有关考务工作的通知",
@@ -524,7 +524,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-02T09:11:23.405Z"
+      "checked_at": "2026-11-08T10:04:31.412Z"
     },
     "00b089711f13dec222d12388ed71d0c96de43b479305ff2079e7293f0a05aa2f": {
       "title": "国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知",
@@ -556,7 +556,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-02T20:10:19.664Z"
+      "checked_at": "2026-11-08T10:04:31.412Z"
     },
     "1e0ad281ec736ea6edfb5841f6dbffd1ed6c139442e7dc05c317a517323d0f55": {
       "title": "商务部等7部门关于提质增效实施2026年消费品以旧换新政策的通知",
@@ -1639,6 +1639,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-08T02:14:07.061Z"
+    },
+    "7c87e7d8a3edd2943c181c8a40ff5200dc60328d06a255adecf1009f6fcee85f": {
+      "title": "地理标志专用标志使用管理办法（试行）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "5fc39c3573f5b6a676fec4622f7a1a2e62d157d01102b18c297d9d77df8f686e",
+          "version_id": "5fc39c3573f5b6a676fec4622f7a1a2e62d157d01102b18c297d9d77df8f686e:78ff9fbc3947d063bebab4a6ea6555fdf635d77de65ff872e4f113182648b8dd",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/9/15/art_74_208146.html",
+          "excerpt": "根据《地理标志产品保护办法》《地理标志专用标志使用管理办法（试行）》，经有关省级知识产权局审核，并经国家知识产权局审查，因不再从事该地理标志产品生产、营业执照已注销、相关生产许可证已注销、营业执照被吊销、已迁出地理标志产品产地范围等情形，决定注销北京永丰创新农业科技有限公司等112家企业的地理标志专用标志使用注册登记。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-08T10:04:31.412Z"
     }
   }
 }
