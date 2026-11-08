@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T22:38:00.972Z",
+  "generated_at": "2026-11-08T02:14:06.760Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -3078,7 +3078,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T18:21:52.304Z",
+        "captured_at": "2026-11-08T02:14:04.080Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3239,7 +3239,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T18:21:53.483Z",
+        "captured_at": "2026-11-08T02:14:05.061Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -3757,7 +3757,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-03T18:21:53.484Z",
+        "captured_at": "2026-11-08T02:14:05.063Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -5113,7 +5113,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-07T00:48:43.751Z",
+        "captured_at": "2026-11-08T02:13:59.874Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7745,7 +7745,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-07T00:48:55.350Z",
+        "captured_at": "2026-11-08T02:14:04.060Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7760,7 +7760,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-07T00:48:55.368Z",
+        "captured_at": "2026-11-08T02:14:04.078Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -10219,7 +10219,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-07T00:48:44.642Z",
+        "captured_at": "2026-11-08T02:14:00.726Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -11306,7 +11306,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-07T00:48:46.332Z",
+        "captured_at": "2026-11-08T02:14:02.755Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -11321,7 +11321,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-07T00:48:46.351Z",
+        "captured_at": "2026-11-08T02:14:02.774Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -12241,6 +12241,114 @@
         "captured_at": "2026-11-07T22:38:00.972Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "2dabd7a7ed32b209a12d710b439e10d3f81201850de3022914afb78024ad7e60": {
+      "article_id": "2dabd7a7ed32b209a12d710b439e10d3f81201850de3022914afb78024ad7e60",
+      "source_id": "cnipa",
+      "source_url": "https://www.cnipa.gov.cn/art/2026/10/12/art_75_208475.html",
+      "versions": [
+        {
+          "id": "2dabd7a7ed32b209a12d710b439e10d3f81201850de3022914afb78024ad7e60:be54c4ab78924607a375027f59f5481f98145a2c23422ac98eb15875c90e1381",
+          "content_hash": "be54c4ab78924607a375027f59f5481f98145a2c23422ac98eb15875c90e1381",
+          "captured_at": "2026-11-08T02:14:06.196Z",
+          "status": "text",
+          "text": "为配合新修订的《集成电路布图设计保护条例》（以下简称“条例”）2026年10月15日施行，国家知识产权局决定对集成电路布图设计请求类表格内容进行适应性修订。\n\n修订表格与条例同步实施，对应的旧版表格同时废止。\n\n当事人可通过登录国家知识产权局网站（http://www.cnipa.gov.cn）“政务服务”专栏下的“表格下载”栏目查阅下载新修订的表格。\n\n特此通知。\n\n国家知识产权局\n\n2026年10月12日\n\n附件： 修订的请求类表格",
+          "paragraphs": [
+            "为配合新修订的《集成电路布图设计保护条例》（以下简称“条例”）2026年10月15日施行，国家知识产权局决定对集成电路布图设计请求类表格内容进行适应性修订。",
+            "修订表格与条例同步实施，对应的旧版表格同时废止。",
+            "当事人可通过登录国家知识产权局网站（http://www.cnipa.gov.cn）“政务服务”专栏下的“表格下载”栏目查阅下载新修订的表格。",
+            "特此通知。",
+            "国家知识产权局",
+            "2026年10月12日",
+            "附件： 修订的请求类表格"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "2dabd7a7ed32b209a12d710b439e10d3f81201850de3022914afb78024ad7e60:be54c4ab78924607a375027f59f5481f98145a2c23422ac98eb15875c90e1381",
+      "latest_captured_at": "2026-11-08T02:14:06.196Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-08T02:14:06.196Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "2f4c072bb851f825936839b8f54cf58b813794137b0f80f6113d914b1234d4e8": {
+      "article_id": "2f4c072bb851f825936839b8f54cf58b813794137b0f80f6113d914b1234d4e8",
+      "source_id": "cnipa",
+      "source_url": "https://www.cnipa.gov.cn/art/2026/10/14/art_74_208559.html",
+      "versions": [
+        {
+          "id": "2f4c072bb851f825936839b8f54cf58b813794137b0f80f6113d914b1234d4e8:43a2b5e0de620b668a36c428786c2287b7f3ffd39a6f43b883e59a64d1cf276f",
+          "content_hash": "43a2b5e0de620b668a36c428786c2287b7f3ffd39a6f43b883e59a64d1cf276f",
+          "captured_at": "2026-11-08T02:14:06.469Z",
+          "status": "text",
+          "text": "国家知识产权局公告\n\n第六九三号\n\n根据《地理标志产品保护办法》第二十六条规定，由重庆市忠县人民政府提出申请，经重庆市知识产权局初审，国家知识产权局对忠州豆腐乳（忠县豆腐乳）地理标志产品保护要求予以变更。现将变更内容公告如下。\n\n将原国家质检总局2012年第51号公告中“忠州豆腐乳（忠县豆腐乳）质量技术要求”“四、质量特色”中“2. 理化指标”的“总酸（以乳酸计）≥1.2g/100g”调整为“总酸（以乳酸计）≤1.2g/100g”。\n\n国家知识产权局\n\n2026年9月29日",
+          "paragraphs": [
+            "国家知识产权局公告",
+            "第六九三号",
+            "根据《地理标志产品保护办法》第二十六条规定，由重庆市忠县人民政府提出申请，经重庆市知识产权局初审，国家知识产权局对忠州豆腐乳（忠县豆腐乳）地理标志产品保护要求予以变更。现将变更内容公告如下。",
+            "将原国家质检总局2012年第51号公告中“忠州豆腐乳（忠县豆腐乳）质量技术要求”“四、质量特色”中“2. 理化指标”的“总酸（以乳酸计）≥1.2g/100g”调整为“总酸（以乳酸计）≤1.2g/100g”。",
+            "国家知识产权局",
+            "2026年9月29日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "2f4c072bb851f825936839b8f54cf58b813794137b0f80f6113d914b1234d4e8:43a2b5e0de620b668a36c428786c2287b7f3ffd39a6f43b883e59a64d1cf276f",
+      "latest_captured_at": "2026-11-08T02:14:06.469Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-08T02:14:06.469Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "3d854a65617837153798cb3fda16c2ea5273de6f9ce4b465f05f90a9c66e41ce": {
+      "article_id": "3d854a65617837153798cb3fda16c2ea5273de6f9ce4b465f05f90a9c66e41ce",
+      "source_id": "cnipa",
+      "source_url": "https://www.cnipa.gov.cn/art/2026/9/28/art_75_208336.html",
+      "versions": [
+        {
+          "id": "3d854a65617837153798cb3fda16c2ea5273de6f9ce4b465f05f90a9c66e41ce:5be6ccf2f6fddeafed47c22eb549c165724e34ec60cf65e977f2c7eb5348ea63",
+          "content_hash": "5be6ccf2f6fddeafed47c22eb549c165724e34ec60cf65e977f2c7eb5348ea63",
+          "captured_at": "2026-11-08T02:14:06.760Z",
+          "status": "text",
+          "text": "为深入贯彻落实习近平总书记关于知识产权工作的重要指示精神和党中央、国务院决策部署，并配合做好2026年新修订《中华人民共和国商标法》的落地实施，国家知识产权局在深入调研论证的基础上，聚焦此次新修订《商标法》重点修改内容，结合经营主体重要关切及实际需求，起草《商标审查审理指南（征求意见稿）》。现向社会各界公开征求意见。有关单位和各界人士可以在11月12日前，通过以下方式，围绕征求意见稿的修改完善提出具体意见：\n\n一、通过电子邮件将意见发送至：sg1@cnipa.gov.cn。\n\n二、传真：010-68037822。\n\n三、通过信函方式寄至：北京市西城区茶马南街1号国家知识产权局商标局审业管理处 邮编100055（请于信封左下角注明“商标审查审理指南”）。\n\n附件：1. 《商标审查审理指南（征求意见稿）》修改对照表\n\n2. 关于《商标审查审理指南（征求意见稿）》的说明\n\n国家知识产权局\n\n2026年9月28日",
+          "paragraphs": [
+            "为深入贯彻落实习近平总书记关于知识产权工作的重要指示精神和党中央、国务院决策部署，并配合做好2026年新修订《中华人民共和国商标法》的落地实施，国家知识产权局在深入调研论证的基础上，聚焦此次新修订《商标法》重点修改内容，结合经营主体重要关切及实际需求，起草《商标审查审理指南（征求意见稿）》。现向社会各界公开征求意见。有关单位和各界人士可以在11月12日前，通过以下方式，围绕征求意见稿的修改完善提出具体意见：",
+            "一、通过电子邮件将意见发送至：sg1@cnipa.gov.cn。",
+            "二、传真：010-68037822。",
+            "三、通过信函方式寄至：北京市西城区茶马南街1号国家知识产权局商标局审业管理处 邮编100055（请于信封左下角注明“商标审查审理指南”）。",
+            "附件：1. 《商标审查审理指南（征求意见稿）》修改对照表",
+            "2. 关于《商标审查审理指南（征求意见稿）》的说明",
+            "国家知识产权局",
+            "2026年9月28日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "3d854a65617837153798cb3fda16c2ea5273de6f9ce4b465f05f90a9c66e41ce:5be6ccf2f6fddeafed47c22eb549c165724e34ec60cf65e977f2c7eb5348ea63",
+      "latest_captured_at": "2026-11-08T02:14:06.760Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-08T02:14:06.760Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
       },
       "reference_links": []
     }
