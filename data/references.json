@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T16:59:32.877Z",
+  "generated_at": "2026-11-08T21:05:24.426Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1687,6 +1687,70 @@
       "message": "官方正文标题及引用文号已核验",
       "resolved_id": "910bbdcc6b6e87bac36adffdcd6406dc8cdd955c8f3b999f08bca1f76ee3eafe",
       "checked_at": "2026-11-08T16:59:32.877Z"
+    },
+    "083e18c733e4bc55d9edda45e8c601874e39d9bb8f1c107b5e347b11a37f34de": {
+      "title": "工业互联网安全分类分级管理办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "检查工业互联网平台企业和标识解析企业落实《工业互联网安全分类分级管理办法》（工信部网安〔 2024 〕 68 号） 及护航新型工业化 网络安全专项行动相关要求的情况。企业应 通过全国工业互联网安全分类分级管理平台（ https://www.ciisec.org.cn ） 完成本年度工业互联网安全自主定级和信息登记，落实相应级别的网络安全防护措施以及开展符合性评测和安全整"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-08T21:05:24.426Z"
+    },
+    "2aa49f437a7510f39f8a18ee96883f51ca6ea234914a216afe6cfb45205f97aa": {
+      "title": "工业和信息化部办公厅关于组织开展 2026“ 固源 ” 行动的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "检查接入服务企业、域名注册服务机构、递归解析服务机构、应用分发平台等 企业 落实 ICP 核准管理及 《工业和信息化部办公厅关于组织开展 2026“ 固源 ” 行动的通知》（工信厅信管函 〔 2026 〕 127 号） 要求情况。相关企业应按照《互联网信息服务管理办法》《非经营性互联网信息服务备案管理办法》等有关要求，确保 ICP 核准信息 、 IP 地址备案信息 准确、真实、有效。企业应加强 自 查 巡检，及时处置不合规互联网基础资源， 落实 应急处置 相关要求 "
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-08T21:05:24.426Z"
+    },
+    "35752bd41d66f301dd081373b52590b3ae99bc5f2af2b6b244d91ed988cf9246": {
+      "title": "关于开展 2026 年个人信息保护系列专项行动的公告",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "检查各 APP/ 小程序 核准主体 按照《电信和互联网用户个人信息保护规定》（工业和信息化部令第 24 号）《关于开展 2026 年个人信息保护系列专项行动的公告》等要求，落实个人信息和用户权益保护专项治理工作情况。各 APP/ 小程序 核准主体应对个人信息保护情况每年至少开展一次自查，并将自查情况报市通管局。 市通管局 加强 对未开展个人信息 保护评估 企业的 监管， 提升行业个人信息保护能力 。在 2026 年个人信息保护系列专项行动有关要求基础上，重点"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-08T21:05:24.426Z"
+    },
+    "39388bb554f81d817b8e537d3a1c9dd668765ecc1a8b9eb496c65b12c5fe1b54": {
+      "title": "公共互联网网络安全威胁监测与处置办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "检查企业落实《公共互联网网络安全威胁监测与处置办法》（工信部网安〔 2017 〕 202 号）要求，做好常态化网络安全威胁监测与处置的情况。企业应建设网络安全威胁监测与处置技术手段，在互联网出入口、网络边界等网络关键节点部署攻击监测设备，基于流量监测、网元自身安全组件监测、日志采集分析等，提升恶意程序传播、漏洞攻击利用等网络威胁精准监测、分析研判能"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-08T21:05:24.426Z"
     }
   }
 }
