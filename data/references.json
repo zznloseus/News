@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T21:05:24.426Z",
+  "generated_at": "2026-11-09T01:35:05.939Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1751,6 +1751,76 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-08T21:05:24.426Z"
+    },
+    "186a5bd3b71c5d4ee1768e5999e3809de59a25a5aa2a4d58a1fc8f84839abbad": {
+      "title": "智能体规范应用与创新发展实施意见",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "d2cccf45215084ea99d9c38d8fa22ef22c7a584f59c5855c872ddcd678f8e6f0",
+          "version_id": "d2cccf45215084ea99d9c38d8fa22ef22c7a584f59c5855c872ddcd678f8e6f0:df425163556000d5d9883fe77b7d484889929a0e1b0068b29a4508894e2fd091",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_4c0cd541aa774d1db8636113909a088d.html",
+          "excerpt": "为全面贯彻党的二十大和二十届历次全会精神 ， 严格落实《网络安全法》 《数据安全法》 《个人信息保护法》 《网络数据安全管理条例》等法律法规 及 《生成式人工智能服务管理暂行办法》 《智能体规范应用与创新发展实施意见》《工业和信息化领域数据安全管理办法（试行）》（工信部网安 〔 2022 〕 166 号） 等 法规文件要求 ， 以 正确政绩观 为 引领 ，以服务企业、赋能发展为宗旨 ， 持续优化营商环境 ， 坚持包容审慎、精准施策、可信可控、共治 共享原则，稳步提升 上海市电信和互联网行业人工智能安全基线，推动"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-09T01:35:05.939Z"
+    },
+    "49fcf406b4004a4b40e90d3846ad0bea2b8954b6b775bb293f5a8a8c776d076f": {
+      "title": "互联网信息服务管理办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "册服务机构、递归解析服务机构、应用分发平台等 企业 落实 ICP 核准管理及 《工业和信息化部办公厅关于组织开展 2026“ 固源 ” 行动的通知》（工信厅信管函 〔 2026 〕 127 号） 要求情况。相关企业应按照《互联网信息服务管理办法》《非经营性互联网信息服务备案管理办法》等有关要求，确保 ICP 核准信息 、 IP 地址备案信息 准确、真实、有效。企业应加强 自 查 巡检，及时处置不合规互联网基础资源， 落实 应急处置 相关要求 。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-09T01:35:05.939Z"
+    },
+    "5219d1e5b3b241c7d76ac29edc9c21370a7c2d58a746f1f2aa86e1cb6eae2b9c": {
+      "title": "工业和信息化领域数据安全管理办法（试行）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "为深入贯彻习近平总书记关于网络强国的重要思想，落实《网络安全法》《数据安全法》《个人信息保护法》 ‌ 《网络数据安全管理条例》 《工业和信息化领域数据安全管理办法（试行）》（工信部网安〔 2022 〕 166 号）等法律法规和文件要求，进一步提升上海市电信和互联网行业网络和数据安全防护水平，按照工业和信息化部的有关部署要求和《关于开展 2026 年全市网络安全专项检查的通知》要求， 上海市通信管理局（以下简称市通管局） 决定组织开展 2026 年电信和互联网行业网络"
+        },
+        {
+          "article_id": "d2cccf45215084ea99d9c38d8fa22ef22c7a584f59c5855c872ddcd678f8e6f0",
+          "version_id": "d2cccf45215084ea99d9c38d8fa22ef22c7a584f59c5855c872ddcd678f8e6f0:df425163556000d5d9883fe77b7d484889929a0e1b0068b29a4508894e2fd091",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_4c0cd541aa774d1db8636113909a088d.html",
+          "excerpt": "为全面贯彻党的二十大和二十届历次全会精神 ， 严格落实《网络安全法》 《数据安全法》 《个人信息保护法》 《网络数据安全管理条例》等法律法规 及 《生成式人工智能服务管理暂行办法》 《智能体规范应用与创新发展实施意见》《工业和信息化领域数据安全管理办法（试行）》（工信部网安 〔 2022 〕 166 号） 等 法规文件要求 ， 以 正确政绩观 为 引领 ，以服务企业、赋能发展为宗旨 ， 持续优化营商环境 ， 坚持包容审慎、精准施策、可信可控、共治 共享原则，稳步提升 上海市电信和互联网行业人工智能安全基线，推动人工智能技术和应用向有益、安全、公平方向高质"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-09T01:35:05.939Z"
+    },
+    "7e39cb17c296c2371e6ed4eac386e342373f9988de8e9f75c19cccf7d6e57f8c": {
+      "title": "非经营性互联网信息服务备案管理办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "构、应用分发平台等 企业 落实 ICP 核准管理及 《工业和信息化部办公厅关于组织开展 2026“ 固源 ” 行动的通知》（工信厅信管函 〔 2026 〕 127 号） 要求情况。相关企业应按照《互联网信息服务管理办法》《非经营性互联网信息服务备案管理办法》等有关要求，确保 ICP 核准信息 、 IP 地址备案信息 准确、真实、有效。企业应加强 自 查 巡检，及时处置不合规互联网基础资源， 落实 应急处置 相关要求 。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-09T01:35:05.939Z"
     }
   }
 }
