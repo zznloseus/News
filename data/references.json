@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T09:30:58.606Z",
+  "generated_at": "2026-11-09T20:35:36.623Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -604,7 +604,7 @@
       "status": "unresolved",
       "message": "候选正文标题或文号未通过核验",
       "resolved_id": null,
-      "checked_at": "2026-11-02T20:10:19.664Z"
+      "checked_at": "2026-11-09T20:35:36.623Z"
     },
     "5563c7a09cc9ece38fb3b35489bae2339ae964034a1617688e55444cfd156b15": {
       "title": "国务院关于推进服务业扩能提质的意见",
@@ -680,7 +680,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T02:52:10.150Z"
+      "checked_at": "2026-11-09T20:35:36.623Z"
     },
     "23422e0f4ca27838b876403851607cd3fceded003792cfdd9d0678c0f47ed5c5": {
       "title": "知识产权强国建设纲要（2021—2035年）",
@@ -1891,6 +1891,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-09T09:30:58.606Z"
+    },
+    "e146d3cd631610d99586619a07e09c6091023525730163bd90368174faa10ce6": {
+      "title": "通信网络安全防护管理办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "检查电信和互联网企业落实通信网络安全防护工作情况。相关企业要按照《通信网络安全防护管理办法》（工业和信息化部令第 11 号）等有关要求，严格落实通信网络安全定级备案，开展符合性评测和安全风险评估，并按期通过工业和信息化部通信网络安全防护管理系统（ https://mii-aqfh.cn ），报送通信网络安全单元的定级信息及其网络安全符合性评测和安全风险评估结果。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-09T20:35:36.623Z"
+    },
+    "fd0f2411625e3ca2603daa2b54651ed7c1c332abe059df89ab26d9d449d28a32": {
+      "title": "工业和信息化部关于加强车联网网络安全和数据安全工作的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf",
+          "version_id": "4185304615992d17bc7922e1fff7360c4888851b03dc71ee706829618e9bbedf:dda6b716680d5f4d15ad79e40e7e8d3ceb033632df23d54049a66439a4fcd03b",
+          "source_url": "https://shca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_f4213e8c3d5d4cafb7bbb2c2392e9692.html",
+          "excerpt": "检查车联网企业落实《工业和信息化部关于加强车联网网络安全和数据安全工作的通知》（工信部网安〔 2021 〕 134 号）及 2026 年 “铸盾车联”车联 网网络和数据安全专项行动要求的情况。包括网络和数据安全主体责任、车联网平台安全、智能网联汽车产品安全、车联网数据安全、车联网安全应急处置、车联网安全漏洞管理、 L3 及以上自动驾驶网络和数据安全等。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-09T20:35:36.623Z"
     }
   }
 }
