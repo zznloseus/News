@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T12:24:09.356Z",
+  "generated_at": "2026-11-10T20:24:41.545Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -784,7 +784,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T10:41:14.595Z"
+      "checked_at": "2026-11-10T20:24:41.545Z"
     },
     "a62493370b97a3a8020a842a2e1ccfd4eca8e207da75e4329b05dcd3bc55f7dc": {
       "title": "2026年黑龙江省智能家居（家庭网关、千兆全光组网设备和路由器）购新补贴实施细则",
@@ -800,7 +800,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T10:41:14.595Z"
+      "checked_at": "2026-11-10T20:24:41.545Z"
     },
     "ae544aa58cdac58288f45b05d4c5c79f4c88001e820c60457aafe0eae57ee150": {
       "title": "国务院办公厅关于印发职业技能提升行动方案（2019—2021年）的通知",
@@ -816,7 +816,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T10:41:14.595Z"
+      "checked_at": "2026-11-10T20:24:41.545Z"
     },
     "bfef433b6611a12664d132931410ddd47bf9aadaa0f2ebedf5a4cd9ea8997a04": {
       "title": "国家能源局关于印发〈可再生能源绿色电力证书核发和交易规则〉的通知",
@@ -1941,6 +1941,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-09T20:35:36.623Z"
+    },
+    "be0177f56468d6354e2d900f0d959d7d62ffc1b779ae277914435794bd80efc8": {
+      "title": "防范和处置非法集资条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "65a2da28c7615b996ffd82ba34d34ebfa79dfe823b72b3fc07cc868b1d9a9ae6",
+          "version_id": "65a2da28c7615b996ffd82ba34d34ebfa79dfe823b72b3fc07cc868b1d9a9ae6:24f3a2215958a226e8d2e51bb30f133fbb0e4812493b3ea81c0be0283185b15a",
+          "source_url": "https://www.nx.gov.cn/zwgk/gfxwj/202611/t20261110_5394991.html",
+          "excerpt": "第一条 为加强非法集资的防范和处置工作，保护社会公众合法权益，保障经济和社会健康发展，根据《防范和处置非法集资条例》（国务院令第737号，以下简称《条例》）等有关法律、行政法规，结合宁夏实际，制定本细则。"
+        }
+      ],
+      "status": "resolved",
+      "message": "官方正文标题及引用文号已核验",
+      "resolved_id": "1e8e986ddc7af02b6030799875729f0ddc02e04811d24b2e95d82a1f668ee59d",
+      "checked_at": "2026-11-10T20:24:41.545Z"
     }
   }
 }
