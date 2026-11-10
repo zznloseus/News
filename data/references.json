@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T20:35:36.623Z",
+  "generated_at": "2026-11-10T03:22:13.324Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -655,6 +655,12 @@
           "excerpt": "产业基础是制造业核心竞争力的根本体现，是制造强国、质量强国的重要基石。为贯彻落实党中央、国务院决策部署，加快提升产业基础能力，推进产业基础高级化，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部会同国家发展改革委、教育部、财政部、人力资源社会保障部、国务院国资委、市场监管总局、国家国防科工局近日联合印发《产业基础能力提升“十五五”规划》（以下简称《规划》）。"
         },
         {
+          "article_id": "c60684048d6cfe1d9763d7bc7f7cc11936bc1f81001b4e7b1cf1ff6bacd44aed",
+          "version_id": "c60684048d6cfe1d9763d7bc7f7cc11936bc1f81001b4e7b1cf1ff6bacd44aed:cada15aee2d200f27555fc2194a43d153125dde04cffd3addc7cff82b5a3b877",
+          "source_url": "https://hunca.miit.gov.cn/zwgk/zcwj/wjfb/art/2026/art_77c86dd282d9405ca68576970b2972ce.html",
+          "excerpt": "信息通信行业是创新驱动发展的先导力量，是国民经济和社会发展的基础性行业，是国际竞争和未来发展的战略前沿。为推动信息通信行业高质量发展，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        },
+        {
           "article_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85",
           "version_id": "f7d60d03493303a90a6d69c4099312d09307b83af5602988daa5cf0222178b85:94dc0b7342eb4893439978313aaf0aae67474c98c4efb26a5b3ee5eb464088ef",
           "source_url": "http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d0527f7f00a04ee5ba942ba865795ef3.html",
@@ -664,7 +670,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T02:52:10.150Z"
+      "checked_at": "2026-11-10T03:22:13.324Z"
     },
     "0e13bf0c1d78970e798e4d5a072658787209cf1c1d5fe0b8867694f3f4238407": {
       "title": "吉林省旅居养老服务机构认定暂行办法",
@@ -691,12 +697,18 @@
           "version_id": "13dbbf445dda6c49d30e36fa0d0b9f113e3d2140f3a24319dbaf6096aeb0f1a3:36181cfafd5fd52f5f601a348843d33c4601d3d979f3e247f641bbea71801308",
           "source_url": "https://www.cnipa.gov.cn/art/2026/10/13/art_75_208510.html",
           "excerpt": "为深入贯彻落实党中央、国务院决策部署，健全知识产权公共服务体系，提升公共服务水平，更好支持科技创新和产业升级，根据《知识产权强国建设纲要（2021—2035年）》《知识产权保护和运用“十五五”规划》，提出如下意见。"
+        },
+        {
+          "article_id": "4ad44fa2392e1e0942fd9e226fcd84c699392a885d318e08164ec3fcd2658b14",
+          "version_id": "4ad44fa2392e1e0942fd9e226fcd84c699392a885d318e08164ec3fcd2658b14:a69b88b2e5c831dcb66a583b9daec8f92bfc6a3ab152122d9ff388af566b8ee1",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/10/14/art_75_208567.html",
+          "excerpt": "坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平总书记关于知识产权工作的重要指示论述精神，认真贯彻党的二十大和二十届历次全会精神，落实《知识产权强国建设纲要（2021—2035年）》《知识产权保护和运用“十五五”规划》有关要求，发挥知识产权管理部门与海关优势，形成工作合力，协同推进知识产权全链条保护，营造良好营商环境和创新环境，为知识产权强国建设提供有力支撑。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T02:52:10.150Z"
+      "checked_at": "2026-11-10T03:22:13.324Z"
     },
     "744b8c059f65036f0dcbacb3f14037fac2f219dba0ca14184591e88a91c7fe61": {
       "title": "知识产权保护和运用“十五五”规划",
@@ -707,12 +719,18 @@
           "version_id": "13dbbf445dda6c49d30e36fa0d0b9f113e3d2140f3a24319dbaf6096aeb0f1a3:36181cfafd5fd52f5f601a348843d33c4601d3d979f3e247f641bbea71801308",
           "source_url": "https://www.cnipa.gov.cn/art/2026/10/13/art_75_208510.html",
           "excerpt": "为深入贯彻落实党中央、国务院决策部署，健全知识产权公共服务体系，提升公共服务水平，更好支持科技创新和产业升级，根据《知识产权强国建设纲要（2021—2035年）》《知识产权保护和运用“十五五”规划》，提出如下意见。"
+        },
+        {
+          "article_id": "4ad44fa2392e1e0942fd9e226fcd84c699392a885d318e08164ec3fcd2658b14",
+          "version_id": "4ad44fa2392e1e0942fd9e226fcd84c699392a885d318e08164ec3fcd2658b14:a69b88b2e5c831dcb66a583b9daec8f92bfc6a3ab152122d9ff388af566b8ee1",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/10/14/art_75_208567.html",
+          "excerpt": "坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平总书记关于知识产权工作的重要指示论述精神，认真贯彻党的二十大和二十届历次全会精神，落实《知识产权强国建设纲要（2021—2035年）》《知识产权保护和运用“十五五”规划》有关要求，发挥知识产权管理部门与海关优势，形成工作合力，协同推进知识产权全链条保护，营造良好营商环境和创新环境，为知识产权强国建设提供有力支撑。"
         }
       ],
       "status": "unresolved",
       "message": "候选正文标题或文号未通过核验",
       "resolved_id": null,
-      "checked_at": "2026-11-03T02:52:10.150Z"
+      "checked_at": "2026-11-10T03:22:13.324Z"
     },
     "81037d356f8b7623e22d2faafaa637157b3af22cbe4fc1e1db91cc040e4e94e6": {
       "title": "黑龙江省通信管理局 黑龙江省财政厅关于印发〈黑龙江省支持信息通信业加快发展若干措施〉的通知",
@@ -1254,7 +1272,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T03:52:26.068Z"
+      "checked_at": "2026-11-10T03:22:13.324Z"
     },
     "a09fe4ccff6f6b70f305825b936f1db25ebbaf2decfa3f4bff5eb1b404f92d9e": {
       "title": "信息通信行业发展“十五五”规划",
