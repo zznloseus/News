@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T20:24:41.545Z",
+  "generated_at": "2026-11-11T01:10:09.712Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -832,7 +832,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T18:21:55.490Z"
+      "checked_at": "2026-11-11T01:10:09.712Z"
     },
     "c48dd194dc8224beb22694b571c6adf977577c1d91b7faeaa462a351b98dd000": {
       "title": "中共中央办公厅国务院办公厅关于加快建立长期护理保险制度的意见",
@@ -848,7 +848,7 @@
       "status": "unresolved",
       "message": "候选页面不是可用政策文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T18:21:55.490Z"
+      "checked_at": "2026-11-11T01:10:09.712Z"
     },
     "cc88dc03212eb77912df2f658fc059d9a37d0a4c74a1ab8b45af5e9a14e402d7": {
       "title": "国务院关于修改和废止部分行政法规的决定",
@@ -870,7 +870,7 @@
       "status": "unresolved",
       "message": "同名官方候选不唯一，版本待核实",
       "resolved_id": null,
-      "checked_at": "2026-11-03T18:21:55.490Z"
+      "checked_at": "2026-11-11T01:10:09.712Z"
     },
     "ddfdd0d4d0fa1636a52cced78cdd499e18ef09106c4ce6e16acd2907cc6c5f97": {
       "title": "关于完善全国统一电力市场体系的实施意见",
@@ -886,7 +886,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-03T18:21:55.490Z"
+      "checked_at": "2026-11-11T01:10:09.712Z"
     },
     "5fedb1aec6233a70cf1e096bd98ae1a7fc9e6a2284997eeb7d6a621ec3f652bd": {
       "title": "财政部&#xa0;税务总局关于集成电路企业增值税加计抵减政策的通知",
