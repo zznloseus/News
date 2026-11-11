@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T01:10:09.390Z",
+  "generated_at": "2026-11-11T09:07:51.192Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -842,9 +842,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.962Z",
+        "captured_at": "2026-11-11T09:07:48.741Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -1843,7 +1843,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.965Z",
+        "captured_at": "2026-11-11T09:07:48.744Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -2530,7 +2530,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.972Z",
+        "captured_at": "2026-11-11T09:07:48.755Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3174,7 +3174,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.958Z",
+        "captured_at": "2026-11-11T09:07:48.738Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -3418,9 +3418,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.970Z",
+        "captured_at": "2026-11-11T09:07:48.751Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：HTTP 403"
       },
       "reference_links": []
     },
@@ -6278,9 +6278,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.978Z",
+        "captured_at": "2026-11-11T09:07:51.185Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -11110,9 +11110,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-10T03:22:12.975Z",
+        "captured_at": "2026-11-11T09:07:50.808Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -13687,6 +13687,81 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-11T01:10:09.390Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "00aa62a42175d9c1ba0a672af5a8517770daa3e26bdae61f5eb8ae005109fb01": {
+      "article_id": "00aa62a42175d9c1ba0a672af5a8517770daa3e26bdae61f5eb8ae005109fb01",
+      "source_id": "beijing",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261111_4942067.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-11T09:07:49.646Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "0d9e2417904b2596710bab2d60b75082a68bb9171636e4db5eb3b8bc86bd78ef": {
+      "article_id": "0d9e2417904b2596710bab2d60b75082a68bb9171636e4db5eb3b8bc86bd78ef",
+      "source_id": "beijing",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261111_4942152.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-11T09:07:50.033Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "e6ab535d25f3058508352bf67667fbe3680adefe866ed0c114ac839701b38e63": {
+      "article_id": "e6ab535d25f3058508352bf67667fbe3680adefe866ed0c114ac839701b38e63",
+      "source_id": "mohurd",
+      "source_url": "https://www.mohurd.gov.cn/gongkai/zc/xzgfxwjk/art/2025/art_1792578355.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-11T09:07:51.187Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "e7f4249650eccc801cc27b3aeee28fe6ebe257fad979a0686b2aa3d52907fd0f": {
+      "article_id": "e7f4249650eccc801cc27b3aeee28fe6ebe257fad979a0686b2aa3d52907fd0f",
+      "source_id": "mohurd",
+      "source_url": "https://www.mohurd.gov.cn/gongkai/zc/xzgfxwjk/art/2025/art_680439811.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-11T09:07:51.190Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "f251cf0a54d7a6b1b6b33c589ed67df4256c33374674028bc672d47c3ddc916d": {
+      "article_id": "f251cf0a54d7a6b1b6b33c589ed67df4256c33374674028bc672d47c3ddc916d",
+      "source_id": "mohurd",
+      "source_url": "https://www.mohurd.gov.cn/zhengcefabu/art/2026/art_7840991f6e47416d9bbedfefd61e5163.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-11T09:07:51.192Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
