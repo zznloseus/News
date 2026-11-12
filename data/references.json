@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T17:30:16.853Z",
+  "generated_at": "2026-11-12T23:26:41.127Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -144,7 +144,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T02:08:27.991Z"
+      "checked_at": "2026-11-12T23:26:41.127Z"
     },
     "5a081601a8d02f9eb711a5180572e5ee0a2857785391b77aac4cdfe635aaf1f0": {
       "title": "关于更高水平更高质量做好节能降碳工作的意见",
@@ -166,7 +166,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T02:08:27.991Z"
+      "checked_at": "2026-11-12T23:26:41.127Z"
     },
     "622d749358e331a395605bdb56ae90259c566c9041f12fd871df5c431effa53a": {
       "title": "专业技术人员资格考试违纪违规行为处理规定",
@@ -1058,7 +1058,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T02:08:27.991Z"
+      "checked_at": "2026-11-12T23:26:41.127Z"
     },
     "5e946b5c6772689db1df07b6a13eeb88133311446bea6d8add23faaf1ad5ee14": {
       "title": "供电企业信息公开实施办法",
@@ -1311,16 +1311,34 @@
       "document_no": null,
       "citations": [
         {
+          "article_id": "7943505c63f1ff7843a7c1f754f5facd4741f523742f93a4aecd0a40d1a97526",
+          "version_id": "7943505c63f1ff7843a7c1f754f5facd4741f523742f93a4aecd0a40d1a97526:3d242f5525b192802c42d8c8c480fb3e99e87158839d12fcc9da98dbca06464c",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261106_4381287.html",
+          "excerpt": "根据《自然资源保护利用“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        },
+        {
+          "article_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846",
+          "version_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846:63e50c6f622a2a5c78ad2917409456d366b4eaae58ae3ad1b9f308d46076d285",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383311.html",
+          "excerpt": "依据《中医药振兴发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》、《云南省国民健康“十五五”规划》，制定本规划。"
+        },
+        {
           "article_id": "ba5c71743ad24377fbe35ad3f8f7d928e7e1b325409023c9f02743e28aedbfa0",
           "version_id": "ba5c71743ad24377fbe35ad3f8f7d928e7e1b325409023c9f02743e28aedbfa0:76b4a344f17bab70a74d2f63965882a752cad909f7f93a5e0ac65b73e04f81af",
           "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261103_4380364.html",
           "excerpt": "根据《云南省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        },
+        {
+          "article_id": "e4bc807e23ee956a7003cf408dba0322d9432576dee187bc9ee88a14b6224c8c",
+          "version_id": "e4bc807e23ee956a7003cf408dba0322d9432576dee187bc9ee88a14b6224c8c:9849cf237844acd5e6e631bdbadb4a812fc5a01558a81c03406d11e6411e003c",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261103_4380365.html",
+          "excerpt": "为加快建设健康云南，根据《国民健康“十五五”规划》、《云南省国民经济和社会发展第十五个五年规划纲要》和《“健康云南2030”规划纲要》，制定本规划。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T02:08:27.991Z"
+      "checked_at": "2026-11-12T23:26:41.127Z"
     },
     "4bad4623d7297990bb48f4ceeb7871c3a51a449f5e840ea4c2f73e5136b6a907": {
       "title": "“健康云南2030”规划纲要",
