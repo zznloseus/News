@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T17:49:47.716Z",
+  "generated_at": "2026-11-12T00:23:22.544Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1957,6 +1957,70 @@
       "message": "官方正文标题及引用文号已核验",
       "resolved_id": "1e8e986ddc7af02b6030799875729f0ddc02e04811d24b2e95d82a1f668ee59d",
       "checked_at": "2026-11-10T20:24:41.545Z"
+    },
+    "597e9b806466118d2656b97ec16320091c6b36d7dd4a4a849a3d3f0c43668213": {
+      "title": "中医药振兴发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846",
+          "version_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846:63e50c6f622a2a5c78ad2917409456d366b4eaae58ae3ad1b9f308d46076d285",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383311.html",
+          "excerpt": "依据《中医药振兴发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》、《云南省国民健康“十五五”规划》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-12T00:23:22.544Z"
+    },
+    "a82c3e1621e71ad8ecb7a48a6348ebe01223a808f6e31a1904805c04a9b7a80f": {
+      "title": "会计改革与发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "ac8699a08ea223c1578fdc29a568292a2cecd982519deae72cbc51202bad881e",
+          "version_id": "ac8699a08ea223c1578fdc29a568292a2cecd982519deae72cbc51202bad881e:f93244cc2d420ab9e78d5b4561104203154e88de51a42e82c72be48fc629558e",
+          "source_url": "http://kjs.mof.gov.cn/zhengcefabu/202611/t20261105_4004148.htm",
+          "excerpt": "为提高会计工作水平、提升会计信息质量，促进会计工作更好服务经济社会高质量发展，按照党的二十届四中全会精神和《中华人民共和国国民经济和社会发展第十五个五年规划纲要》、财政“十五五”规划等，财政部编制了《会计改革与发展“十五五”规划》，现印发给你们，请认真贯彻执行。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-12T00:23:22.544Z"
+    },
+    "ee152322083fa504df2187102e2ba361e4e3ff0600bea2ff54afd743952f9359": {
+      "title": "云南省中医药条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846",
+          "version_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846:63e50c6f622a2a5c78ad2917409456d366b4eaae58ae3ad1b9f308d46076d285",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383311.html",
+          "excerpt": "（三十一）加强中医药法治与行风建设。持续宣传落实中医药法律法规，深入实施《云南省中医药条例》，牢固树立法治理念。建强专业化监督执法队伍，推进跨部门综合监管机制，提升中医药监督执法能力和信息化水平。加强中医医疗机构法治建设，压实医院合规管理责任，从严落实患者隐私和个人诊疗信息保护制度。严厉打击非法行医、虚假夸大宣传、欺诈骗保和生产销售假劣中药饮片、中成药等违法违规行为。加强医疗行风建设，深"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-12T00:23:22.544Z"
+    },
+    "f11177a95c6ae70fd265e92449c638a39b56ea5a2ebc4694430d31f7cd69850b": {
+      "title": "云南省国民健康“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846",
+          "version_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846:63e50c6f622a2a5c78ad2917409456d366b4eaae58ae3ad1b9f308d46076d285",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383311.html",
+          "excerpt": "依据《中医药振兴发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》、《云南省国民健康“十五五”规划》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-12T00:23:22.544Z"
     }
   }
 }
