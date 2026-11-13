@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T06:02:13.106Z",
+  "generated_at": "2026-11-13T15:15:55.223Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -5379,9 +5379,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:09.977Z",
+        "captured_at": "2026-11-13T15:15:52.441Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -5968,7 +5968,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:12.105Z",
+        "captured_at": "2026-11-13T15:15:53.231Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5983,7 +5983,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:12.108Z",
+        "captured_at": "2026-11-13T15:15:53.235Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -5998,7 +5998,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:12.968Z",
+        "captured_at": "2026-11-13T15:15:54.085Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6013,7 +6013,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:13.747Z",
+        "captured_at": "2026-11-13T15:15:54.999Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6180,7 +6180,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:13.959Z",
+        "captured_at": "2026-11-13T15:15:55.213Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6248,7 +6248,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:13.961Z",
+        "captured_at": "2026-11-13T15:15:55.215Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -6263,7 +6263,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-12T08:08:13.963Z",
+        "captured_at": "2026-11-13T15:15:55.217Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -14572,6 +14572,93 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-13T06:02:13.106Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "0705fb1bb11b0b492dd26ff817aca8aeb362e4d9f54bdcd5faf971e2a5ed0cc6": {
+      "article_id": "0705fb1bb11b0b492dd26ff817aca8aeb362e4d9f54bdcd5faf971e2a5ed0cc6",
+      "source_id": "nea",
+      "source_url": "https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html",
+      "versions": [
+        {
+          "id": "0705fb1bb11b0b492dd26ff817aca8aeb362e4d9f54bdcd5faf971e2a5ed0cc6:af6b4503e12189d3a087a363be80cebfc14a73072316d5327b8ae22a88c6010a",
+          "content_hash": "af6b4503e12189d3a087a363be80cebfc14a73072316d5327b8ae22a88c6010a",
+          "captured_at": "2026-11-13T15:15:50.985Z",
+          "status": "partial",
+          "text": "目录项的基本信息\n\n公开事项名称: 关于印发《“十五五”新型储能实施方案》的通知\n\n索引号: 000019705/2026-000183 主办单位: 国家能源局\n\n制发日期: 2026-10-29\n\n国家发展改革委 国家能源局关于印发\n\n《“十五五”新型储能实施方案》的通知\n\n发改能源〔2026〕1565号\n\n各省、自治区、直辖市及新疆生产建设兵团发展改革委、能源局，北京市城市管理委员会，国家能源局各派出机构，有关中央企业：\n\n现将《“十五五”新型储能实施方案》印发给你们，请结合实际，抓好贯彻落实。\n\n国家发展改革委\n\n国 家 能 源 局\n\n2026年10月29日\n\n附件： 《“十五五”新型储能实施方案》",
+          "paragraphs": [
+            "目录项的基本信息",
+            "公开事项名称: 关于印发《“十五五”新型储能实施方案》的通知",
+            "索引号: 000019705/2026-000183 主办单位: 国家能源局",
+            "制发日期: 2026-10-29",
+            "国家发展改革委 国家能源局关于印发",
+            "《“十五五”新型储能实施方案》的通知",
+            "发改能源〔2026〕1565号",
+            "各省、自治区、直辖市及新疆生产建设兵团发展改革委、能源局，北京市城市管理委员会，国家能源局各派出机构，有关中央企业：",
+            "现将《“十五五”新型储能实施方案》印发给你们，请结合实际，抓好贯彻落实。",
+            "国家发展改革委",
+            "国 家 能 源 局",
+            "2026年10月29日",
+            "附件： 《“十五五”新型储能实施方案》"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "0705fb1bb11b0b492dd26ff817aca8aeb362e4d9f54bdcd5faf971e2a5ed0cc6:af6b4503e12189d3a087a363be80cebfc14a73072316d5327b8ae22a88c6010a",
+      "latest_captured_at": "2026-11-13T15:15:50.985Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-13T15:15:50.985Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "426432048e3aef9691e2152ca88f4d4a456d4ed4db491e225c682cddece8ebdf": {
+      "article_id": "426432048e3aef9691e2152ca88f4d4a456d4ed4db491e225c682cddece8ebdf",
+      "source_id": "mee",
+      "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk02/202609/t20260922_1170492.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-13T15:15:55.219Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "4d3bdd9e9c65dc021e5c4216d9e4a97249dcdaf03b9cb0a5d8e55a11ca41bbf7": {
+      "article_id": "4d3bdd9e9c65dc021e5c4216d9e4a97249dcdaf03b9cb0a5d8e55a11ca41bbf7",
+      "source_id": "mee",
+      "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202610/t20261014_1182998.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-13T15:15:55.221Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "5512d4256a42022b40448419786bc9fa9ccce5bf6a1e58c4a27f8f65d2bf6bd1": {
+      "article_id": "5512d4256a42022b40448419786bc9fa9ccce5bf6a1e58c4a27f8f65d2bf6bd1",
+      "source_id": "mee",
+      "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk05/202610/t20261009_1175758.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-13T15:15:55.223Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
