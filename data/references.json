@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T15:15:55.501Z",
+  "generated_at": "2026-11-13T21:53:18.712Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1112,7 +1112,7 @@
       "status": "unresolved",
       "message": "同名官方候选不唯一，版本待核实",
       "resolved_id": null,
-      "checked_at": "2026-11-05T18:40:24.415Z"
+      "checked_at": "2026-11-13T21:53:18.712Z"
     },
     "a9b9203aca30fd9234eff0bd736b3b6585222af3eaaca06e86bcffa9a577cad6": {
       "title": "油气管网设施公平开放监管办法",
@@ -1144,7 +1144,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T00:01:31.880Z"
+      "checked_at": "2026-11-13T21:53:18.712Z"
     },
     "21815b957faad18f39284cf10fa8000e671376503aef8bc056be1efc42f0c65d": {
       "title": "电网调度管理条例",
@@ -2055,6 +2055,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-13T06:02:13.468Z"
+    },
+    "0df48d56180ab9ce30e36a2dc5598876606a5d101a3c3e58b86e328c91659b45": {
+      "title": "文化和旅游发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "1061ee4e88bfb93f8c56e94cdb2862db366ac5276c20fca956a0490a6cb12e1c",
+          "version_id": "1061ee4e88bfb93f8c56e94cdb2862db366ac5276c20fca956a0490a6cb12e1c:53d5ef12513e1f6ea298bd3e41901987af0f61af8064e8c4c028dfcedf1c6580",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261113_4384031.html",
+          "excerpt": "根据《文化和旅游发展“十五五”规划》、《旅游强国建设“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》等，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-13T21:53:18.712Z"
+    },
+    "fb59ef3b9562d72ea7130d891ef5d42a38b1d257d21b9120805d47e6aa46f86c": {
+      "title": "旅游强国建设“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "1061ee4e88bfb93f8c56e94cdb2862db366ac5276c20fca956a0490a6cb12e1c",
+          "version_id": "1061ee4e88bfb93f8c56e94cdb2862db366ac5276c20fca956a0490a6cb12e1c:53d5ef12513e1f6ea298bd3e41901987af0f61af8064e8c4c028dfcedf1c6580",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261113_4384031.html",
+          "excerpt": "根据《文化和旅游发展“十五五”规划》、《旅游强国建设“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》等，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-13T21:53:18.712Z"
     }
   }
 }
