@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T23:26:41.127Z",
+  "generated_at": "2026-11-13T06:02:13.468Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -220,7 +220,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T10:38:50.750Z"
+      "checked_at": "2026-11-13T06:02:13.468Z"
     },
     "3b92823406964ee8431fb1d196332146314b0f52d42db4defa672c945ca03f88": {
       "title": "关于全国通信专业技术人员职业水平考试收费标准及有关问题的通知",
@@ -236,7 +236,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T10:38:50.750Z"
+      "checked_at": "2026-11-13T06:02:13.468Z"
     },
     "664c047564878f828daa5ddda20811d29c8f61e7f6e66f7233ac97568f48379b": {
       "title": "内蒙古自治区党委 自治区人民政府关于贯彻落实<教育强国建设规划纲要(2024—2035年)>加快建设教育强区的意见",
@@ -1096,7 +1096,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-05T10:38:50.750Z"
+      "checked_at": "2026-11-13T06:02:13.468Z"
     },
     "a3c58475713cacf36acef792577260089869b95ec9d0c896556ea32c0778a313": {
       "title": "油气管网设施公平开放信息公开与报送办法",
@@ -2039,6 +2039,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-12T00:23:22.544Z"
+    },
+    "8eb98c1d077df095bde553238a1e3da184c6e58203df389865b08eed0d194b02": {
+      "title": "云南教育强省建设规划纲要（2024—2035年）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "9e3dde341fd01e50355a4cd1583c18650561b47ebabffc7e79ca6307c86f03e4",
+          "version_id": "9e3dde341fd01e50355a4cd1583c18650561b47ebabffc7e79ca6307c86f03e4:004a232909cd4a398024bc4be39e4a907c42610edbe33bf89ad46ee221a4112b",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383583.html",
+          "excerpt": "为加快推进教育强省建设，依据国家《教育发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》，结合《云南教育强省建设规划纲要（2024—2035年）》总体安排，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-13T06:02:13.468Z"
     }
   }
 }
