@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T21:53:18.712Z",
+  "generated_at": "2026-11-14T02:09:54.102Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1128,7 +1128,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T00:01:31.880Z"
+      "checked_at": "2026-11-14T02:09:54.102Z"
     },
     "0ac32586e67b930c5823164162707d4dc2aa3c5d5c3ae2cb8623880700fe315d": {
       "title": "电力并网运行管理规定",
@@ -1160,7 +1160,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T06:29:58.435Z"
+      "checked_at": "2026-11-14T02:09:54.102Z"
     },
     "91ccb16be2703553e2e7db5d7e25d05acf852e0f8b51dc368630d3cd84623fb8": {
       "title": "中共中央办公厅国务院办公厅关于健全社会信用体系的意见",
@@ -1354,7 +1354,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T00:01:31.880Z"
+      "checked_at": "2026-11-14T02:09:54.102Z"
     },
     "ba0ec8e79fac099b703d6134d7ab1f15f85da55ece5c1297722bae3704daed72": {
       "title": "国民健康“十五五”规划",
@@ -1370,7 +1370,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T00:01:31.880Z"
+      "checked_at": "2026-11-14T02:09:54.102Z"
     },
     "8a52b2a2cb6962aa518a1030c4590ed5d31e67619524f370ae0f43cda6217e24": {
       "title": "“哈亚雪”沿线区域及部门交通护游保畅协作工作方案",
