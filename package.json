@@ -16,7 +16,8 @@
     "keywords": "node scripts/keywords.mjs",
     "archive": "node scripts/archive.mjs",
     "references": "node scripts/references.mjs",
-    "verify": "node scripts/verify-build.mjs"
+    "verify": "node scripts/verify-build.mjs",
+    "test:reader-dom": "node scripts/acceptance-reader-dom.mjs"
   },
   "dependencies": {
     "lucide-react": "1.31.0",
@@ -27,6 +28,7 @@
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "6.0.2",
+    "jsdom": "26.1.0",
     "typescript": "5.9.3",
     "vite": "8.0.13"
   }

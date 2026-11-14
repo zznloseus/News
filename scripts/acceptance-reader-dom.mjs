@@ -1,0 +1,43 @@
+import assert from 'node:assert/strict';
+import {JSDOM} from 'jsdom';
+import React,{act,useState} from 'react';
+
+import {build} from 'vite';
+await build({build:{ssr:'src/ArchiveReader.tsx',outDir:'node_modules/.cache/v43-reader',emptyOutDir:true,minify:false},logLevel:'warn'});
+process.env.NODE_ENV='development';
+const {default:Reader}=await import('../node_modules/.cache/v43-reader/ArchiveReader.js');
+import {emptyLibrary,saveBookmark,putNote,parseLibraryBackup,exportLibrary} from '../lib/library.mjs';
+import {contentHashSync} from '../lib/hash.mjs';
+import {readSelection} from '../src/reader-annotations.mjs';
+const dom=new JSDOM('<div id="policy-v4-home-refined"><div id="root"></div></div>',{url:'https://example.com/News/'});
+for(const key of ['window','document','HTMLElement','HTMLTextAreaElement','Node','Event','MouseEvent','KeyboardEvent','getComputedStyle'])Object.defineProperty(globalThis,key,{value:key==='getComputedStyle'?dom.window.getComputedStyle:dom.window[key],configurable:true});
+const {createRoot}=await import('react-dom/client');
+const eventErrors=[];window.addEventListener('error',event=>eventErrors.push(event.error||event.message));
+globalThis.IS_REACT_ACT_ENVIRONMENT=true;
+globalThis.ResizeObserver=class{constructor(callback){this.callback=callback;}observe(){this.callback([]);}disconnect(){}};
+Object.defineProperty(HTMLElement.prototype,'clientWidth',{get(){return 1000;}});
+HTMLElement.prototype.getBoundingClientRect=()=>({left:0,top:0,right:1000,bottom:30,width:1000,height:30});window.scrollBy=()=>{};
+const date='2026-11-15T00:00:00Z',a={id:'dom',source_id:'gov',url:'https://www.gov.cn/dom',title:'国务院关于推进产业发展的通知',collected_at:date};
+const paragraphs=['支持建设中试平台。完善服务。','促进成果转化。支持建设中试平台。'];
+const text=paragraphs.join('\n\n'),hash=contentHashSync(text),v={id:a.id+':'+hash,content_hash:hash,text,paragraphs,status:'text',captured_at:date};
+const record={article_id:a.id,source_id:a.source_id,source_url:a.url,versions:[v]},archives={records:{[a.id]:record}};
+let state=saveBookmark(emptyLibrary(),a,record);state=putNote(state,{id:'existing',article_id:a.id,version_id:v.id,quote:'支持建设中试平台',quote_start:0,text:'已有引用批注'});
+function App(){const [library,setLibrary]=useState(state);return React.createElement(Reader,{article:a,archives,library,mutate:async fn=>{state=fn(state);setLibrary(state);return state;}});}
+let root=createRoot(document.getElementById('root'));await act(async()=>root.render(React.createElement(App)));
+const button=name=>[...document.querySelectorAll('button')].find(x=>x.textContent.trim()===name||x.getAttribute('aria-label')===name);
+const click=async name=>{const b=button(name);assert(b,'Button missing '+name);await act(async()=>b.click());};
+const fill=async text=>{const input=document.querySelector('textarea');assert(input);await act(async()=>{Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype,'value').set.call(input,text);input.dispatchEvent(new window.Event('input',{bubbles:true}));input.dispatchEvent(new window.Event('change',{bubbles:true}));});};
+assert.equal(document.querySelector('.v4-reader').dataset.notesOpen,'false');assert(document.querySelector('aside').hidden);assert(!document.querySelector('textarea'));assert.equal(document.querySelectorAll('.v4-margin-marks button').length,1);
+await click('写笔记');assert(!document.querySelector('aside').hidden);assert(document.querySelector('textarea'));
+await fill('未保存观察');
+await click('收起笔记');await click('写笔记');assert.equal(document.querySelector('textarea').value,'未保存观察');
+await click('保存笔记');assert.equal(state.notes.filter(n=>!n.deleted_at).length,2);assert.equal(state.notes.at(-1).text,'未保存观察');assert(!document.querySelector('textarea'));
+await click('编辑');await fill('修改后的观察');await click('保存笔记');assert.equal(state.notes.at(-1).text,'修改后的观察');
+await click('删除');assert.equal(state.notes.filter(n=>!n.deleted_at).length,1);await click('撤销删除笔记');assert.equal(state.notes.filter(n=>!n.deleted_at).length,2);
+assert.equal(parseLibraryBackup(exportLibrary(state)).notes.at(-1).text,'修改后的观察');
+// Exercise the real DOM Range algorithm for a selection across paragraphs, including inline mark nodes.
+const container=document.createElement('div');container.innerHTML='<p data-reader-paragraph="0">支持建设<mark>中试平台</mark>。完善服务。</p><button>1</button><p data-reader-paragraph="1">促进成果转化。支持建设中试平台。</p>';
+const range=document.createRange(),rows=container.querySelectorAll('p');range.setStart(rows[0].firstChild,4);range.setEnd(rows[1].firstChild,6);
+const selected=readSelection(container,v,{rangeCount:1,isCollapsed:false,getRangeAt:()=>range});assert.equal(selected.quote,'中试平台。完善服务。\n\n促进成果转化');assert.equal(selected.quoteStart,4);
+assert.equal(readSelection(container,v,{rangeCount:0}),null);
+await act(async()=>root.unmount());assert.deepEqual(eventErrors,[]);console.log('PASS: real React DOM mount; default quiet reading; existing markers; compose/collapse/draft resume/save/edit/delete/undo/backup; real DOM cross-paragraph Range. Layout and native browser events NOT verified.');

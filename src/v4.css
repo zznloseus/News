@@ -610,3 +610,14 @@ html{color-scheme:light}body{background:#f7f9f6}
  #policy-v4-home-refined .v4-reading-actions button,#policy-v4-home-refined .v4-note-panel button,#policy-v4-home-refined .v4-selection-menu button{min-height:44px}
  #policy-v4-home-refined .v4-margin-marks button{min-width:30px;min-height:44px}
 }
+
+/* V4.3 collection and deployment freshness. */
+#policy-v4-home-refined .v43-health{padding:14px 0;border-bottom:1px solid var(--p4-line);font-size:12px;color:var(--p4-muted);line-height:1.9}
+#policy-v4-home-refined .v43-health summary{cursor:pointer;color:var(--p4-green)}
+#policy-v4-home-refined .v43-health dl{margin:15px 0;display:flex;gap:14px 32px;flex-wrap:wrap}
+#policy-v4-home-refined .v43-health dt{font-size:11px}
+#policy-v4-home-refined .v43-health dd{margin:0;color:var(--p4-ink)}
+#policy-v4-home-refined .v43-health ul{padding:0;list-style:none}
+#policy-v4-home-refined .v43-health li{border-top:1px solid var(--p4-line);padding:12px 0;overflow-wrap:anywhere}
+#policy-v4-home-refined .v43-health strong{font-weight:500;color:var(--p4-ink);margin-right:15px}
+#policy-v4-home-refined .v43-health small{display:block;font-size:11px}
