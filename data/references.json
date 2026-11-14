@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T10:00:53.146Z",
+  "generated_at": "2026-11-14T16:34:45.971Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -284,7 +284,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T14:55:58.423Z"
+      "checked_at": "2026-11-14T16:34:45.971Z"
     },
     "6c2d9176cba59455f654289c0006045fe3359049692e07841d398232c5b26394": {
       "title": "消耗臭氧层物质管理条例",
@@ -316,7 +316,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T14:55:58.423Z"
+      "checked_at": "2026-11-14T16:34:45.971Z"
     },
     "6f89d260f45042876856fba5cd9bfe238c74ad06c81206e238a83021fe2eb17d": {
       "title": "关于推动历史经典产业高质量发展的意见",
@@ -1240,7 +1240,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T14:55:58.423Z"
+      "checked_at": "2026-11-14T16:34:45.971Z"
     },
     "ae41f934435eaf27b4eacee19d2bc2954f0332e125258f22c4f925428e983d89": {
       "title": "新型电力系统建设“十五五”规划",
@@ -1386,7 +1386,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T20:48:02.265Z"
+      "checked_at": "2026-11-14T16:34:45.971Z"
     },
     "8d5bdee9164e9f8583d0d90c0f5cb2c58c24b143ec367a62146166e143318f8b": {
       "title": "黑龙江省A级旅游景区提升工程三年行动实施方案（2025—2027年）",
