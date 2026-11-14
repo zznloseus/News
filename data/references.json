@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T16:34:45.971Z",
+  "generated_at": "2026-11-14T21:16:03.591Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1402,7 +1402,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T20:48:02.265Z"
+      "checked_at": "2026-11-14T21:16:03.591Z"
     },
     "9fce878334df319afb2b6f84289fbc3f65a7fffad032ad99035e5874e8068607": {
       "title": "黑龙江省文旅领域消费券补助实施细则（试行）",
@@ -1418,7 +1418,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T20:48:02.265Z"
+      "checked_at": "2026-11-14T21:16:03.591Z"
     },
     "b0aa260ae91832d192747ce8710dcfced788fc94f8a5f445e06899db6bf02adc": {
       "title": "黑龙江省旅游厕所管理办法",
@@ -1434,7 +1434,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-06T20:48:02.265Z"
+      "checked_at": "2026-11-14T21:16:03.591Z"
     },
     "01919b6e6bf4c497930e7d4f08939c4beea4e07dd721c113f5285d3c414d2aa6": {
       "title": "自然资源保护利用“十五五”规划",
@@ -2087,6 +2087,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-13T21:53:18.712Z"
+    },
+    "dfbf42fc5d43fef85ed3fbfaea6821c7e409a42743e94f99638b9f26316d8eb0": {
+      "title": "工业固体废物资源综合利用评价管理暂行办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "8ecae3b9ae03b3844153e2d6e72bbbbba145fdf6d58e0e0feb06d2274f758faa",
+          "version_id": "8ecae3b9ae03b3844153e2d6e72bbbbba145fdf6d58e0e0feb06d2274f758faa:a5e451703943bc248c0d554ca0d5cbf38282dcdd9e0487403abc6e7bf57aa28f",
+          "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_91fd2e935429436fb64e57e902f43769.html",
+          "excerpt": "依据《中华人民共和国生态环境法典》，自公告发布之日起，我部印发的《工业固体废物资源综合利用评价管理暂行办法》和《国家工业固体废物资源综合利用产品目录》（工业和信息化部公告2018年 第26号）予以废止。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-14T21:16:03.591Z"
     }
   }
 }
