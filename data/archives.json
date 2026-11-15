@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T16:55:10.946Z",
+  "generated_at": "2026-11-15T21:37:10.166Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1160,9 +1160,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.905Z",
+        "captured_at": "2026-11-15T21:37:01.117Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -5113,7 +5113,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.908Z",
+        "captured_at": "2026-11-15T21:37:01.120Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -6248,7 +6248,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:41.595Z",
+        "captured_at": "2026-11-15T21:37:01.400Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -6263,7 +6263,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:41.597Z",
+        "captured_at": "2026-11-15T21:37:01.402Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7265,9 +7265,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.904Z",
+        "captured_at": "2026-11-15T21:37:00.673Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -10219,9 +10219,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.910Z",
+        "captured_at": "2026-11-15T21:37:01.397Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -14918,9 +14918,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.912Z",
+        "captured_at": "2026-11-15T21:37:08.073Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -15082,7 +15082,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T21:15:57.423Z",
+        "captured_at": "2026-11-15T21:37:05.636Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -15458,6 +15458,113 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-15T16:55:10.946Z",
+        "status": "unavailable",
+        "message": "HTTP 404"
+      },
+      "reference_links": []
+    },
+    "f3959c1f52d2e1d60a3a24be3a5eb9e4e6d2c3f18d49c23c63bdd965b890428b": {
+      "article_id": "f3959c1f52d2e1d60a3a24be3a5eb9e4e6d2c3f18d49c23c63bdd965b890428b",
+      "source_id": "tianjin",
+      "source_url": "https://www.tj.gov.cn/sy/tjxw/202611/t20261115_7656229.html",
+      "versions": [
+        {
+          "id": "f3959c1f52d2e1d60a3a24be3a5eb9e4e6d2c3f18d49c23c63bdd965b890428b:886797f2467cee0835264e1294fa3a7a8614515f423f0318447b29bf171a5b14",
+          "content_hash": "886797f2467cee0835264e1294fa3a7a8614515f423f0318447b29bf171a5b14",
+          "captured_at": "2026-11-15T21:37:05.386Z",
+          "status": "text",
+          "text": "围绕创新驱动发展，构筑气象科技人才高地\n\n持续全面深化改革，着力构建现代气象业务体系\n\n融入京津冀协同发展，高质量建设天津滨海新区国家气象科创园\n\n着力提升气象服务质效水平，深耕民生领域气象服务\n\n气象预警嵌入城市运行治理“一张网”，着力提升城市治理气象保障水平\n\n日前，市政府新闻办举行“开局起步‘十五五’”系列主题新闻发布会，发布《天津市气象发展“十五五”规划》（以下简称《规划》）。市气象局党组书记、局长金琪介绍，“十五五”时期，我市将以推动全市气象科技能力现代化和社会服务现代化为主线，以打造海河流域气象、北方海洋气象、气象雷达研试等区域中心功能纵深发展高地为抓手，加快构建适应需求、结构完善、功能先进、保障有力的气象现代化体系。\n\n《规划》明确，到2030年，全市将建成行业统筹协同、综合立体的气象观测系统，气象灾害监测能力位于全国前列；建立数智气象预报预警业务体系，精准预报预测能力显著提升；建成覆盖城乡的公共气象服务体系，实现智能研判、精准推送的智慧气象服务；气象科技创新资源配置集约高效，高水平人才队伍进一步壮大；建成气象行政管理与服务保障相辅相成的天津气象治理体系。\n\n围绕创新驱动发展，构筑气象科技人才高地，市气象局将加强科技创新平台建设，建强黄渤海海洋气象科学试验基地和天津市海洋气象重点实验室；聚焦海洋气象、流域气象、城市气象、生态气象等特色领域开展关键技术攻关，推动人工智能与气象业务深度融合。\n\n持续全面深化改革，着力构建现代气象业务体系，市气象局将提升精细化气象监测和观测即服务能力，构建新一代数智预报体系，重点增强灾害性天气预报预警能力；发展数智气象服务，健全数智化决策气象服务和智能公共气象服务体系；构建数智一体的大数字底座，强化气象数据的收集、挖掘和应用。\n\n在融入京津冀协同发展上，我市气象部门将高质量建设天津滨海新区国家气象科创园，重点推进气象雷达研究试验引领区、气象智能装备科创区、综合观测科学试验区和气象科技文化展示区建设，同时进一步强化海河流域气象中心辐射带动作用，提升水文气象风险的定量化预报能力，打造“通武廊”跨区域小流域联防示范区。\n\n着力提升气象服务质效水平，市气象局将深耕绿色建筑、健康康养、文旅休闲等民生领域气象服务，提升交通、金融、能源等重点行业气象保障水平。发展气候资源生态价值评估业务，夯实乡镇灾害防御和农业气象服务保障基础，让气象服务更加贴近城市运行和百姓生活的实际需要。\n\n市气象局还将把气象预警嵌入城市运行治理“一张网”，让供水、供电、交通等城市生命线在极端天气面前更有韧性，切实发挥气象防灾减灾第一道防线作用，着力提升城市治理气象保障水平。",
+          "paragraphs": [
+            "围绕创新驱动发展，构筑气象科技人才高地",
+            "持续全面深化改革，着力构建现代气象业务体系",
+            "融入京津冀协同发展，高质量建设天津滨海新区国家气象科创园",
+            "着力提升气象服务质效水平，深耕民生领域气象服务",
+            "气象预警嵌入城市运行治理“一张网”，着力提升城市治理气象保障水平",
+            "日前，市政府新闻办举行“开局起步‘十五五’”系列主题新闻发布会，发布《天津市气象发展“十五五”规划》（以下简称《规划》）。市气象局党组书记、局长金琪介绍，“十五五”时期，我市将以推动全市气象科技能力现代化和社会服务现代化为主线，以打造海河流域气象、北方海洋气象、气象雷达研试等区域中心功能纵深发展高地为抓手，加快构建适应需求、结构完善、功能先进、保障有力的气象现代化体系。",
+            "《规划》明确，到2030年，全市将建成行业统筹协同、综合立体的气象观测系统，气象灾害监测能力位于全国前列；建立数智气象预报预警业务体系，精准预报预测能力显著提升；建成覆盖城乡的公共气象服务体系，实现智能研判、精准推送的智慧气象服务；气象科技创新资源配置集约高效，高水平人才队伍进一步壮大；建成气象行政管理与服务保障相辅相成的天津气象治理体系。",
+            "围绕创新驱动发展，构筑气象科技人才高地，市气象局将加强科技创新平台建设，建强黄渤海海洋气象科学试验基地和天津市海洋气象重点实验室；聚焦海洋气象、流域气象、城市气象、生态气象等特色领域开展关键技术攻关，推动人工智能与气象业务深度融合。",
+            "持续全面深化改革，着力构建现代气象业务体系，市气象局将提升精细化气象监测和观测即服务能力，构建新一代数智预报体系，重点增强灾害性天气预报预警能力；发展数智气象服务，健全数智化决策气象服务和智能公共气象服务体系；构建数智一体的大数字底座，强化气象数据的收集、挖掘和应用。",
+            "在融入京津冀协同发展上，我市气象部门将高质量建设天津滨海新区国家气象科创园，重点推进气象雷达研究试验引领区、气象智能装备科创区、综合观测科学试验区和气象科技文化展示区建设，同时进一步强化海河流域气象中心辐射带动作用，提升水文气象风险的定量化预报能力，打造“通武廊”跨区域小流域联防示范区。",
+            "着力提升气象服务质效水平，市气象局将深耕绿色建筑、健康康养、文旅休闲等民生领域气象服务，提升交通、金融、能源等重点行业气象保障水平。发展气候资源生态价值评估业务，夯实乡镇灾害防御和农业气象服务保障基础，让气象服务更加贴近城市运行和百姓生活的实际需要。",
+            "市气象局还将把气象预警嵌入城市运行治理“一张网”，让供水、供电、交通等城市生命线在极端天气面前更有韧性，切实发挥气象防灾减灾第一道防线作用，着力提升城市治理气象保障水平。"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "f3959c1f52d2e1d60a3a24be3a5eb9e4e6d2c3f18d49c23c63bdd965b890428b:886797f2467cee0835264e1294fa3a7a8614515f423f0318447b29bf171a5b14",
+      "latest_captured_at": "2026-11-15T21:37:05.386Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-15T21:37:05.386Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "642bc814c86530a6ad087176781361bc963f4bec7d71d24a6f50568d8162d926": {
+      "article_id": "642bc814c86530a6ad087176781361bc963f4bec7d71d24a6f50568d8162d926",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/zcfgk/c100012/c5252754/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T21:37:09.191Z",
+        "status": "unavailable",
+        "message": "HTTP 404"
+      },
+      "reference_links": []
+    },
+    "69e87ba17050d36be08c00e0aa063897ee4c951a482a50c688e7c784058a53c3": {
+      "article_id": "69e87ba17050d36be08c00e0aa063897ee4c951a482a50c688e7c784058a53c3",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/chinatax/n810356/n810961/c5252106/content.html",
+      "versions": [
+        {
+          "id": "69e87ba17050d36be08c00e0aa063897ee4c951a482a50c688e7c784058a53c3:7e219fac49c04b9f06c14c3823963cc843597abbba7409654b961e528bf2bb09",
+          "content_hash": "7e219fac49c04b9f06c14c3823963cc843597abbba7409654b961e528bf2bb09",
+          "captured_at": "2026-11-15T21:37:09.834Z",
+          "status": "partial",
+          "text": "为进一步发挥税务行政复议化解行政争议的主渠道作用，保护纳税人缴费人合法权益，监督和保障税务机关依法行使职权，国家税务总局对《税务行政复议规则》（国家税务总局令第21号公布，国家税务总局令第39号和国家税务总局令第44号修正）进行修改并形成《税务行政复议规则（征求意见稿）》。现向社会公开征求意见，公众可在2026年9月30日前，通过以下途径和方式提出意见：\n\n1.登录国家税务总局网站（网址：https://www.chinatax.gov.cn），在首页主菜单“互动交流-意见征集”栏目提出意见。\n\n2.通过信函方式将意见邮寄至：北京市海淀区羊坊店西路5号国家税务总局政策法规司（邮政编码：100038），并在信封上注明“税务行政复议规则征求意见”字样。\n\n附件：1. 税务行政复议规则（征求意见稿）\n\n2. 关于《税务行政复议规则（征求意见稿）》的起草说明\n\n国家税务总局\n\n2026年9月1日",
+          "paragraphs": [
+            "为进一步发挥税务行政复议化解行政争议的主渠道作用，保护纳税人缴费人合法权益，监督和保障税务机关依法行使职权，国家税务总局对《税务行政复议规则》（国家税务总局令第21号公布，国家税务总局令第39号和国家税务总局令第44号修正）进行修改并形成《税务行政复议规则（征求意见稿）》。现向社会公开征求意见，公众可在2026年9月30日前，通过以下途径和方式提出意见：",
+            "1.登录国家税务总局网站（网址：https://www.chinatax.gov.cn），在首页主菜单“互动交流-意见征集”栏目提出意见。",
+            "2.通过信函方式将意见邮寄至：北京市海淀区羊坊店西路5号国家税务总局政策法规司（邮政编码：100038），并在信封上注明“税务行政复议规则征求意见”字样。",
+            "附件：1. 税务行政复议规则（征求意见稿）",
+            "2. 关于《税务行政复议规则（征求意见稿）》的起草说明",
+            "国家税务总局",
+            "2026年9月1日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": null
+        }
+      ],
+      "latest_version_id": "69e87ba17050d36be08c00e0aa063897ee4c951a482a50c688e7c784058a53c3:7e219fac49c04b9f06c14c3823963cc843597abbba7409654b961e528bf2bb09",
+      "latest_captured_at": "2026-11-15T21:37:09.834Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-15T21:37:09.834Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "7e135261f2d8c485b64654f9b4d334bfc83d07ed00c6190e73be90a146ba0853": {
+      "article_id": "7e135261f2d8c485b64654f9b4d334bfc83d07ed00c6190e73be90a146ba0853",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T21:37:10.166Z",
         "status": "unavailable",
         "message": "HTTP 404"
       },

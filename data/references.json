@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T16:55:11.313Z",
+  "generated_at": "2026-11-15T21:37:10.459Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -371,6 +371,18 @@
       "document_no": null,
       "citations": [
         {
+          "article_id": "2f4c072bb851f825936839b8f54cf58b813794137b0f80f6113d914b1234d4e8",
+          "version_id": "2f4c072bb851f825936839b8f54cf58b813794137b0f80f6113d914b1234d4e8:43a2b5e0de620b668a36c428786c2287b7f3ffd39a6f43b883e59a64d1cf276f",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/10/14/art_74_208559.html",
+          "excerpt": "根据《地理标志产品保护办法》第二十六条规定，由重庆市忠县人民政府提出申请，经重庆市知识产权局初审，国家知识产权局对忠州豆腐乳（忠县豆腐乳）地理标志产品保护要求予以变更。现将变更内容公告如下。"
+        },
+        {
+          "article_id": "5fc39c3573f5b6a676fec4622f7a1a2e62d157d01102b18c297d9d77df8f686e",
+          "version_id": "5fc39c3573f5b6a676fec4622f7a1a2e62d157d01102b18c297d9d77df8f686e:78ff9fbc3947d063bebab4a6ea6555fdf635d77de65ff872e4f113182648b8dd",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/9/15/art_74_208146.html",
+          "excerpt": "根据《地理标志产品保护办法》《地理标志专用标志使用管理办法（试行）》，经有关省级知识产权局审核，并经国家知识产权局审查，因不再从事该地理标志产品生产、营业执照已注销、相关生产许可证已注销、营业执照被吊销、已迁出地理标志产品产地范围等情形，决定注销北京永丰创新农业科技有限公司等112家企业的地理标志专用标志使用注册登记。"
+        },
+        {
           "article_id": "930dd2710feebf60a73acf947f855061be8c43feaa2574afce453a35edc13fa6",
           "version_id": "930dd2710feebf60a73acf947f855061be8c43feaa2574afce453a35edc13fa6:3dd275975ec487fea48c4d4c55b2d708d0028b0c3d033011473dc4a46cb9c89b",
           "source_url": "https://www.cnipa.gov.cn/art/2026/10/21/art_74_208697.html",
@@ -380,7 +392,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T18:37:11.673Z"
+      "checked_at": "2026-11-15T21:37:10.459Z"
     },
     "a69f04992cb88eab33d01afc39dabab5c3d79584032cb4300fbe74e159b6a036": {
       "title": "国务院办公厅关于完善全国统一电力市场体系的实施意见",
@@ -1594,7 +1606,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T18:37:11.673Z"
+      "checked_at": "2026-11-15T21:37:10.459Z"
     },
     "fefca32625290f5f1c89ccc11430411df6028b3048c87394fe1bfde87ff972bb": {
       "title": "湖南省职称评审监管实施办法",
@@ -1610,7 +1622,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T18:37:11.673Z"
+      "checked_at": "2026-11-15T21:37:10.459Z"
     },
     "02b1c77695e26b185defc09c8dd98d245686068618c502c926ef606e8593a92d": {
       "title": "中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议",
@@ -1626,7 +1638,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T22:38:01.279Z"
+      "checked_at": "2026-11-15T21:37:10.459Z"
     },
     "a5cc0131428f12e0ed364be23b8912ba7d19870529e300036d50f78ea4bd5198": {
       "title": "黑龙江省国民经济和社会发展第十五个五年规划纲要",
