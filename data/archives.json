@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T01:41:09.107Z",
+  "generated_at": "2026-11-15T09:03:09.658Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -6278,9 +6278,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.243Z",
+        "captured_at": "2026-11-15T09:03:09.633Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -6293,7 +6293,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.880Z",
+        "captured_at": "2026-11-15T09:03:09.642Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7160,7 +7160,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.881Z",
+        "captured_at": "2026-11-15T09:03:09.645Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7175,7 +7175,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.884Z",
+        "captured_at": "2026-11-15T09:03:09.648Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7190,7 +7190,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.885Z",
+        "captured_at": "2026-11-15T09:03:09.651Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -7205,7 +7205,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.886Z",
+        "captured_at": "2026-11-15T09:03:09.653Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -11110,9 +11110,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:52.340Z",
+        "captured_at": "2026-11-15T09:03:09.630Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -13776,9 +13776,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.558Z",
+        "captured_at": "2026-11-15T09:03:09.637Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -13791,9 +13791,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T02:09:53.878Z",
+        "captured_at": "2026-11-15T09:03:09.640Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -15370,6 +15370,51 @@
         "captured_at": "2026-11-15T01:41:09.107Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "f09840bdfd6b1dfe4479a4552c3fbcf087e541f11a4dabb978acb302236a5968": {
+      "article_id": "f09840bdfd6b1dfe4479a4552c3fbcf087e541f11a4dabb978acb302236a5968",
+      "source_id": "mee",
+      "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202610/t20261010_1175960.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T09:03:09.655Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "f5df87760b4f9dd3fd1704fdaf250f1e9764bb665a2538ac31dbc845389147de": {
+      "article_id": "f5df87760b4f9dd3fd1704fdaf250f1e9764bb665a2538ac31dbc845389147de",
+      "source_id": "mee",
+      "source_url": "https://www.mee.gov.cn/zcwj/zyygwj/202610/t20261014_1182964.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T09:03:09.657Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "1b9b702e05d1852528464554d6cb49d06e9dc8fcd88ed63ab84761438b871856": {
+      "article_id": "1b9b702e05d1852528464554d6cb49d06e9dc8fcd88ed63ab84761438b871856",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/chinatax/n810356/n810961/c5251121/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T09:03:09.658Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     }
