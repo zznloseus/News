@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T09:03:09.658Z",
+  "generated_at": "2026-11-15T16:55:10.946Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -5379,7 +5379,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:39.326Z",
+        "captured_at": "2026-11-15T16:55:02.854Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5968,7 +5968,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:40.016Z",
+        "captured_at": "2026-11-15T16:55:04.049Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5983,7 +5983,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:40.020Z",
+        "captured_at": "2026-11-15T16:55:04.053Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -5998,7 +5998,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:40.867Z",
+        "captured_at": "2026-11-15T16:55:05.021Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6013,7 +6013,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:41.377Z",
+        "captured_at": "2026-11-15T16:55:05.751Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6180,7 +6180,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T16:34:41.592Z",
+        "captured_at": "2026-11-15T16:55:05.997Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7220,9 +7220,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.173Z",
+        "captured_at": "2026-11-15T16:55:06.248Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -7235,7 +7235,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.899Z",
+        "captured_at": "2026-11-15T16:55:08.427Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -7250,7 +7250,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-14T10:00:52.902Z",
+        "captured_at": "2026-11-15T16:55:08.430Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -15415,6 +15415,51 @@
         "captured_at": "2026-11-15T09:03:09.658Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
+      },
+      "reference_links": []
+    },
+    "1f3c567f1386d5b15326230fec94e2cb494da055eb4c17b0cfca39d82edee323": {
+      "article_id": "1f3c567f1386d5b15326230fec94e2cb494da055eb4c17b0cfca39d82edee323",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/chinatax/n896543r/c5252957/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T16:55:09.678Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "4c02cef2dfd7fc136652bdb633cda0fce6192da1f0d16b3ca169c431749aee92": {
+      "article_id": "4c02cef2dfd7fc136652bdb633cda0fce6192da1f0d16b3ca169c431749aee92",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/zcfgk/c100012/c5252998/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T16:55:10.037Z",
+        "status": "unavailable",
+        "message": "HTTP 404"
+      },
+      "reference_links": []
+    },
+    "575d67332589b81b20c621b49b0eb7e442ee16b7405ffeeb4cd1fa9b0ae44341": {
+      "article_id": "575d67332589b81b20c621b49b0eb7e442ee16b7405ffeeb4cd1fa9b0ae44341",
+      "source_id": "chinatax",
+      "source_url": "https://www.chinatax.gov.cn/zcfgk/c102424/c5252849/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-15T16:55:10.946Z",
+        "status": "unavailable",
+        "message": "HTTP 404"
       },
       "reference_links": []
     }
