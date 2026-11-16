@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T21:37:10.459Z",
+  "generated_at": "2026-11-16T01:44:45.250Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -424,7 +424,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T22:38:01.279Z"
+      "checked_at": "2026-11-16T01:44:45.250Z"
     },
     "ab9f3aae61a242288670469a8e924e3f64f9c5921178edde70710ef63ea725cf": {
       "title": "碳达峰碳中和综合评价考核办法",
@@ -1654,7 +1654,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T22:38:01.279Z"
+      "checked_at": "2026-11-16T01:44:45.250Z"
     },
     "da7a8a5dc1baaba122fed04c70356fbedf631b7b24303aff1c11baeb4cd45df9": {
       "title": "教育发展“十五五”规划",
@@ -1665,12 +1665,18 @@
           "version_id": "1244ddbde2307d6e4d6057c95037b4340d8d8b0c65d8089cb04279c1c78e3707:f8081c4d69422d463f735a124e370b056039929e1478c3eed38e1421e0e1f80b",
           "source_url": "https://www.hlj.gov.cn/hlj/c108376/202611/c00_31992538.shtml",
           "excerpt": "为加快建设教育强省、更好服务支撑教育强国建设，根据国务院《教育发展“十五五”规划》和《中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议》、《黑龙江省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        },
+        {
+          "article_id": "9e3dde341fd01e50355a4cd1583c18650561b47ebabffc7e79ca6307c86f03e4",
+          "version_id": "9e3dde341fd01e50355a4cd1583c18650561b47ebabffc7e79ca6307c86f03e4:004a232909cd4a398024bc4be39e4a907c42610edbe33bf89ad46ee221a4112b",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383583.html",
+          "excerpt": "为加快推进教育强省建设，依据国家《教育发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》，结合《云南教育强省建设规划纲要（2024—2035年）》总体安排，制定本规划。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-07T22:38:01.279Z"
+      "checked_at": "2026-11-16T01:44:45.250Z"
     },
     "648165d497b08396a8acaa067bcd9612e5fd7f54e07f17a1c393e8934489137f": {
       "title": "商标审查审理指南（征求意见稿）",
@@ -2115,6 +2121,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-14T21:16:03.591Z"
+    },
+    "51d2a03f94e74700568393dfb486d8b74abd9f0ae1b4605580ea3dc37bf00c8d": {
+      "title": "中华人民共和国地方附加税法（征求意见稿）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c398ad429d671467cce5b44043adec17d67b4364d1d01c77949f8b57c0608e80",
+          "version_id": "c398ad429d671467cce5b44043adec17d67b4364d1d01c77949f8b57c0608e80:4120ff4957360d8bde870bd91d2201447624029e890cf639af9e5e0f65d95cea",
+          "source_url": "https://www.chinatax.gov.cn/chinatax/n810356/n810961/c5252008/content.html",
+          "excerpt": "为贯彻落实党的二十届三中全会有关部署，财政部会同税务总局在认真研究并广泛听取意见建议的基础上，研究形成了《中华人民共和国地方附加税法（征求意见稿）》，现向社会公开征求意见。公众可在2026年9月27日前，通过以下途径和方式提出意见："
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-16T01:44:45.250Z"
     }
   }
 }
