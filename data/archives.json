@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T01:44:45.020Z",
+  "generated_at": "2026-11-16T09:20:17.809Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -6278,9 +6278,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-15T09:03:09.633Z",
+        "captured_at": "2026-11-16T09:20:16.025Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -6293,7 +6293,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-15T09:03:09.642Z",
+        "captured_at": "2026-11-16T09:20:16.485Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -7160,9 +7160,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-15T09:03:09.645Z",
+        "captured_at": "2026-11-16T09:20:16.488Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -11110,9 +11110,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-15T09:03:09.630Z",
+        "captured_at": "2026-11-16T09:20:15.299Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -13776,9 +13776,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-15T09:03:09.637Z",
+        "captured_at": "2026-11-16T09:20:16.256Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -13791,9 +13791,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-15T09:03:09.640Z",
+        "captured_at": "2026-11-16T09:20:16.483Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -15631,6 +15631,167 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-16T01:44:45.020Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "820d1b022aa2d45aaa9809d61dc229b48ef08df3605b1fc243a17bda25fcffae": {
+      "article_id": "820d1b022aa2d45aaa9809d61dc229b48ef08df3605b1fc243a17bda25fcffae",
+      "source_id": "miit",
+      "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_bd11a0d16a61477883db13ac4d6cc889.html",
+      "versions": [
+        {
+          "id": "820d1b022aa2d45aaa9809d61dc229b48ef08df3605b1fc243a17bda25fcffae:6437935d40df81aff68865162c19e8d1ca86e685dc602abe1e1d4e272c73f3f9",
+          "content_hash": "6437935d40df81aff68865162c19e8d1ca86e685dc602abe1e1d4e272c73f3f9",
+          "captured_at": "2026-11-16T09:20:12.148Z",
+          "status": "partial",
+          "text": "工业和信息化部 市场监管总局关于印发《以标准提升引领轻工业优化升级实施方案》的通知\n\n工信部联消费〔2026〕252号\n\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、市场监管主管部门：\n\n现将《以标准提升引领轻工业优化升级实施方案》印发给你们，请结合实际，认真抓好落实。\n\n工业和信息化部\n\n市场监管总局\n\n2026年10月15日",
+          "paragraphs": [
+            "工业和信息化部 市场监管总局关于印发《以标准提升引领轻工业优化升级实施方案》的通知",
+            "工信部联消费〔2026〕252号",
+            "各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、市场监管主管部门：",
+            "现将《以标准提升引领轻工业优化升级实施方案》印发给你们，请结合实际，认真抓好落实。",
+            "工业和信息化部",
+            "市场监管总局",
+            "2026年10月15日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "工信部联消费〔2026〕252号"
+        }
+      ],
+      "latest_version_id": "820d1b022aa2d45aaa9809d61dc229b48ef08df3605b1fc243a17bda25fcffae:6437935d40df81aff68865162c19e8d1ca86e685dc602abe1e1d4e272c73f3f9",
+      "latest_captured_at": "2026-11-16T09:20:12.148Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-16T09:20:12.148Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "8a82d2da407a273eeb73dd6bb92be0b9480a32f098240ce0c4167cb044cb42ba": {
+      "article_id": "8a82d2da407a273eeb73dd6bb92be0b9480a32f098240ce0c4167cb044cb42ba",
+      "source_id": "hljca",
+      "source_url": "https://hljca.miit.gov.cn/bsfw/gsgg/art/2026/art_60ec3575dfc84f4ab9b0453ec736d013.html",
+      "versions": [
+        {
+          "id": "8a82d2da407a273eeb73dd6bb92be0b9480a32f098240ce0c4167cb044cb42ba:34edc6e7cc0336d308f7ef8fcd0fc687c935d36e44bada82468f0ea7a03e68a1",
+          "content_hash": "34edc6e7cc0336d308f7ef8fcd0fc687c935d36e44bada82468f0ea7a03e68a1",
+          "captured_at": "2026-11-16T09:20:13.126Z",
+          "status": "text",
+          "text": "黑通管联〔2026〕17号\n\n各有关企业：\n\n现将《黑龙江省支持信息通信业加快发展若干措施实施细则》印发给你们，请遵照执行。\n\n黑龙江省支持信息通信业加快发展若干措施实施细则.docx &#xa0;\n\n附件1-黑龙江省鼓励电梯及地下停车场网络升级支持细则.docx &#xa0;\n\n附件2-黑龙江省加大重大通信工程项目支持细则.docx &#xa0;\n\n附件3-黑龙江省应急通信基础设施补强支持细则.docx &#xa0;\n\n附件4-黑龙江省支持复合材料通信塔（杆）推广应用支持细则.docx &#xa0;\n\n附件5-黑龙江省支持万兆光网基础设施试点建设支持细则.docx &#xa0;\n\n附件6-黑龙江省引导加大下一代演进技术投入力度支持细则.docx &#xa0;\n\n附件7-黑龙江省算网改造升级支持细则.docx &#xa0;\n\n附件8-黑龙江省支持区域性国际通信业务出入口局建设支持细则.docx &#xa0;\n\n附件9-黑龙江省支持卫星地面接收站建设支持细则.docx &#xa0;\n\n黑龙江省通信管理局 &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;黑龙江省财政厅&#xa0;&#xa0;&#xa0;&#xa0;\n\n2026年11月16日&#xa0; &#xa0;",
+          "paragraphs": [
+            "黑通管联〔2026〕17号",
+            "各有关企业：",
+            "现将《黑龙江省支持信息通信业加快发展若干措施实施细则》印发给你们，请遵照执行。",
+            "黑龙江省支持信息通信业加快发展若干措施实施细则.docx &#xa0;",
+            "附件1-黑龙江省鼓励电梯及地下停车场网络升级支持细则.docx &#xa0;",
+            "附件2-黑龙江省加大重大通信工程项目支持细则.docx &#xa0;",
+            "附件3-黑龙江省应急通信基础设施补强支持细则.docx &#xa0;",
+            "附件4-黑龙江省支持复合材料通信塔（杆）推广应用支持细则.docx &#xa0;",
+            "附件5-黑龙江省支持万兆光网基础设施试点建设支持细则.docx &#xa0;",
+            "附件6-黑龙江省引导加大下一代演进技术投入力度支持细则.docx &#xa0;",
+            "附件7-黑龙江省算网改造升级支持细则.docx &#xa0;",
+            "附件8-黑龙江省支持区域性国际通信业务出入口局建设支持细则.docx &#xa0;",
+            "附件9-黑龙江省支持卫星地面接收站建设支持细则.docx &#xa0;",
+            "黑龙江省通信管理局 &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;黑龙江省财政厅&#xa0;&#xa0;&#xa0;&#xa0;",
+            "2026年11月16日&#xa0; &#xa0;"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "黑通管联〔2026〕17号"
+        }
+      ],
+      "latest_version_id": "8a82d2da407a273eeb73dd6bb92be0b9480a32f098240ce0c4167cb044cb42ba:34edc6e7cc0336d308f7ef8fcd0fc687c935d36e44bada82468f0ea7a03e68a1",
+      "latest_captured_at": "2026-11-16T09:20:13.126Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-16T09:20:13.126Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "e0963ed8dce5b13b9425ba033a78917194eed9bc0df5846c2f7a605ae38619cf": {
+      "article_id": "e0963ed8dce5b13b9425ba033a78917194eed9bc0df5846c2f7a605ae38619cf",
+      "source_id": "miit",
+      "source_url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_bd11a0d16a61477883db13ac4d6cc889.html",
+      "versions": [
+        {
+          "id": "e0963ed8dce5b13b9425ba033a78917194eed9bc0df5846c2f7a605ae38619cf:6437935d40df81aff68865162c19e8d1ca86e685dc602abe1e1d4e272c73f3f9",
+          "content_hash": "6437935d40df81aff68865162c19e8d1ca86e685dc602abe1e1d4e272c73f3f9",
+          "captured_at": "2026-11-16T09:20:14.334Z",
+          "status": "partial",
+          "text": "工业和信息化部 市场监管总局关于印发《以标准提升引领轻工业优化升级实施方案》的通知\n\n工信部联消费〔2026〕252号\n\n各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、市场监管主管部门：\n\n现将《以标准提升引领轻工业优化升级实施方案》印发给你们，请结合实际，认真抓好落实。\n\n工业和信息化部\n\n市场监管总局\n\n2026年10月15日",
+          "paragraphs": [
+            "工业和信息化部 市场监管总局关于印发《以标准提升引领轻工业优化升级实施方案》的通知",
+            "工信部联消费〔2026〕252号",
+            "各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息化、市场监管主管部门：",
+            "现将《以标准提升引领轻工业优化升级实施方案》印发给你们，请结合实际，认真抓好落实。",
+            "工业和信息化部",
+            "市场监管总局",
+            "2026年10月15日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "工信部联消费〔2026〕252号"
+        }
+      ],
+      "latest_version_id": "e0963ed8dce5b13b9425ba033a78917194eed9bc0df5846c2f7a605ae38619cf:6437935d40df81aff68865162c19e8d1ca86e685dc602abe1e1d4e272c73f3f9",
+      "latest_captured_at": "2026-11-16T09:20:14.334Z",
+      "latest_status": "partial",
+      "last_attempt": {
+        "captured_at": "2026-11-16T09:20:14.334Z",
+        "status": "partial",
+        "message": "正文部分留存；可能含分页、附件或截断"
+      },
+      "reference_links": []
+    },
+    "1739996f3d95ee3067e0acf59226fab967388fd8af8ba99b193179938f0e37ff": {
+      "article_id": "1739996f3d95ee3067e0acf59226fab967388fd8af8ba99b193179938f0e37ff",
+      "source_id": "nhsa",
+      "source_url": "https://www.nhsa.gov.cn/art/2026/8/26/art_104_21907.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-16T09:20:17.205Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "2681db011352cc04e045f0dbff7cfecd5b719bb7ffbe557145cfaed14d4ac01b": {
+      "article_id": "2681db011352cc04e045f0dbff7cfecd5b719bb7ffbe557145cfaed14d4ac01b",
+      "source_id": "nhsa",
+      "source_url": "https://www.nhsa.gov.cn/art/2026/8/25/art_104_21894.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-16T09:20:17.512Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "560b73505ccf0921ed362e9bad1a625187657237649d8da4e4f0b6ccd00f30d3": {
+      "article_id": "560b73505ccf0921ed362e9bad1a625187657237649d8da4e4f0b6ccd00f30d3",
+      "source_id": "nhsa",
+      "source_url": "https://www.nhsa.gov.cn/art/2026/9/15/art_104_22141.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-16T09:20:17.809Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
