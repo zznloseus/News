@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T12:59:36.974Z",
+  "generated_at": "2026-11-17T21:42:07.390Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1836,7 +1836,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T01:35:05.939Z"
+      "checked_at": "2026-11-17T21:42:07.390Z"
     },
     "5219d1e5b3b241c7d76ac29edc9c21370a7c2d58a746f1f2aa86e1cb6eae2b9c": {
       "title": "工业和信息化领域数据安全管理办法（试行）",
@@ -1858,7 +1858,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T01:35:05.939Z"
+      "checked_at": "2026-11-17T21:42:07.390Z"
     },
     "7e39cb17c296c2371e6ed4eac386e342373f9988de8e9f75c19cccf7d6e57f8c": {
       "title": "非经营性互联网信息服务备案管理办法",
@@ -1874,7 +1874,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T01:35:05.939Z"
+      "checked_at": "2026-11-17T21:42:07.390Z"
     },
     "831a0aabbef807cf48f413803c6babe96a0ba0a23ee4e6c121307ccb056e4df4": {
       "title": "电信和互联网用户个人信息保护规定",
@@ -1890,7 +1890,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T09:30:58.606Z"
+      "checked_at": "2026-11-17T21:42:07.390Z"
     },
     "b1635f19ed3acc6d11ca043b0aaa7536436fcf3d24ed4e19c25d8db95c0f4815": {
       "title": "生成式人工智能服务管理暂行办法",
