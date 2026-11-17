@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T03:36:45.624Z",
+  "generated_at": "2026-11-17T12:59:36.974Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1772,7 +1772,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T21:05:24.426Z"
+      "checked_at": "2026-11-17T12:59:36.974Z"
     },
     "35752bd41d66f301dd081373b52590b3ae99bc5f2af2b6b244d91ed988cf9246": {
       "title": "关于开展 2026 年个人信息保护系列专项行动的公告",
@@ -1788,7 +1788,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T21:05:24.426Z"
+      "checked_at": "2026-11-17T12:59:36.974Z"
     },
     "39388bb554f81d817b8e537d3a1c9dd668765ecc1a8b9eb496c65b12c5fe1b54": {
       "title": "公共互联网网络安全威胁监测与处置办法",
@@ -1804,7 +1804,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T21:05:24.426Z"
+      "checked_at": "2026-11-17T12:59:36.974Z"
     },
     "186a5bd3b71c5d4ee1768e5999e3809de59a25a5aa2a4d58a1fc8f84839abbad": {
       "title": "智能体规范应用与创新发展实施意见",
@@ -1820,7 +1820,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T01:35:05.939Z"
+      "checked_at": "2026-11-17T12:59:36.974Z"
     },
     "49fcf406b4004a4b40e90d3846ad0bea2b8954b6b775bb293f5a8a8c776d076f": {
       "title": "互联网信息服务管理办法",
