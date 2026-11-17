@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T20:12:16.253Z",
+  "generated_at": "2026-11-17T03:36:45.624Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -584,7 +584,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T16:59:32.877Z"
+      "checked_at": "2026-11-17T03:36:45.624Z"
     },
     "3654b8c91ed0afaf161aad3ee774ef1116375ba8a06a14db00f461d5085ef5b1": {
       "title": "国务院关于印发实施〈中华人民共和国促进科技成果转化法〉若干规定的通知",
@@ -600,7 +600,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T16:59:32.877Z"
+      "checked_at": "2026-11-17T03:36:45.624Z"
     },
     "4b05d5e441c1c7e948a67167cf7644255c5b862c744c2fb152fcf4c166d57b1b": {
       "title": "教育强国建设规划纲要（2024—2035年）",
@@ -1724,7 +1724,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T16:59:32.877Z"
+      "checked_at": "2026-11-17T03:36:45.624Z"
     },
     "f45aa609223a69ababd3bad6d221d7e23d56339a310729403c6e133c82526253": {
       "title": "集成电路布图设计保护条例",
@@ -1756,7 +1756,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-08T21:05:24.426Z"
+      "checked_at": "2026-11-17T03:36:45.624Z"
     },
     "2aa49f437a7510f39f8a18ee96883f51ca6ea234914a216afe6cfb45205f97aa": {
       "title": "工业和信息化部办公厅关于组织开展 2026“ 固源 ” 行动的通知",
