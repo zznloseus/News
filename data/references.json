@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T03:31:49.356Z",
+  "generated_at": "2026-11-18T12:53:05.903Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -616,7 +616,7 @@
       "status": "unresolved",
       "message": "候选正文标题或文号未通过核验",
       "resolved_id": null,
-      "checked_at": "2026-11-09T20:35:36.623Z"
+      "checked_at": "2026-11-18T12:53:05.903Z"
     },
     "5563c7a09cc9ece38fb3b35489bae2339ae964034a1617688e55444cfd156b15": {
       "title": "国务院关于推进服务业扩能提质的意见",
@@ -698,7 +698,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T20:35:36.623Z"
+      "checked_at": "2026-11-18T12:53:05.903Z"
     },
     "23422e0f4ca27838b876403851607cd3fceded003792cfdd9d0678c0f47ed5c5": {
       "title": "知识产权强国建设纲要（2021—2035年）",
@@ -1960,7 +1960,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T20:35:36.623Z"
+      "checked_at": "2026-11-18T12:53:05.903Z"
     },
     "fd0f2411625e3ca2603daa2b54651ed7c1c332abe059df89ab26d9d449d28a32": {
       "title": "工业和信息化部关于加强车联网网络安全和数据安全工作的通知",
@@ -1976,7 +1976,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T20:35:36.623Z"
+      "checked_at": "2026-11-18T12:53:05.903Z"
     },
     "be0177f56468d6354e2d900f0d959d7d62ffc1b779ae277914435794bd80efc8": {
       "title": "防范和处置非法集资条例",
