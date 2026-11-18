@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T21:42:07.390Z",
+  "generated_at": "2026-11-18T03:31:49.356Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1906,7 +1906,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T09:30:58.606Z"
+      "checked_at": "2026-11-18T03:31:49.356Z"
     },
     "c9f4524e68c7459bbf4cf37679c7a0a9ce3ea50b1d7196daf90e87460ab1f6e9": {
       "title": "网络数据安全管理条例",
@@ -1944,7 +1944,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-09T09:30:58.606Z"
+      "checked_at": "2026-11-18T03:31:49.356Z"
     },
     "e146d3cd631610d99586619a07e09c6091023525730163bd90368174faa10ce6": {
       "title": "通信网络安全防护管理办法",
@@ -2137,6 +2137,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-16T01:44:45.250Z"
+    },
+    "7f8b40bd94a1cbdbd5850b59a6262691afcbfb9e19cf0166e48765d1552f5174": {
+      "title": "江苏省地方志工作条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "8e18feb1f146b8f5cf5a1e77f4c07cd841cfc111621a6edcc531e3796216149d",
+          "version_id": "8e18feb1f146b8f5cf5a1e77f4c07cd841cfc111621a6edcc531e3796216149d:5d9a5534a8a3280d6f31e262364a4b5ba19136fe6e1b78ac0fb238da82ad15d0",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/17/art_46144_11861214.html",
+          "excerpt": "（二）强化法治保障。 深入贯彻落实国务院《地方志工作条例》、《江苏省地方志工作条例》，鼓励各设区市根据实际制定政府规章并推动制定地方性法规，为地方志工作提供法治保障，提升依法治志水平。加强普法宣传教育，营造全社会重视地方志、支持地方志、参与地方志的良好法治环境。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-18T03:31:49.356Z"
+    },
+    "dab20febd636066e8acef361d58323e77b0b5f425389a257f8924d76c96bcb05": {
+      "title": "江苏省湿地保护条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "4f54c533574f746e32765a40bbce91b811561b2b4ccecb1a90f8c72891058718",
+          "version_id": "4f54c533574f746e32765a40bbce91b811561b2b4ccecb1a90f8c72891058718:17ae08fb2b74033e5fd6733c2500a7c4e31741c6d506952ebce83d935f439ee1",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/17/art_46144_11861106.html",
+          "excerpt": "第一条 为加强我省湿地保护，规范湿地名录管理工作，根据《中华人民共和国湿地保护法》《江苏省湿地保护条例》等法律法规和有关规定，制定本办法。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-18T03:31:49.356Z"
     }
   }
 }
