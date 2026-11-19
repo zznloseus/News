@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T21:16:12.115Z",
+  "generated_at": "2026-11-19T03:03:54.545Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -5379,7 +5379,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:04.312Z",
+        "captured_at": "2026-11-19T03:03:46.874Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5968,7 +5968,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:04.617Z",
+        "captured_at": "2026-11-19T03:03:47.173Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5983,7 +5983,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:04.621Z",
+        "captured_at": "2026-11-19T03:03:47.176Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -5998,9 +5998,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:04.626Z",
+        "captured_at": "2026-11-19T03:03:48.054Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -6013,7 +6013,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:05.144Z",
+        "captured_at": "2026-11-19T03:03:48.320Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6180,9 +6180,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:05.147Z",
+        "captured_at": "2026-11-19T03:03:48.541Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -6278,9 +6278,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:05.152Z",
+        "captured_at": "2026-11-19T03:03:50.153Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -11110,9 +11110,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:05.150Z",
+        "captured_at": "2026-11-19T03:03:49.339Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -13776,9 +13776,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-17T21:42:05.157Z",
+        "captured_at": "2026-11-19T03:03:50.475Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：fetch failed"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -16290,6 +16290,51 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-18T21:16:12.115Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "d0574a85c2e684317bf9132af27e74a80907b2a4f6dd8da4cfbdbb52a7ce7f12": {
+      "article_id": "d0574a85c2e684317bf9132af27e74a80907b2a4f6dd8da4cfbdbb52a7ce7f12",
+      "source_id": "nrta",
+      "source_url": "https://www.nrta.gov.cn/art/2026/10/27/art_1588_74295.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-19T03:03:53.560Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "efb16143af587f2cd906d5bb2f5c10372cc026fb038688eee21b1a145311ce1a": {
+      "article_id": "efb16143af587f2cd906d5bb2f5c10372cc026fb038688eee21b1a145311ce1a",
+      "source_id": "nrta",
+      "source_url": "https://www.nrta.gov.cn/art/2026/10/8/art_113_74177.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-19T03:03:54.308Z",
+        "status": "unavailable",
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "ff9641cf1a4bb8162c5caa74484abc0fb18574b095f1e30f3471373125eec3fd": {
+      "article_id": "ff9641cf1a4bb8162c5caa74484abc0fb18574b095f1e30f3471373125eec3fd",
+      "source_id": "nrta",
+      "source_url": "https://www.nrta.gov.cn/art/2025/6/7/art_1588_70869.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-19T03:03:54.545Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
