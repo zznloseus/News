@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T03:03:54.796Z",
+  "generated_at": "2026-11-19T12:44:21.855Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -802,7 +802,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-10T20:24:41.545Z"
+      "checked_at": "2026-11-19T12:44:21.855Z"
     },
     "a62493370b97a3a8020a842a2e1ccfd4eca8e207da75e4329b05dcd3bc55f7dc": {
       "title": "2026年黑龙江省智能家居（家庭网关、千兆全光组网设备和路由器）购新补贴实施细则",
@@ -2175,6 +2175,54 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-18T03:31:49.356Z"
+    },
+    "3fa3886817f2c7fdf09904fa79482c49d86dde1170643c72d6699c93169f9638": {
+      "title": "江苏省长江河道采砂管理实施办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "e63526809c33297f9eeb0457027f8a333af7f739e37f66a656f364241dd48ec9",
+          "version_id": "e63526809c33297f9eeb0457027f8a333af7f739e37f66a656f364241dd48ec9:0193c03eadeacdf5e211f8675e401cb67840fdc3dab4690623954e4736efa5ec",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861540.html",
+          "excerpt": "持续加强法规制度建设，适时推动水资源、防洪管理等方面地方性法规修订，制定蓄滞洪区运用补偿实施细则，修订《江苏省长江河道采砂管理实施办法》；完善水利规划体系，严格规划编制审批程序，强化规划指导约束，加强规划实施评估。深入推进依法行政，深化水利审批制度改革，简化审批程序，优化营商环境；推进重大行政决策规范化，全面落实水行政处罚裁量权基准。强化水行政执法，推进跨部门联合执法，规范开展涉企行政检查、专项执法行动和行政审批事中事后监管，全面"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-19T12:44:21.855Z"
+    },
+    "412b39c88f976a539946850b9a3a8d2e89c048bbc37c39afbe6dcbe0b7b65ed3": {
+      "title": "美丽中国建设“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "ef293f7449e6edd77fd0515b740523173ec0637c28d50632fae5a1b5e8b75ab2",
+          "version_id": "ef293f7449e6edd77fd0515b740523173ec0637c28d50632fae5a1b5e8b75ab2:64f760eacac9b45956745f22f27c225e9f41709c8afda6c9a09ee509e6517969",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861527.html",
+          "excerpt": "为全面推进美丽江苏建设，根据《美丽中国建设“十五五”规划》《江苏省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-19T12:44:21.855Z"
+    },
+    "f809ed480b75e9fd6f3fa9cc74e2fe3af9c91181aebea144084bde48d2e675b1": {
+      "title": "落实水资源刚性约束制度考核办法",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "e63526809c33297f9eeb0457027f8a333af7f739e37f66a656f364241dd48ec9",
+          "version_id": "e63526809c33297f9eeb0457027f8a333af7f739e37f66a656f364241dd48ec9:0193c03eadeacdf5e211f8675e401cb67840fdc3dab4690623954e4736efa5ec",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861540.html",
+          "excerpt": "水四定”，推动经济社会发展量水而行。严格可用水量管理，实施水资源差别化管理。以设区市为单元，明确本地地表水、地下水、外调水可用水量及非常规水最低利用量，构建用水总量动态调控、用水效率对标、市场调节配置等管控机制。严格执行《落实水资源刚性约束制度考核办法》，因地制宜确定目标指标，优化考核导向，引导生产生活方式绿色转型，提高水资源节约集约安全利用水平。强化规划和建设项目水资源论证，严格取水许可管理，加强取用水计量规范化管理，推动取用水计量设施升级改造。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-19T12:44:21.855Z"
     }
   }
 }
