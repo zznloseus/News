@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T12:44:21.855Z",
+  "generated_at": "2026-11-19T21:18:12.982Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -818,7 +818,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-10T20:24:41.545Z"
+      "checked_at": "2026-11-19T21:18:12.982Z"
     },
     "ae544aa58cdac58288f45b05d4c5c79f4c88001e820c60457aafe0eae57ee150": {
       "title": "国务院办公厅关于印发职业技能提升行动方案（2019—2021年）的通知",
@@ -834,7 +834,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-10T20:24:41.545Z"
+      "checked_at": "2026-11-19T21:18:12.982Z"
     },
     "bfef433b6611a12664d132931410ddd47bf9aadaa0f2ebedf5a4cd9ea8997a04": {
       "title": "国家能源局关于印发〈可再生能源绿色电力证书核发和交易规则〉的通知",
@@ -850,7 +850,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T01:10:09.712Z"
+      "checked_at": "2026-11-19T21:18:12.982Z"
     },
     "c48dd194dc8224beb22694b571c6adf977577c1d91b7faeaa462a351b98dd000": {
       "title": "中共中央办公厅国务院办公厅关于加快建立长期护理保险制度的意见",
@@ -866,7 +866,7 @@
       "status": "unresolved",
       "message": "候选页面不是可用政策文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T01:10:09.712Z"
+      "checked_at": "2026-11-19T21:18:12.982Z"
     },
     "cc88dc03212eb77912df2f658fc059d9a37d0a4c74a1ab8b45af5e9a14e402d7": {
       "title": "国务院关于修改和废止部分行政法规的决定",
