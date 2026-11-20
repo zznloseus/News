@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T11:12:48.584Z",
+  "generated_at": "2026-11-20T19:52:34.281Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1022,7 +1022,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T17:49:47.716Z"
+      "checked_at": "2026-11-20T19:52:34.281Z"
     },
     "f55030d0dcab765faab4b8b22389ceee5dbd6e8a21c4e145761f76b16996d298": {
       "title": "黑龙江省关于消费品以旧换新地方自主品类实施补贴政策工作的通知",
@@ -1038,7 +1038,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T17:49:47.716Z"
+      "checked_at": "2026-11-20T19:52:34.281Z"
     },
     "fc08f2a4b2013f0b87405323c2282ef614bcde8b3ea93293889217ba8df0acd3": {
       "title": "江苏省国民经济和社会发展第十五个五年规划纲要",
@@ -2014,7 +2014,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T00:23:22.544Z"
+      "checked_at": "2026-11-20T19:52:34.281Z"
     },
     "a82c3e1621e71ad8ecb7a48a6348ebe01223a808f6e31a1904805c04a9b7a80f": {
       "title": "会计改革与发展“十五五”规划",
@@ -2223,6 +2223,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-19T12:44:21.855Z"
+    },
+    "02c1fae3a59adf8ad39d3793a3168c9ecdddfd891bb9362b2762c41999a0df9f": {
+      "title": "现代综合交通运输体系发展“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "339f91b45eaa3688157723ec842fc798c34fd3863800a78c95b6bd3bf91da1d3",
+          "version_id": "339f91b45eaa3688157723ec842fc798c34fd3863800a78c95b6bd3bf91da1d3:8639c3eac6f721a8ec9fe98958f5fa825477d6aaea34fd1d8e8770153c8cbb3d",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861456.html",
+          "excerpt": "交通运输是中国式现代化的开路先锋，是支撑经济社会发展和维护国家安全的基础性、先导性、战略性产业，是建设现代化产业体系的重要保障。为完善全省现代化综合交通运输体系，加快建设交通强省，根据国家《现代综合交通运输体系发展“十五五”规划》和《江苏省国民经济和社会发展第十五个五年规划纲要》等文件，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-20T19:52:34.281Z"
     }
   }
 }
