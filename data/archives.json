@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T02:56:27.902Z",
+  "generated_at": "2026-11-20T11:12:48.295Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -5379,9 +5379,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:46.874Z",
+        "captured_at": "2026-11-20T11:12:46.807Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -5968,7 +5968,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:47.173Z",
+        "captured_at": "2026-11-20T11:12:47.108Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -5983,7 +5983,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:47.176Z",
+        "captured_at": "2026-11-20T11:12:47.112Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：HTTP 403"
       },
@@ -5998,9 +5998,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:48.054Z",
+        "captured_at": "2026-11-20T11:12:47.116Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -6013,7 +6013,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:48.320Z",
+        "captured_at": "2026-11-20T11:12:47.227Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6180,9 +6180,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:48.541Z",
+        "captured_at": "2026-11-20T11:12:47.229Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -6278,7 +6278,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:50.153Z",
+        "captured_at": "2026-11-20T11:12:48.008Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -11110,9 +11110,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:49.339Z",
+        "captured_at": "2026-11-20T11:12:47.232Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：fetch failed"
       },
       "reference_links": []
     },
@@ -13776,7 +13776,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-19T03:03:50.475Z",
+        "captured_at": "2026-11-20T11:12:48.287Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -16748,6 +16748,51 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-20T02:56:27.902Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "af07fdbfe5d94300c030421f198be12131d63ae71d117749de64a0b6ced7b1df": {
+      "article_id": "af07fdbfe5d94300c030421f198be12131d63ae71d117749de64a0b6ced7b1df",
+      "source_id": "mca",
+      "source_url": "https://www.mca.gov.cn/gdnps/pc/gzk/content.jsp?id=1662004999980013565",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-20T11:12:48.290Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "b34d7326a1aaf5e26acc3440aa090af0cb4b7eb064070f0aa45ca76f0332d187": {
+      "article_id": "b34d7326a1aaf5e26acc3440aa090af0cb4b7eb064070f0aa45ca76f0332d187",
+      "source_id": "mca",
+      "source_url": "https://www.mca.gov.cn/gdnps/content.jsp?id=1662004999980013406",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-20T11:12:48.293Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "d5fdb346150d7d3b189a6dbd90097c3be88fa28f0f732c46d146e4d9e117a1d7": {
+      "article_id": "d5fdb346150d7d3b189a6dbd90097c3be88fa28f0f732c46d146e4d9e117a1d7",
+      "source_id": "mca",
+      "source_url": "https://www.mca.gov.cn/n152/n165/c1662004999980013564/content.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-20T11:12:48.295Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
