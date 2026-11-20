@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T21:18:12.982Z",
+  "generated_at": "2026-11-20T02:56:29.899Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -888,7 +888,7 @@
       "status": "unresolved",
       "message": "同名官方候选不唯一，版本待核实",
       "resolved_id": null,
-      "checked_at": "2026-11-11T01:10:09.712Z"
+      "checked_at": "2026-11-20T02:56:29.899Z"
     },
     "ddfdd0d4d0fa1636a52cced78cdd499e18ef09106c4ce6e16acd2907cc6c5f97": {
       "title": "关于完善全国统一电力市场体系的实施意见",
@@ -904,7 +904,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T01:10:09.712Z"
+      "checked_at": "2026-11-20T02:56:29.899Z"
     },
     "5fedb1aec6233a70cf1e096bd98ae1a7fc9e6a2284997eeb7d6a621ec3f652bd": {
       "title": "财政部&#xa0;税务总局关于集成电路企业增值税加计抵减政策的通知",
@@ -920,7 +920,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T09:07:51.513Z"
+      "checked_at": "2026-11-20T02:56:29.899Z"
     },
     "e2fa793461940a2e60f2f1b3a0fd1c31cfa218bb271112d0f161e8433ca145de": {
       "title": "通信专业技术人员职业水平评价暂行规定",
@@ -936,7 +936,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-11T09:07:51.513Z"
+      "checked_at": "2026-11-20T02:56:29.899Z"
     },
     "e3681b4f73065ba5abc05fe125b08ed11a3aeb82a801d501150d672984ad4913": {
       "title": "2027年度氢氟碳化物配额总量设定与分配方案",
