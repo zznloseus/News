@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T19:52:34.281Z",
+  "generated_at": "2026-11-21T01:17:05.731Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -16,7 +16,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T08:08:16.358Z"
+      "checked_at": "2026-11-21T01:17:05.731Z"
     },
     "14c44edf6408840d004d05cbb1ece76212453ee990ad52791c7c06d3c53c66b2": {
       "title": "党政机关厉行节约反对浪费条例",
@@ -2030,7 +2030,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T00:23:22.544Z"
+      "checked_at": "2026-11-21T01:17:05.731Z"
     },
     "ee152322083fa504df2187102e2ba361e4e3ff0600bea2ff54afd743952f9359": {
       "title": "云南省中医药条例",
@@ -2046,7 +2046,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T00:23:22.544Z"
+      "checked_at": "2026-11-21T01:17:05.731Z"
     },
     "f11177a95c6ae70fd265e92449c638a39b56ea5a2ebc4694430d31f7cd69850b": {
       "title": "云南省国民健康“十五五”规划",
@@ -2062,7 +2062,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T00:23:22.544Z"
+      "checked_at": "2026-11-21T01:17:05.731Z"
     },
     "8eb98c1d077df095bde553238a1e3da184c6e58203df389865b08eed0d194b02": {
       "title": "云南教育强省建设规划纲要（2024—2035年）",
