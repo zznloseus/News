@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T17:16:39.127Z",
+  "generated_at": "2026-11-21T22:58:35.327Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -144,7 +144,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T23:26:41.127Z"
+      "checked_at": "2026-11-21T22:58:35.327Z"
     },
     "5a081601a8d02f9eb711a5180572e5ee0a2857785391b77aac4cdfe635aaf1f0": {
       "title": "关于更高水平更高质量做好节能降碳工作的意见",
@@ -166,7 +166,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T23:26:41.127Z"
+      "checked_at": "2026-11-21T22:58:35.327Z"
     },
     "622d749358e331a395605bdb56ae90259c566c9041f12fd871df5c431effa53a": {
       "title": "专业技术人员资格考试违纪违规行为处理规定",
@@ -220,7 +220,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-13T06:02:13.468Z"
+      "checked_at": "2026-11-21T22:58:35.327Z"
     },
     "3b92823406964ee8431fb1d196332146314b0f52d42db4defa672c945ca03f88": {
       "title": "关于全国通信专业技术人员职业水平考试收费标准及有关问题的通知",
@@ -1359,6 +1359,12 @@
       "document_no": null,
       "citations": [
         {
+          "article_id": "1061ee4e88bfb93f8c56e94cdb2862db366ac5276c20fca956a0490a6cb12e1c",
+          "version_id": "1061ee4e88bfb93f8c56e94cdb2862db366ac5276c20fca956a0490a6cb12e1c:53d5ef12513e1f6ea298bd3e41901987af0f61af8064e8c4c028dfcedf1c6580",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261113_4384031.html",
+          "excerpt": "根据《文化和旅游发展“十五五”规划》、《旅游强国建设“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》等，制定本规划。"
+        },
+        {
           "article_id": "7943505c63f1ff7843a7c1f754f5facd4741f523742f93a4aecd0a40d1a97526",
           "version_id": "7943505c63f1ff7843a7c1f754f5facd4741f523742f93a4aecd0a40d1a97526:3d242f5525b192802c42d8c8c480fb3e99e87158839d12fcc9da98dbca06464c",
           "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261106_4381287.html",
@@ -1369,6 +1375,12 @@
           "version_id": "90a08524e2c639bab2836e9d079a9be81c73c29dc037c93bbde15dc8b747b846:63e50c6f622a2a5c78ad2917409456d366b4eaae58ae3ad1b9f308d46076d285",
           "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383311.html",
           "excerpt": "依据《中医药振兴发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》、《云南省国民健康“十五五”规划》，制定本规划。"
+        },
+        {
+          "article_id": "9e3dde341fd01e50355a4cd1583c18650561b47ebabffc7e79ca6307c86f03e4",
+          "version_id": "9e3dde341fd01e50355a4cd1583c18650561b47ebabffc7e79ca6307c86f03e4:004a232909cd4a398024bc4be39e4a907c42610edbe33bf89ad46ee221a4112b",
+          "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383583.html",
+          "excerpt": "为加快推进教育强省建设，依据国家《教育发展“十五五”规划》和《云南省国民经济和社会发展第十五个五年规划纲要》，结合《云南教育强省建设规划纲要（2024—2035年）》总体安排，制定本规划。"
         },
         {
           "article_id": "ba5c71743ad24377fbe35ad3f8f7d928e7e1b325409023c9f02743e28aedbfa0",
@@ -1386,7 +1398,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T23:26:41.127Z"
+      "checked_at": "2026-11-21T22:58:35.327Z"
     },
     "4bad4623d7297990bb48f4ceeb7871c3a51a449f5e840ea4c2f73e5136b6a907": {
       "title": "“健康云南2030”规划纲要",
