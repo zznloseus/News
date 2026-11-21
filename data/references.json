@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T01:17:05.731Z",
+  "generated_at": "2026-11-21T09:30:04.171Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -32,7 +32,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T08:08:16.358Z"
+      "checked_at": "2026-11-21T09:30:04.171Z"
     },
     "21eda5921b379674f6f664ba5910237a3de309afc9ff44a5f5d78b27a8b18bd0": {
       "title": "内蒙古自治区人民政府关于印发<内蒙古自治区国民经济和社会发展第十五个五年规划纲要>的通知",
@@ -48,7 +48,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T08:08:16.358Z"
+      "checked_at": "2026-11-21T09:30:04.171Z"
     },
     "23640c4e8d13014b8970cdfc0cf46ee1ba1ef1ff0146883e7d5489996b850a15": {
       "title": "关于资格考试工作中有关问题的通知",
@@ -64,7 +64,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T17:30:16.853Z"
+      "checked_at": "2026-11-21T09:30:04.171Z"
     },
     "3a4a61df4cb05d00e611de6d8596ebf5da6e4f85eb8ea9d8715abfe1d5ca7ae7": {
       "title": "国务院关于深入实施“人工智能+”行动的意见",
@@ -1045,16 +1045,46 @@
       "document_no": null,
       "citations": [
         {
+          "article_id": "339f91b45eaa3688157723ec842fc798c34fd3863800a78c95b6bd3bf91da1d3",
+          "version_id": "339f91b45eaa3688157723ec842fc798c34fd3863800a78c95b6bd3bf91da1d3:8639c3eac6f721a8ec9fe98958f5fa825477d6aaea34fd1d8e8770153c8cbb3d",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861456.html",
+          "excerpt": "国式现代化的开路先锋，是支撑经济社会发展和维护国家安全的基础性、先导性、战略性产业，是建设现代化产业体系的重要保障。为完善全省现代化综合交通运输体系，加快建设交通强省，根据国家《现代综合交通运输体系发展“十五五”规划》和《江苏省国民经济和社会发展第十五个五年规划纲要》等文件，制定本规划。"
+        },
+        {
           "article_id": "4972da934b1f93a8607b04e24ff64aa3413b257e341b57c06189c20ae6ccb1e2",
           "version_id": "4972da934b1f93a8607b04e24ff64aa3413b257e341b57c06189c20ae6ccb1e2:9636100d73f3276ccd7ba5cba7fe927ae1281bd5a967c301de428c5a12bdfe88",
           "source_url": "http://www.jiangsu.gov.cn/art/2026/9/16/art_46144_11830686.html",
           "excerpt": "义现代化夯实基础、全面发力的关键时期，也是奋力谱写“强富美高”新江苏现代化建设新篇章的关键阶段。为更好服务中国式现代化江苏新实践，依据《交通强国建设纲要》《国家水上交通安全监管和救助系统布局规划（2025－2035年）》《江苏省国民经济和社会发展第十五个五年规划纲要》等文件要求，制定本规划。"
+        },
+        {
+          "article_id": "8e18feb1f146b8f5cf5a1e77f4c07cd841cfc111621a6edcc531e3796216149d",
+          "version_id": "8e18feb1f146b8f5cf5a1e77f4c07cd841cfc111621a6edcc531e3796216149d:5d9a5534a8a3280d6f31e262364a4b5ba19136fe6e1b78ac0fb238da82ad15d0",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/17/art_46144_11861214.html",
+          "excerpt": "为加强和改进地方志工作，持续推动新时代全省地方志事业高质量发展，充分发挥地方志工作在谱写“强富美高”新江苏现代化建设新篇章中的重要作用，按照国务院《地方志工作条例》、《江苏省地方志工作条例》规定，根据《江苏省国民经济和社会发展第十五个五年规划纲要》，结合江苏实际，制定本规划。"
+        },
+        {
+          "article_id": "e63526809c33297f9eeb0457027f8a333af7f739e37f66a656f364241dd48ec9",
+          "version_id": "e63526809c33297f9eeb0457027f8a333af7f739e37f66a656f364241dd48ec9:0193c03eadeacdf5e211f8675e401cb67840fdc3dab4690623954e4736efa5ec",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861540.html",
+          "excerpt": "苏地处江淮沂沭泗诸河下游，滨江临海，地势低平，气候多变，洪涝旱灾害易发，水安全保障在江苏经济社会发展中始终处于基础性、战略性重要位置。为系统谋划“十五五”时期水安全保障任务，持续提升江苏水安全保障能力，根据国家相关规划和《江苏省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        },
+        {
+          "article_id": "ef293f7449e6edd77fd0515b740523173ec0637c28d50632fae5a1b5e8b75ab2",
+          "version_id": "ef293f7449e6edd77fd0515b740523173ec0637c28d50632fae5a1b5e8b75ab2:64f760eacac9b45956745f22f27c225e9f41709c8afda6c9a09ee509e6517969",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861527.html",
+          "excerpt": "为全面推进美丽江苏建设，根据《美丽中国建设“十五五”规划》《江苏省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
+        },
+        {
+          "article_id": "f691be6090bd3383f9e5be46bc80fe3475b1bd7456329950057e80491d8a27bb",
+          "version_id": "f691be6090bd3383f9e5be46bc80fe3475b1bd7456329950057e80491d8a27bb:c30b1230b09e8ff5c657ceaff7b1b29a8143fbed3b4a8e072861cbd5e4eb6256",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/11/18/art_46144_11861470.html",
+          "excerpt": "五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期。这一时期，江苏将从中度老龄化社会迈入重度老龄化社会。为积极应对人口老龄化，推动江苏老龄事业和产业协同发展，提升老年人获得感、幸福感、安全感，根据国家有关规划和《江苏省国民经济和社会发展第十五个五年规划纲要》，制定本规划。"
         }
       ],
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-12T08:08:16.358Z"
+      "checked_at": "2026-11-21T09:30:04.171Z"
     },
     "32c9d9dc7179de7d79432c76d83ff4cf3e94349c739a89638b5b7d75bc8a1933": {
       "title": "公共企事业单位信息公开规定制定办法",
