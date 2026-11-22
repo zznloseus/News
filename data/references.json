@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T11:06:57.110Z",
+  "generated_at": "2026-11-22T19:20:04.449Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1160,7 +1160,7 @@
       "status": "unresolved",
       "message": "同名官方候选不唯一，版本待核实",
       "resolved_id": null,
-      "checked_at": "2026-11-13T21:53:18.712Z"
+      "checked_at": "2026-11-22T19:20:04.449Z"
     },
     "a9b9203aca30fd9234eff0bd736b3b6585222af3eaaca06e86bcffa9a577cad6": {
       "title": "油气管网设施公平开放监管办法",
@@ -1208,7 +1208,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T02:09:54.102Z"
+      "checked_at": "2026-11-22T19:20:04.449Z"
     },
     "91ccb16be2703553e2e7db5d7e25d05acf852e0f8b51dc368630d3cd84623fb8": {
       "title": "中共中央办公厅国务院办公厅关于健全社会信用体系的意见",
@@ -2136,7 +2136,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-13T21:53:18.712Z"
+      "checked_at": "2026-11-22T19:20:04.449Z"
     },
     "fb59ef3b9562d72ea7130d891ef5d42a38b1d257d21b9120805d47e6aa46f86c": {
       "title": "旅游强国建设“十五五”规划",
@@ -2152,7 +2152,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-13T21:53:18.712Z"
+      "checked_at": "2026-11-22T19:20:04.449Z"
     },
     "dfbf42fc5d43fef85ed3fbfaea6821c7e409a42743e94f99638b9f26316d8eb0": {
       "title": "工业固体废物资源综合利用评价管理暂行办法",
