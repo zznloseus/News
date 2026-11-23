@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T19:20:04.449Z",
+  "generated_at": "2026-11-23T00:42:28.928Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1176,7 +1176,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T02:09:54.102Z"
+      "checked_at": "2026-11-23T00:42:28.928Z"
     },
     "0ac32586e67b930c5823164162707d4dc2aa3c5d5c3ae2cb8623880700fe315d": {
       "title": "电力并网运行管理规定",
@@ -1256,7 +1256,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T10:00:53.146Z"
+      "checked_at": "2026-11-23T00:42:28.928Z"
     },
     "32ea4246db0535aabf1d574b234a63b2d1102c16800403bc0fc46d3bc985b638": {
       "title": "关于促进能源领域首台（套）重大技术装备示范应用的通知",
@@ -1414,7 +1414,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T02:09:54.102Z"
+      "checked_at": "2026-11-23T00:42:28.928Z"
     },
     "ba0ec8e79fac099b703d6134d7ab1f15f85da55ece5c1297722bae3704daed72": {
       "title": "国民健康“十五五”规划",
@@ -1430,7 +1430,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T02:09:54.102Z"
+      "checked_at": "2026-11-23T00:42:28.928Z"
     },
     "8a52b2a2cb6962aa518a1030c4590ed5d31e67619524f370ae0f43cda6217e24": {
       "title": "“哈亚雪”沿线区域及部门交通护游保畅协作工作方案",
