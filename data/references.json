@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T05:50:06.946Z",
+  "generated_at": "2026-11-24T17:22:47.151Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1526,7 +1526,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-15T01:41:09.444Z"
+      "checked_at": "2026-11-24T17:22:47.151Z"
     },
     "809642071552e0a9fff4f252f7cc925cacd009565e5c6064d2676d2e5b34db2f": {
       "title": "天津市循环经济发展“十五五”规划",
@@ -1542,7 +1542,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-15T01:41:09.444Z"
+      "checked_at": "2026-11-24T17:22:47.151Z"
     },
     "c4802dbd16c13c62b3b8bf010b48473a2e6d005d17911848b668b7c97b129762": {
       "title": "天津市国民经济和社会发展第十五个五年规划纲要",
@@ -2281,6 +2281,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-20T19:52:34.281Z"
+    },
+    "306ce5d7c133dfa6e5efd8f9451c8b161fee0f7c5bab2c3e4a275e7aba6f9fe4": {
+      "title": "关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "39f0ce1fc9862e6263cab05b73e36fa3dc7601f83f9eb9bfc1e101575f397db5",
+          "version_id": "39f0ce1fc9862e6263cab05b73e36fa3dc7601f83f9eb9bfc1e101575f397db5:b624ad04a9b72bbe03fa48d220ac791ec72f39790b21aaa28ace2cc82982fdf4",
+          "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4957093.html",
+          "excerpt": "请有关单位严格按照中国三峡集团《关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知》要求进行项目申报。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-24T17:22:47.151Z"
+    },
+    "8a8e75d62538bc5d6e0ed4ef40801aa548ae7526f7f1be72bdb346bc93319547": {
+      "title": "关于发布国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "87335d87b9db417869a54f5355821e61faa78b33921ba2aa29d334de60fc26b0",
+          "version_id": "87335d87b9db417869a54f5355821e61faa78b33921ba2aa29d334de60fc26b0:891f0cdfe37598036bd74c93e3d170dec271ec0bd0442d8b78fdac6e875900e5",
+          "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4957088.html",
+          "excerpt": "请有关单位严格按照中国机械工业集团有限公司《关于发布国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知》要求进行项目申报。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-24T17:22:47.151Z"
     }
   }
 }

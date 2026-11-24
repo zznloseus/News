@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T05:50:06.572Z",
+  "generated_at": "2026-11-24T17:22:46.885Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -842,7 +842,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-23T08:48:59.018Z",
+        "captured_at": "2026-11-24T17:22:44.399Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -1843,7 +1843,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-23T08:48:59.021Z",
+        "captured_at": "2026-11-24T17:22:44.402Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -2530,7 +2530,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-23T08:48:59.027Z",
+        "captured_at": "2026-11-24T17:22:44.410Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -3174,7 +3174,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-23T08:48:59.012Z",
+        "captured_at": "2026-11-24T17:22:44.394Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：fetch failed"
       },
@@ -3418,9 +3418,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-23T08:48:59.024Z",
+        "captured_at": "2026-11-24T17:22:44.406Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "无法确认 robots.txt：HTTP 403"
       },
       "reference_links": []
     },
@@ -6278,9 +6278,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T19:20:04.114Z",
+        "captured_at": "2026-11-24T17:22:46.553Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -13776,9 +13776,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T19:20:04.116Z",
+        "captured_at": "2026-11-24T17:22:46.878Z",
         "status": "unavailable",
-        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+        "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
       "reference_links": []
     },
@@ -17692,6 +17692,139 @@
       "latest_status": null,
       "last_attempt": {
         "captured_at": "2026-11-24T05:50:06.572Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "39f0ce1fc9862e6263cab05b73e36fa3dc7601f83f9eb9bfc1e101575f397db5": {
+      "article_id": "39f0ce1fc9862e6263cab05b73e36fa3dc7601f83f9eb9bfc1e101575f397db5",
+      "source_id": "beijing",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4957093.html",
+      "versions": [
+        {
+          "id": "39f0ce1fc9862e6263cab05b73e36fa3dc7601f83f9eb9bfc1e101575f397db5:b624ad04a9b72bbe03fa48d220ac791ec72f39790b21aaa28ace2cc82982fdf4",
+          "content_hash": "b624ad04a9b72bbe03fa48d220ac791ec72f39790b21aaa28ace2cc82982fdf4",
+          "captured_at": "2026-11-24T17:22:45.258Z",
+          "status": "text",
+          "text": "京科资发〔2026〕171号\n\n各有关单位：\n\n根据中国三峡集团《关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知》要求，为做好专项的组织推荐工作，现提出如下要求：\n\n一、申报要求\n\n请有关单位严格按照中国三峡集团《关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知》要求进行项目申报。\n\n二、填报要求\n\n请各申报单位通过国家科技管理信息系统公共服务平台进行网上填报。申报材料中所需的附件材料，全部要以电子扫描件形式上传。\n\n网上填报申报书的受理时间为：2026年11月11日8:00至12月30日16:00。\n\n三、联系方式\n\n联系人：马老师、刘老师\n\n联系电话：010-55577812、010-62341509-6070\n\n北京市科学技术委员会、中关村科技园区管理委员会\n\n2026年11月24日",
+          "paragraphs": [
+            "京科资发〔2026〕171号",
+            "各有关单位：",
+            "根据中国三峡集团《关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知》要求，为做好专项的组织推荐工作，现提出如下要求：",
+            "一、申报要求",
+            "请有关单位严格按照中国三峡集团《关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知》要求进行项目申报。",
+            "二、填报要求",
+            "请各申报单位通过国家科技管理信息系统公共服务平台进行网上填报。申报材料中所需的附件材料，全部要以电子扫描件形式上传。",
+            "网上填报申报书的受理时间为：2026年11月11日8:00至12月30日16:00。",
+            "三、联系方式",
+            "联系人：马老师、刘老师",
+            "联系电话：010-55577812、010-62341509-6070",
+            "北京市科学技术委员会、中关村科技园区管理委员会",
+            "2026年11月24日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "京科资发〔2026〕171号"
+        }
+      ],
+      "latest_version_id": "39f0ce1fc9862e6263cab05b73e36fa3dc7601f83f9eb9bfc1e101575f397db5:b624ad04a9b72bbe03fa48d220ac791ec72f39790b21aaa28ace2cc82982fdf4",
+      "latest_captured_at": "2026-11-24T17:22:45.258Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-24T17:22:45.258Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "87335d87b9db417869a54f5355821e61faa78b33921ba2aa29d334de60fc26b0": {
+      "article_id": "87335d87b9db417869a54f5355821e61faa78b33921ba2aa29d334de60fc26b0",
+      "source_id": "beijing",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4957088.html",
+      "versions": [
+        {
+          "id": "87335d87b9db417869a54f5355821e61faa78b33921ba2aa29d334de60fc26b0:891f0cdfe37598036bd74c93e3d170dec271ec0bd0442d8b78fdac6e875900e5",
+          "content_hash": "891f0cdfe37598036bd74c93e3d170dec271ec0bd0442d8b78fdac6e875900e5",
+          "captured_at": "2026-11-24T17:22:45.584Z",
+          "status": "text",
+          "text": "京科资发〔2026〕170号\n\n各有关单位：\n\n根据中国机械工业集团有限公司《关于发布国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知》要求，为做好专项的组织推荐工作，现提出如下要求：\n\n一、申报要求\n\n请有关单位严格按照中国机械工业集团有限公司《关于发布国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知》要求进行项目申报。\n\n二、填报要求\n\n请各申报单位通过国家科技管理信息系统公共服务平台进行网上填报。申报材料中所需的附件材料，全部要以电子扫描件形式上传。\n\n网上填报申报书的受理时间为：2026年11月13日8:00至12月15日16:00。国科管系统网上开放填报时间为11月27日8:00至12月15日16:00，各申报团队可参照往年模板提前准备申报材料，最终申报材料模板以国科管系统开放后系统下载模板为准。\n\n三、联系方式\n\n基础件共性关键技术、重大装备集成应用示范\n\n联系人：刘老师 联系电话：010-62341509-6070\n\n高端关键基础件\n\n联系人：贾老师 联系电话：010-55577808\n\n基础件中试验证平台\n\n联系人：郭老师 联系电话：010-55577799\n\n北京市科学技术委员会、中关村科技园区管理委员会\n\n2026年11月24日",
+          "paragraphs": [
+            "京科资发〔2026〕170号",
+            "各有关单位：",
+            "根据中国机械工业集团有限公司《关于发布国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知》要求，为做好专项的组织推荐工作，现提出如下要求：",
+            "一、申报要求",
+            "请有关单位严格按照中国机械工业集团有限公司《关于发布国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知》要求进行项目申报。",
+            "二、填报要求",
+            "请各申报单位通过国家科技管理信息系统公共服务平台进行网上填报。申报材料中所需的附件材料，全部要以电子扫描件形式上传。",
+            "网上填报申报书的受理时间为：2026年11月13日8:00至12月15日16:00。国科管系统网上开放填报时间为11月27日8:00至12月15日16:00，各申报团队可参照往年模板提前准备申报材料，最终申报材料模板以国科管系统开放后系统下载模板为准。",
+            "三、联系方式",
+            "基础件共性关键技术、重大装备集成应用示范",
+            "联系人：刘老师 联系电话：010-62341509-6070",
+            "高端关键基础件",
+            "联系人：贾老师 联系电话：010-55577808",
+            "基础件中试验证平台",
+            "联系人：郭老师 联系电话：010-55577799",
+            "北京市科学技术委员会、中关村科技园区管理委员会",
+            "2026年11月24日"
+          ],
+          "issuer": null,
+          "region": null,
+          "title": null,
+          "document_no": "京科资发〔2026〕170号"
+        }
+      ],
+      "latest_version_id": "87335d87b9db417869a54f5355821e61faa78b33921ba2aa29d334de60fc26b0:891f0cdfe37598036bd74c93e3d170dec271ec0bd0442d8b78fdac6e875900e5",
+      "latest_captured_at": "2026-11-24T17:22:45.584Z",
+      "latest_status": "text",
+      "last_attempt": {
+        "captured_at": "2026-11-24T17:22:45.584Z",
+        "status": "text",
+        "message": "已提取正文文字；不含图片和附件"
+      },
+      "reference_links": []
+    },
+    "cfa4214820876474a56d47e8c2db05a0eb64688e0ba3e4e0ec0fbb4ca86e281a": {
+      "article_id": "cfa4214820876474a56d47e8c2db05a0eb64688e0ba3e4e0ec0fbb4ca86e281a",
+      "source_id": "neimenggu",
+      "source_url": "https://www.nmg.gov.cn/ztzl/yhyshj/zcwj/zzqzcx/202606/t20260615_2916199.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-24T17:22:46.881Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：HTTP 403"
+      },
+      "reference_links": []
+    },
+    "35ea2e659c080f0ae8243cfca9341f0bec17673ecd1851ce9f68604624ba4688": {
+      "article_id": "35ea2e659c080f0ae8243cfca9341f0bec17673ecd1851ce9f68604624ba4688",
+      "source_id": "shanxi",
+      "source_url": "https://www.shanxi.gov.cn/zcwjk/bgtwj/202610/t20261015_10236583.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-24T17:22:46.883Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "362355ae5889d4cf6195c989ce7f49d61f1849a2949f270b296228aeda40f385": {
+      "article_id": "362355ae5889d4cf6195c989ce7f49d61f1849a2949f270b296228aeda40f385",
+      "source_id": "shanxi",
+      "source_url": "https://www.shanxi.gov.cn/zfxxgk/zfxxgkzl/fdzdgknr/lzyj/szfbgtwj/202501/t20250123_9757710.shtml",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-24T17:22:46.885Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
