@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T21:05:32.520Z",
+  "generated_at": "2026-11-24T05:50:06.946Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -1478,7 +1478,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T21:16:03.591Z"
+      "checked_at": "2026-11-24T05:50:06.946Z"
     },
     "b0aa260ae91832d192747ce8710dcfced788fc94f8a5f445e06899db6bf02adc": {
       "title": "黑龙江省旅游厕所管理办法",
@@ -1494,7 +1494,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T21:16:03.591Z"
+      "checked_at": "2026-11-24T05:50:06.946Z"
     },
     "01919b6e6bf4c497930e7d4f08939c4beea4e07dd721c113f5285d3c414d2aa6": {
       "title": "自然资源保护利用“十五五”规划",
@@ -1510,7 +1510,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-15T01:41:09.444Z"
+      "checked_at": "2026-11-24T05:50:06.946Z"
     },
     "23abd94e49bce1779880ff95283df48a62820f1edacba80d001b28d0ed59bd87": {
       "title": "循环经济发展“十五五”规划",
@@ -2168,7 +2168,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-14T21:16:03.591Z"
+      "checked_at": "2026-11-24T05:50:06.946Z"
     },
     "51d2a03f94e74700568393dfb486d8b74abd9f0ae1b4605580ea3dc37bf00c8d": {
       "title": "中华人民共和国地方附加税法（征求意见稿）",

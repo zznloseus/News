@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T21:05:32.223Z",
+  "generated_at": "2026-11-24T05:50:06.572Z",
   "records": {
     "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99": {
       "article_id": "0076e93e36f3574e56f0a1bbae42d602e300170c3c34e2b1d58b533673485e99",
@@ -1160,9 +1160,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:50.469Z",
+        "captured_at": "2026-11-24T05:50:04.533Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -5113,7 +5113,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:50.474Z",
+        "captured_at": "2026-11-24T05:50:04.540Z",
         "status": "unavailable",
         "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
@@ -6248,7 +6248,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:53.270Z",
+        "captured_at": "2026-11-24T05:50:05.690Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -6263,7 +6263,7 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:54.109Z",
+        "captured_at": "2026-11-24T05:50:06.552Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
       },
@@ -10219,9 +10219,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:50.768Z",
+        "captured_at": "2026-11-24T05:50:04.543Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -11110,9 +11110,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T19:20:04.111Z",
+        "captured_at": "2026-11-24T05:50:06.564Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -13701,9 +13701,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:54.721Z",
+        "captured_at": "2026-11-24T05:50:06.558Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -13716,9 +13716,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:55.016Z",
+        "captured_at": "2026-11-24T05:50:06.561Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -14345,9 +14345,9 @@
       "latest_captured_at": null,
       "latest_status": null,
       "last_attempt": {
-        "captured_at": "2026-11-22T11:06:54.409Z",
+        "captured_at": "2026-11-24T05:50:06.555Z",
         "status": "unavailable",
-        "message": "未找到可靠的正文区域；仅有简介或动态页面"
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     },
@@ -17649,6 +17649,51 @@
         "captured_at": "2026-11-23T21:05:32.223Z",
         "status": "unavailable",
         "message": "未找到可靠的正文区域；仅有简介或动态页面"
+      },
+      "reference_links": []
+    },
+    "e6b9b39a4ef19df37f38e93de21d761d324b899435b2480805608f459195393d": {
+      "article_id": "e6b9b39a4ef19df37f38e93de21d761d324b899435b2480805608f459195393d",
+      "source_id": "beijing",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918219.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-24T05:50:06.567Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "684fd9f4bdeb85385bfadd5c0c8063020656369f2f6ffb9d90758de5f6abf2fa": {
+      "article_id": "684fd9f4bdeb85385bfadd5c0c8063020656369f2f6ffb9d90758de5f6abf2fa",
+      "source_id": "neimenggu",
+      "source_url": "https://www.nmg.gov.cn/zwyw/tzgg/202607/t20260703_2924431.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-24T05:50:06.570Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
+      },
+      "reference_links": []
+    },
+    "882dc0c7db4c2e691f32b15f94b5a939f69d1129f4fd8208caf4a468e1427409": {
+      "article_id": "882dc0c7db4c2e691f32b15f94b5a939f69d1129f4fd8208caf4a468e1427409",
+      "source_id": "neimenggu",
+      "source_url": "https://www.nmg.gov.cn/ztzl/yhyshj/zcwj/zzqzcx/202605/t20260514_2902468.html",
+      "versions": [],
+      "latest_version_id": null,
+      "latest_captured_at": null,
+      "latest_status": null,
+      "last_attempt": {
+        "captured_at": "2026-11-24T05:50:06.572Z",
+        "status": "unavailable",
+        "message": "无法确认 robots.txt：The operation was aborted due to timeout"
       },
       "reference_links": []
     }
