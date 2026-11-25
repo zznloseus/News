@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T17:22:42.130Z",
+  "generated_at": "2026-11-25T02:09:03.427Z",
   "articles": [
     {
       "id": "0001a10cf15d0ee4aa5ddf4e10ffd3900de94e1d0a25bffb49045949e2d81287",
@@ -102,7 +102,7 @@
       "stage": "工作动态",
       "published_at": "2022-06-01",
       "collected_at": "2026-10-29T11:41:45.865Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -128,7 +128,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -154,7 +154,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-24",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -284,7 +284,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -596,7 +596,7 @@
       "stage": "工作动态",
       "published_at": "2026-01-09",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -804,7 +804,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -934,7 +934,7 @@
       "stage": "资金申报",
       "published_at": "2026-06-10",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -1168,7 +1168,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -1753,7 +1753,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -1888,6 +1888,19 @@
       "document_no": null
     },
     {
+      "id": "029891c2a38ccf58031ac7654ca3d0ee2ceee71f9c4a17d3a9451d7a0fd2ad03",
+      "url": "https://www.news.cn/politics/20261124/e3456223660b4e56bc636ce70aeef1ca/c.html",
+      "title": "疾控“十五五”规划这样共绘健康蓝图",
+      "source_id": "xinhua",
+      "category": "中央部署",
+      "stage": "规划部署",
+      "published_at": "2026-11-24",
+      "collected_at": "2026-11-25T02:09:03.427Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "029ae50c7b65315ed1742e91e82944a3d55d00168788afb8822e4eabe8c52f59",
       "url": "https://www.ggzy.gov.cn/information/deal/html/a/330000/0104/20261101/0033a4b94f172855438aa3c55be0ac39a333.html",
       "title": "龙港市2026-2027年全域幸福河湖建设工程-钱巴河等...",
@@ -1909,7 +1922,7 @@
       "stage": "政策发布",
       "published_at": "2026-02-06",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -1961,7 +1974,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -2117,7 +2130,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -2520,7 +2533,7 @@
       "stage": "政策发布",
       "published_at": "2026-05-22",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -2702,7 +2715,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -2988,7 +3001,7 @@
       "stage": "项目采购",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-16T01:44:40.737Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -3326,7 +3339,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-30T15:46:37.516Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -3547,7 +3560,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -3677,7 +3690,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -4041,7 +4054,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-29",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -4990,7 +5003,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -5185,7 +5198,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -5510,7 +5523,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-02",
       "collected_at": "2026-11-02T01:25:09.189Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -6836,7 +6849,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-18T03:31:40.050Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -7330,7 +7343,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -7356,7 +7369,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -8812,7 +8825,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -9059,7 +9072,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T03:36:39.562Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -9527,7 +9540,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -11139,7 +11152,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -11347,7 +11360,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-30T15:46:37.516Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -11477,7 +11490,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -12660,7 +12673,7 @@
       "stage": "工作动态",
       "published_at": "2026-03-19",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -13427,7 +13440,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -14090,7 +14103,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-18T12:52:49.712Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -14415,7 +14428,7 @@
       "stage": "资金申报",
       "published_at": "2026-10-30",
       "collected_at": "2026-10-30T08:25:26.124Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "各省、自治区、直辖市及计划单列市科技厅（委、局），新疆生产建设兵团科技局，各有关单位： 为进一步完善国家科技专家库建设，提升专家参与国家科技管理活动的质量，支撑保障国家重大科技项目组织实施工作，现征集符合条件的优秀专家加入国家科技专家库（简称“专家库”）。现就有关事项通知如下。 一、入库专家基本标准 入库专家原则上不超过70周岁（1956年1月1日及以后出生",
       "document_no": null
     },
@@ -14428,7 +14441,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-15",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -15052,7 +15065,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -15221,7 +15234,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-09",
       "collected_at": "2026-11-09T20:35:29.009Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -15260,7 +15273,7 @@
       "stage": "征求意见",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -15364,7 +15377,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -15611,7 +15624,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-29",
       "collected_at": "2026-10-30T02:32:38.668Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "国家知识产权局公告第六八九号国家知识产权局专利局乌鲁木齐代办处专利费用收缴账户变更。变更后信息如下：户 名：新疆维吾尔自治区知识产权保护中心（国家知识产权局专利局乌鲁木齐代办处、民族语言文字商标翻译〈新疆〉工作站）开户银行：中国工商银行股份有限公司乌鲁木齐光明路支行账 号：3002012229026403275启用时间：2026年10月23日。自2026年1",
       "document_no": null
     },
@@ -15962,7 +15975,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -16404,7 +16417,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-17T21:42:00.384Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -16625,7 +16638,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-28",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -18081,7 +18094,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -18731,7 +18744,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-02",
       "collected_at": "2026-11-02T09:11:12.181Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -19303,7 +19316,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -20369,7 +20382,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -22488,7 +22501,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-30",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -22865,7 +22878,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -23684,7 +23697,7 @@
       "stage": "政策解读",
       "published_at": "2026-08-03",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -24425,7 +24438,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -24451,7 +24464,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:02.087Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -24789,7 +24802,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "新华社北京10月21日电 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见 为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，深入实施创新驱动发展战略，以发展新质生产力、建设现代化产业体系为目标",
       "document_no": null
     },
@@ -25374,7 +25387,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -25907,7 +25920,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -25972,7 +25985,7 @@
       "stage": "政策解读",
       "published_at": "2026-07-05",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -26180,7 +26193,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -26206,7 +26219,7 @@
       "stage": "工作动态",
       "published_at": "2026-03-27",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -26999,7 +27012,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T09:20:09.449Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "近日，市场监管总局批准发布《温室气体 产品碳足迹量化方法与要求 尿素》《温室气体 产品碳足迹量化方法与要求 精己二酸》《温室气体 产品碳足迹量化方法与要求 钴盐》《温室气体 产品碳足迹量化方法与要求 锰盐》《温室气体 产品碳足迹量化方法与要求 工业硫酸》《温室气体 产品碳足迹量化方法与要求 磷酸和磷酸盐》《温室气体 产品碳足迹量化方法与要求 无机硅化合物》《",
       "document_no": null
     },
@@ -27753,7 +27766,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28169,7 +28182,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-12",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28286,7 +28299,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-21T01:17:01.364Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28312,7 +28325,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-05T10:38:49.501Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28325,7 +28338,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28338,7 +28351,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28351,7 +28364,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-03T10:41:11.346Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28520,7 +28533,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-28",
       "collected_at": "2026-10-28T09:30:49.172Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -28923,7 +28936,7 @@
       "stage": "征求意见",
       "published_at": null,
       "collected_at": "2026-11-09T09:30:51.655Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -29157,7 +29170,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-15",
       "collected_at": "2026-11-15T09:03:07.774Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -29287,7 +29300,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -29742,7 +29755,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-23",
       "collected_at": "2026-10-27T04:09:10.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -30522,7 +30535,7 @@
       "stage": "政策发布",
       "published_at": "2026-08-05",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -30639,7 +30652,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -31042,7 +31055,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -31094,7 +31107,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -31237,7 +31250,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -31757,7 +31770,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-13T06:02:07.916Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -31770,7 +31783,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-15",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "财教〔2026〕195 号 各省、自治区、直辖市、计划单列市财政厅（局）、教育厅（教委、教育局），新疆生产建设兵团财政局、教育局： 为规范和加强城乡义务教育补助经费管理，提高资金使用效益，我们对《城乡义务教育补助经费管理办法》进行了修订。现 印发给你们，请遵照执行。 财政部 教育部 2026年9月24日 城乡义务教育补助经费管理办法 第一条 为加强城乡义务教",
       "document_no": null
     },
@@ -31952,7 +31965,7 @@
       "stage": "征求意见",
       "published_at": "2026-07-17",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -32186,7 +32199,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -32459,7 +32472,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -32563,7 +32576,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -33161,7 +33174,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-13T06:02:07.916Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -33551,7 +33564,7 @@
       "stage": "工作动态",
       "published_at": "2026-08-21",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -33694,7 +33707,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -33772,7 +33785,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -34253,7 +34266,7 @@
       "stage": "政策解读",
       "published_at": null,
       "collected_at": "2026-11-03T18:21:49.253Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -34890,7 +34903,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -35137,7 +35150,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-23",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -35176,7 +35189,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-16T09:20:09.449Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -35319,7 +35332,7 @@
       "stage": "政策解读",
       "published_at": "2026-02-11",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -35748,7 +35761,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -36619,7 +36632,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -36892,7 +36905,7 @@
       "stage": "试点清单",
       "published_at": "2026-09-21",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38062,7 +38075,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38140,7 +38153,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-31",
       "collected_at": "2026-10-31T13:30:21.556Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38478,7 +38491,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38530,7 +38543,7 @@
       "stage": "资金申报",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38829,7 +38842,7 @@
       "stage": "政策解读",
       "published_at": "2025-10-24",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -38855,7 +38868,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -39440,7 +39453,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -39804,7 +39817,7 @@
       "stage": "试点清单",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -40220,7 +40233,7 @@
       "stage": "政策发布",
       "published_at": "2026-01-07",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -40311,7 +40324,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -40558,7 +40571,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-30T08:25:26.124Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -40714,7 +40727,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -40922,7 +40935,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -41247,7 +41260,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -41819,7 +41832,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-31T13:30:21.556Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -41884,7 +41897,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-23",
       "collected_at": "2026-10-27T04:09:10.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -42417,7 +42430,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -42560,7 +42573,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-05T10:38:49.501Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -42768,7 +42781,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -43041,7 +43054,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -43171,7 +43184,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -44744,7 +44757,7 @@
       "stage": "资金申报",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "财资环〔2026〕129号 各省、自治区、直辖市财政厅（局）、应急管理厅（局），新疆生产建设兵团财政局、应急管理局： 为进一步加强中央自然灾害救灾资金管理，切实提高救灾资金使用效益，我们修订了《中央自然灾害救灾资金管理办法》。现予印发，请遵照执行。此前已制定的中央自然灾害救灾资金管理的配套制度符合本办法规定的，继续有效。 财政部 应急管理部 2026年10月",
       "document_no": null
     },
@@ -44796,7 +44809,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -45056,7 +45069,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -45433,7 +45446,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -45745,7 +45758,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -48059,7 +48072,7 @@
       "stage": "规划部署",
       "published_at": "2026-10-30",
       "collected_at": "2026-10-30T15:46:37.516Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -48449,7 +48462,7 @@
       "stage": "工作动态",
       "published_at": "2025-05-30",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -51491,7 +51504,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -51868,7 +51881,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-12",
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -52245,7 +52258,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -52596,7 +52609,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -52791,7 +52804,7 @@
       "stage": "政策解读",
       "published_at": "2025-05-22",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -53545,7 +53558,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -53935,7 +53948,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -53961,7 +53974,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-04",
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -54273,7 +54286,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:02.087Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -55248,7 +55261,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -55300,7 +55313,7 @@
       "stage": "资金申报",
       "published_at": "2026-09-01",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -56067,7 +56080,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-21",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -57133,7 +57146,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -57653,7 +57666,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -57718,7 +57731,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -57809,7 +57822,7 @@
       "stage": "政策发布",
       "published_at": "2026-03-02",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -57939,7 +57952,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-30",
       "collected_at": "2026-10-30T15:46:37.516Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -58121,7 +58134,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -58160,7 +58173,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-22",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -58992,7 +59005,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -59161,7 +59174,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -59356,7 +59369,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T09:20:09.449Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "近日，生态环境部、国家市场监督管理总局联合印发《关于做好地方生态环境标准工作的意见》（以下简称《意见》），推动完善地方生态环境标准体系、提升标准工作质量、健全标准管理机制。",
       "document_no": null
     },
@@ -59694,7 +59707,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -60435,7 +60448,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -60617,7 +60630,7 @@
       "stage": "政策解读",
       "published_at": "2026-03-20",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -61007,7 +61020,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -61696,7 +61709,7 @@
       "stage": "政策解读",
       "published_at": "2026-03-18",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -61839,7 +61852,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -62242,7 +62255,7 @@
       "stage": "规划部署",
       "published_at": "2026-10-30",
       "collected_at": "2026-10-30T01:47:51.801Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -62281,7 +62294,7 @@
       "stage": "政策发布",
       "published_at": "2026-06-17",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -62593,7 +62606,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-04",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -62606,7 +62619,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -63698,7 +63711,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -64348,7 +64361,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T09:07:46.231Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -64491,7 +64504,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-07",
       "collected_at": "2026-11-07T06:58:04.086Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -65518,7 +65531,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-12",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -66233,7 +66246,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-14",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -67520,7 +67533,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-12",
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -67936,7 +67949,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -67988,7 +68001,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-18T03:31:40.050Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68079,7 +68092,7 @@
       "stage": "政策解读",
       "published_at": "2026-08-03",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68261,7 +68274,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-18T03:31:40.050Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68612,7 +68625,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68729,7 +68742,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68808,6 +68821,19 @@
       "published_at": "2026-11-14",
       "collected_at": "2026-11-14T21:15:55.876Z",
       "last_seen_at": "2026-11-15T21:36:39.131Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
+      "id": "603d94d23d8271d849e91eac5add68f13a52640d6d9f25189ad682d78d87369f",
+      "url": "https://www.news.cn/legal/20261124/8a9fb42cf1a44fb0b579380296a55852/c.html",
+      "title": "司法部、全国普法办发布全国法治宣传教育创新案例",
+      "source_id": "xinhua",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-11-24",
+      "collected_at": "2026-11-25T02:09:03.427Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68898,7 +68924,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T00:42:25.177Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -68911,7 +68937,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -69067,7 +69093,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T20:12:07.763Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -69119,7 +69145,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -69236,7 +69262,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -69470,7 +69496,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -69730,7 +69756,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "根据《地理标志产品保护办法》，生产武川土豆、呼伦贝尔蓝莓野果汁、正蓝旗奶豆腐（正蓝旗浩乳得）、大连海参、九龙川香菇、吉林长白山人参、梅河大米、汤原大米、嘉荷青鱼及其制品、龙泉青瓷、平湖西瓜、绍兴麻鸭、青州敞口山楂、新会陈皮、新会柑、竹山粉葛、八渡笋、百色芒果、北海生蚝、合浦大月饼、横县茉莉花茶、那林鱼、三江茶、十万山牛大力、西山茶、文昌鸡、大田石榴、大竹白茶",
       "document_no": null
     },
@@ -70198,7 +70224,7 @@
       "stage": "资金申报",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -70432,7 +70458,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -70705,7 +70731,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -71069,7 +71095,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-24",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -71472,7 +71498,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -71745,7 +71771,7 @@
       "stage": "规划部署",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -72850,7 +72876,7 @@
       "stage": "政策发布",
       "published_at": "2026-08-11",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -72863,7 +72889,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -73812,7 +73838,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-28",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -74046,7 +74072,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-30",
       "collected_at": "2026-10-29T11:41:45.865Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -74345,7 +74371,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -74709,7 +74735,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-30",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -74917,7 +74943,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T17:49:44.085Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -74943,7 +74969,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -75320,7 +75346,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-15",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -76295,7 +76321,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -76425,7 +76451,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -76495,6 +76521,19 @@
       "document_no": null
     },
     {
+      "id": "6ac724aa2c9ce479dc4bb1d83eb2dc94eb431a93b55d0943199fafb5666c0b07",
+      "url": "https://www.news.cn/fortune/20261125/a446762126a342e695f85d3861544f3d/c.html",
+      "title": "鸿蒙“过亿”，科技自信赢得市场底气",
+      "source_id": "xinhua",
+      "category": "中央部署",
+      "stage": "工作动态",
+      "published_at": "2026-11-25",
+      "collected_at": "2026-11-25T02:09:03.427Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
+      "excerpt": "",
+      "document_no": null
+    },
+    {
       "id": "6acd15b93cb2b9c6f2045aed306a3af93a39c11793122e65b6bc9de2c41390fd",
       "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/gjkjjl/gjkjjlsj/202607/t20260708_196991.html",
       "title": "2025年度国家科技奖励获奖情况",
@@ -76503,7 +76542,7 @@
       "stage": "工作动态",
       "published_at": "2026-07-08",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -77348,7 +77387,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-13T21:53:17.086Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -77387,7 +77426,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -78427,7 +78466,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -78648,7 +78687,7 @@
       "stage": "试点清单",
       "published_at": "2026-07-24",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -78869,7 +78908,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -78882,7 +78921,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -79649,7 +79688,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-11T17:49:44.085Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -80078,7 +80117,7 @@
       "stage": "工作动态",
       "published_at": "2022-05-07",
       "collected_at": "2026-10-29T11:41:45.865Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -80091,7 +80130,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -80325,7 +80364,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -80728,7 +80767,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -81469,7 +81508,7 @@
       "stage": "政策发布",
       "published_at": "2026-02-23",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -81521,7 +81560,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-18T12:52:49.712Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -81638,7 +81677,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -81859,7 +81898,7 @@
       "stage": "工作动态",
       "published_at": "2026-03-26",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -82093,7 +82132,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -82990,7 +83029,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T17:49:44.085Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -83991,7 +84030,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-15",
       "collected_at": "2026-11-15T16:54:59.826Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "近日，中共中央印发了修订后的《中国共产党地方委员会工作条例》（以下简称《条例》），并发出通知，要求各地区各部门认真遵照执行。",
       "document_no": null
     },
@@ -84576,7 +84615,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "为深入贯彻党中央、国务院关于做好科技金融、普惠金融等五篇大文章的决策部署，加强金融对科技创新和文化产业的支持，助力培育和发展新质生产力，金融监管总局会同国家知识产权局、国家版权局指导知识产权金融生态综合试点地区积极探索知识产权金融工作新举措新模式，取得积极成效。为发挥好典型案例的示范引领作用，三部门共同遴选出一批具有典型性的案例和做法，供借鉴参考。",
       "document_no": null
     },
@@ -84693,7 +84732,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -85213,7 +85252,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-18T12:52:49.712Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -85421,7 +85460,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -85811,7 +85850,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -85993,7 +86032,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -86071,7 +86110,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -86500,7 +86539,7 @@
       "stage": "征求意见",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -87007,7 +87046,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -87839,7 +87878,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T02:59:33.435Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -89087,7 +89126,7 @@
       "stage": "政策解读",
       "published_at": "2026-08-03",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -89906,7 +89945,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-09",
       "collected_at": "2026-10-27T04:09:10.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -90322,7 +90361,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -90387,7 +90426,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -90673,7 +90712,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -90829,7 +90868,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-14",
       "collected_at": "2026-11-14T10:00:50.639Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -91531,7 +91570,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-28",
       "collected_at": "2026-10-29T01:42:03.974Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -91986,7 +92025,7 @@
       "stage": "规划部署",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -92363,7 +92402,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -92532,7 +92571,7 @@
       "stage": "政策解读",
       "published_at": "2026-03-21",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -93754,7 +93793,7 @@
       "stage": "试点清单",
       "published_at": "2026-02-09",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -93767,7 +93806,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -94430,7 +94469,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -94807,7 +94846,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -94963,7 +95002,7 @@
       "stage": "试点清单",
       "published_at": "2026-09-08",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -95106,7 +95145,7 @@
       "stage": "政策解读",
       "published_at": null,
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -95717,7 +95756,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -95782,7 +95821,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -95821,7 +95860,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -96504,13 +96543,13 @@
     {
       "id": "8775c06862d5190df61e25f95babe5bbdf7a4446ddb266645f4941ebe7706434",
       "url": "https://www.news.cn/fortune/20261121/71b3b2a8f7ea471987e6cb0a39ab7c1e/c.html",
-      "title": "消费新图景丨文化“轻”消费 烟火“潮”生活",
+      "title": "文化“轻”消费 烟火“潮”生活",
       "source_id": "xinhua",
       "category": "中央部署",
       "stage": "工作动态",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -96549,7 +96588,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T19:19:57.254Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -97485,7 +97524,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -97563,7 +97602,7 @@
       "stage": "政策解读",
       "published_at": "2026-02-27",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -97836,7 +97875,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -98382,7 +98421,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-26",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -98525,7 +98564,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -98876,7 +98915,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -98928,7 +98967,7 @@
       "stage": "政策解读",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "近日，中共中央办公厅、国务院办公厅印发《关于推动科技创新和产业创新深度融合的意见》（以下简称《意见》）。科技部有关负责同志就《意见》接受采访，回答记者提问。 问：请介绍一下制定《意见》的背景和意义。 答：党的十八大以来，党中央、国务院高度重视科技创新和产业创新深度融合。习近平总书记作出系列重要论述，指出“科技创新和产业创新，是发展新质生产力的基本路径”，强调",
       "document_no": null
     },
@@ -99188,7 +99227,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-29",
       "collected_at": "2026-10-27T04:09:10.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -99396,7 +99435,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-04",
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -99617,7 +99656,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -99643,7 +99682,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -99942,7 +99981,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-01",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -100319,7 +100358,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-09",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -100514,7 +100553,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -100917,7 +100956,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-14",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -101255,7 +101294,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -101320,7 +101359,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T17:49:44.085Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -101463,7 +101502,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T02:59:33.435Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -101853,7 +101892,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -102217,7 +102256,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -102399,7 +102438,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -102412,7 +102451,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-05",
       "collected_at": "2026-11-05T10:38:49.501Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -102685,7 +102724,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T09:20:09.449Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -103231,7 +103270,7 @@
       "stage": "规划部署",
       "published_at": "2025-11-07",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -104622,7 +104661,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -105844,7 +105883,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -105896,7 +105935,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T01:44:40.737Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -106026,7 +106065,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -106234,7 +106273,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-04",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -107404,7 +107443,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -107950,7 +107989,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -108639,7 +108678,7 @@
       "stage": "资金申报",
       "published_at": null,
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -108691,7 +108730,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -108847,7 +108886,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -108938,7 +108977,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -109237,7 +109276,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -109887,7 +109926,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-03",
       "collected_at": "2026-11-03T10:41:11.346Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "局机关各部门，专利局各部门，商标局，局其他直属单位、各社会团体：现将《专利和商标审查“十五五”规划》印发给你们，请认真贯彻落实。国家知识产权局2026年10月19日（本文有删减）",
       "document_no": null
     },
@@ -110667,7 +110706,7 @@
       "stage": "政策发布",
       "published_at": "2026-01-07",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -110758,7 +110797,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -111265,7 +111304,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-09",
       "collected_at": "2026-11-09T09:30:51.655Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -111941,7 +111980,7 @@
       "stage": "工作动态",
       "published_at": "2026-08-11",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -112851,7 +112890,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -112890,7 +112929,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -113020,7 +113059,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -113631,7 +113670,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -114190,7 +114229,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-31",
       "collected_at": "2026-11-02T09:11:12.181Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -114450,7 +114489,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -114580,7 +114619,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -114606,7 +114645,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-15",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -115061,7 +115100,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T19:19:57.254Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -115425,7 +115464,7 @@
       "stage": "政策解读",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -116725,7 +116764,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-15",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -117167,7 +117206,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -118818,7 +118857,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-03T10:41:11.346Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -118896,7 +118935,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-16T20:12:07.763Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -118961,7 +119000,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -119208,7 +119247,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -119949,7 +119988,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -121145,7 +121184,7 @@
       "stage": "规划部署",
       "published_at": "2026-09-11",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -121704,7 +121743,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -121756,7 +121795,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-05",
       "collected_at": "2026-11-05T18:40:15.774Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -122016,7 +122055,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -122068,7 +122107,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-30",
       "collected_at": "2026-10-30T08:25:26.124Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -122497,7 +122536,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T09:07:46.231Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "财会〔2026〕13号 各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财政局，中直管理局财务资产管理司，国管局财务管理司，中央军委后勤保障部财务局，财政部各地监管局，有关单位： 为提高会计工作水平、提升会计信息质量，促进会计工作更好服务经济社会高质量发展，按照党的二十届四中全会精神和《中华人民共和国国民经济和社会发展第十五个五年规划纲要》、财",
       "document_no": null
     },
@@ -122666,7 +122705,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -123381,7 +123420,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -123394,7 +123433,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -124174,7 +124213,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -124265,7 +124304,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -124824,7 +124863,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -124902,7 +124941,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -125227,7 +125266,7 @@
       "stage": "资金申报",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -126410,7 +126449,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:02.087Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -126592,7 +126631,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -127151,7 +127190,7 @@
       "stage": "资金申报",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -127320,7 +127359,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -127385,7 +127424,7 @@
       "stage": "工作动态",
       "published_at": "2026-07-08",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -127606,7 +127645,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-19",
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -127788,7 +127827,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-16T20:12:07.763Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -127983,7 +128022,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -128126,7 +128165,7 @@
       "stage": "工作动态",
       "published_at": "2026-06-25",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -128152,7 +128191,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -128321,7 +128360,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T21:42:00.384Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -128880,7 +128919,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -128958,7 +128997,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -129049,7 +129088,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -129348,7 +129387,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -129374,7 +129413,7 @@
       "stage": "规划部署",
       "published_at": "2026-06-08",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -129647,7 +129686,7 @@
       "stage": "工作动态",
       "published_at": "2025-12-25",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -129738,7 +129777,7 @@
       "stage": "工作动态",
       "published_at": "2026-06-30",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -130388,7 +130427,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T09:20:09.449Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -131038,7 +131077,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-09",
       "collected_at": "2026-11-09T09:30:51.655Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "《中医药传统知识保护条例》已经2026年9月18日国务院第97次常务会议通过，现予公布，自2027年1月1日起施行。",
       "document_no": null
     },
@@ -131324,7 +131363,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -131454,7 +131493,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-18T12:52:49.712Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -131506,7 +131545,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "各省、自治区、直辖市和新疆生产建设兵团知识产权局；国家知识产权局局机关各部门，专利局各部门，商标局，局其他直属单位、各社会团体：现将《地理标志保护和运用“十五五”规划》印发给你们，请认真贯彻落实。国家知识产权局2026年10月22日（本文有删减）",
       "document_no": null
     },
@@ -132234,7 +132273,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -132390,7 +132429,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -132936,7 +132975,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T21:05:22.494Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -133755,7 +133794,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-18T03:31:40.050Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -134353,7 +134392,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "国家知识产权局日前印发《地理标志保护和运用“十五五”规划》（以下简称《规划》），明确了“十五五”时期地理标志工作的目标指标、重点任务和专项工程。《规划》强调，坚持以习近平新时代中国特色社会主义思想为指导，提高地理标志工作法治化水平、强化地理标志全链条保护、提升地理标志运用成效，全面提高中国地理标志产品国际竞争力和影响力，更好服务社会主义现代化强国建设。",
       "document_no": null
     },
@@ -134405,7 +134444,7 @@
       "stage": "征求意见",
       "published_at": null,
       "collected_at": "2026-11-17T03:36:39.562Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -134457,7 +134496,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -134912,7 +134951,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-19T21:17:58.396Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -135510,7 +135549,7 @@
       "stage": "工作动态",
       "published_at": "2026-04-22",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -135731,7 +135770,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T09:20:09.449Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -135861,7 +135900,7 @@
       "stage": "试点清单",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -136290,7 +136329,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -136888,7 +136927,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-16",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -137265,7 +137304,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "财法〔2026〕2号 各省、自治区、直辖市财政厅（局），新疆生产建设兵团财政局： 为了规范财政部门行使行政处罚裁量权行为，提高财政行政执法水平，推动严格规范公正文明执法，保护公民、法人和其他组织的合法权益，根据《中华人民共和国行政处罚法》、《国务院办公厅关于进一步规范行政裁量权基准制定和管理工作的意见》（国办发〔2022〕27号）等规定，结合财政部门行政执法",
       "document_no": null
     },
@@ -137551,7 +137590,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -138578,7 +138617,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-29",
       "collected_at": "2026-10-27T04:09:10.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -138734,7 +138773,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -140281,7 +140320,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -140450,7 +140489,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-04",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -140476,7 +140515,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -140684,7 +140723,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -140853,7 +140892,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -141867,7 +141906,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T17:49:44.085Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -141945,7 +141984,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -142413,7 +142452,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -142452,7 +142491,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:10.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -142881,7 +142920,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-29",
       "collected_at": "2026-10-30T02:32:38.668Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "国家知识产权局专利局南昌代办处办公地址变更。变更后信息如下：地址：江西省南昌市新建区赣江新区儒乐大道699号10号楼邮编：330000启用时间：2026年11月10日电话：0791-86208001、86208199、86208108银行账号信息不变。国家知识产权局2026年10月16日",
       "document_no": null
     },
@@ -143531,7 +143570,7 @@
       "stage": "工作动态",
       "published_at": "2026-10-16",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -143908,7 +143947,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T11:06:44.462Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -143960,7 +143999,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-09T09:30:51.655Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -143973,7 +144012,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-23",
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -144649,7 +144688,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -145585,7 +145624,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -146040,7 +146079,7 @@
       "stage": "工作动态",
       "published_at": "2026-09-21",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -146079,7 +146118,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-12T17:30:07.930Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -146443,7 +146482,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -146924,7 +146963,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -147223,7 +147262,7 @@
       "stage": "工作动态",
       "published_at": "2025-10-20",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -147236,7 +147275,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -147509,7 +147548,7 @@
       "stage": "试点清单",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T01:44:40.737Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "江西省创新积分制工作自2025年12月试行以来，按照“找得到、评得准、用得好”要求，建成“赣科积分”管理平台，推动积分由评价工具向科技资源配置依据转变。截至今年10月中旬，平台入库企业11763家、同比增长62%，评级管理企业8229家、同比增长84%。 一是数据归集突出“找得到”。12项指标实现政务数据“直抓取、零填报”，占指标总量的50%；导入6276家",
       "document_no": null
     },
@@ -148341,7 +148380,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -148406,7 +148445,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -148458,7 +148497,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T08:48:56.635Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -149446,7 +149485,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-11T01:10:00.807Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -149459,7 +149498,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -150174,7 +150213,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-02",
       "collected_at": "2026-11-02T09:11:12.181Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -151071,7 +151110,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "相关专利申请人、专利权人：近期，我局依法对一批专利代理机构作出吊销、撤销专利代理机构执业许可证的处理决定（名单附后）。为维护与上述代理机构存在委托关系的专利申请人、专利权人的合法权益，我局已于近日向相关申请人、专利权人发出审查业务专用函或短信通知，提醒尽快办理解除或变更专利代理委托手续。",
       "document_no": null
     },
@@ -151227,7 +151266,7 @@
       "stage": "政策解读",
       "published_at": "2026-08-03",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -151630,7 +151669,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -151669,7 +151708,7 @@
       "stage": "工作动态",
       "published_at": "2026-08-28",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -151799,7 +151838,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -152163,7 +152202,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -152345,7 +152384,7 @@
       "stage": "工作动态",
       "published_at": "2014-02-18",
       "collected_at": "2026-10-27T04:09:02.087Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -153268,7 +153307,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -153398,7 +153437,7 @@
       "stage": "政策发布",
       "published_at": "2026-06-18",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -153476,7 +153515,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-20T19:52:23.313Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -153619,7 +153658,7 @@
       "stage": "政策解读",
       "published_at": "2026-08-03",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -153866,7 +153905,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-03",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -154256,7 +154295,7 @@
       "stage": "工作动态",
       "published_at": "2026-08-27",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -154815,7 +154854,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -155231,7 +155270,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-08T10:04:01.414Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -155387,7 +155426,7 @@
       "stage": "政策解读",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -155777,7 +155816,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -156154,7 +156193,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-29",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "财金〔2026〕95号 各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财政局，中国人民银行上海总部及各省、自治区、直辖市、计划单列市分行，各金融监管局，有关金融机构： 为深入贯彻落实党中央、国务院有关决策部署，通过强化财政金融政策协同，支持城乡居民刚性住房需求，决定在全国范围内实施居民购房贷款贴息政策，减轻新购买首套住房家庭的商业性个人住房贷",
       "document_no": null
     },
@@ -156596,7 +156635,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-31",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -157467,7 +157506,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-18T12:52:49.712Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -157597,7 +157636,7 @@
       "stage": "政策发布",
       "published_at": "2026-08-28",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -158013,7 +158052,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-13",
       "collected_at": "2026-11-13T15:15:47.736Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -158273,7 +158312,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-19T03:03:43.433Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -158429,7 +158468,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -158546,7 +158585,7 @@
       "stage": "政策解读",
       "published_at": "2026-11-05",
       "collected_at": "2026-11-05T18:40:15.774Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -159144,7 +159183,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-11T09:07:46.231Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -159157,7 +159196,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -159807,7 +159846,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -160119,7 +160158,7 @@
       "stage": "工作动态",
       "published_at": "2025-08-26",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -160158,7 +160197,7 @@
       "stage": "政策发布",
       "published_at": "2026-07-08",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -160548,7 +160587,7 @@
       "stage": "征求意见",
       "published_at": null,
       "collected_at": "2026-11-17T03:36:39.562Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -162251,7 +162290,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-18T03:31:40.050Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -162355,7 +162394,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-22",
       "collected_at": "2026-11-22T19:19:57.254Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -162706,7 +162745,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -163564,7 +163603,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-17T21:42:00.384Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -163642,7 +163681,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-19T12:44:17.126Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -164084,7 +164123,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-17",
       "collected_at": "2026-11-17T12:59:25.658Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -164409,7 +164448,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-13T21:53:17.086Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -165215,7 +165254,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -167386,7 +167425,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-20",
       "collected_at": "2026-11-20T11:12:44.613Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -167646,7 +167685,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -168114,7 +168153,7 @@
       "stage": "资金申报",
       "published_at": null,
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -168140,7 +168179,7 @@
       "stage": "资金申报",
       "published_at": "2026-11-10",
       "collected_at": "2026-11-10T12:24:05.381Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "根据《国外地理标志产品保护办法》，国家知识产权局依法受理了泰国童库拉隆亥茉莉香米、巴帕南暹罗红宝石柚子、碧差汶甜罗望子等3个产品的地理标志产品保护申请。经形式审查，现将有关信息予以公示。有关单位或者个人对上述申请如有异议，可自公告之日起2个月内向国家知识产权局书面提出。申请资料存于国家知识产权局知识产权保护司备查。",
       "document_no": null
     },
@@ -168283,7 +168322,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-23",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -168686,7 +168725,7 @@
       "stage": "资金申报",
       "published_at": "2026-10-14",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -169336,7 +169375,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -170142,7 +170181,7 @@
       "stage": "政策发布",
       "published_at": "2026-04-28",
       "collected_at": "2026-10-27T04:09:07.905Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -171806,7 +171845,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-11",
       "collected_at": "2026-11-12T08:08:08.215Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -172027,7 +172066,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-23T00:42:25.177Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -172144,7 +172183,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -173041,7 +173080,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -173808,7 +173847,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -174536,7 +174575,7 @@
       "stage": "试点清单",
       "published_at": "2026-10-24",
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -174549,7 +174588,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -174874,7 +174913,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-06",
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:53.827Z",
+      "last_seen_at": "2026-11-25T02:08:04.657Z",
       "excerpt": "",
       "document_no": null
     },
@@ -174978,7 +175017,7 @@
       "stage": "规划部署",
       "published_at": "2026-11-18",
       "collected_at": "2026-11-18T12:52:49.712Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -175524,7 +175563,7 @@
       "stage": "政策发布",
       "published_at": "2026-09-30",
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -176044,7 +176083,7 @@
       "stage": "征求意见",
       "published_at": null,
       "collected_at": "2026-11-06T14:55:52.311Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -177058,7 +177097,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:11.063Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -177266,7 +177305,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-03",
       "collected_at": "2026-11-03T02:52:02.595Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -177292,7 +177331,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:08.291Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -177708,7 +177747,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-02T09:11:12.181Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -177747,7 +177786,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-17T03:36:39.562Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -177916,7 +177955,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T05:50:01.063Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -178163,7 +178202,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-16",
       "collected_at": "2026-11-16T01:44:40.737Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -178436,7 +178475,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -178449,7 +178488,7 @@
       "stage": "规划部署",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:05.769Z",
-      "last_seen_at": "2026-11-24T17:21:45.975Z",
+      "last_seen_at": "2026-11-25T02:07:56.211Z",
       "excerpt": "",
       "document_no": null
     },
@@ -178826,7 +178865,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-21",
       "collected_at": "2026-11-21T09:29:55.305Z",
-      "last_seen_at": "2026-11-24T17:21:53.524Z",
+      "last_seen_at": "2026-11-25T02:08:03.510Z",
       "excerpt": "",
       "document_no": null
     },
@@ -179697,7 +179736,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -179853,7 +179892,7 @@
       "stage": "政策解读",
       "published_at": "2025-06-30",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -180321,7 +180360,7 @@
       "stage": "资金申报",
       "published_at": "2026-02-09",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -180438,7 +180477,7 @@
       "stage": "政策发布",
       "published_at": "2026-10-21",
       "collected_at": "2026-10-27T04:09:05.136Z",
-      "last_seen_at": "2026-11-24T17:21:45.973Z",
+      "last_seen_at": "2026-11-25T02:07:55.700Z",
       "excerpt": "",
       "document_no": null
     },
@@ -180620,7 +180659,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-10",
       "collected_at": "2026-11-10T03:22:10.554Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -180997,7 +181036,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T05:21:26.813Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -181465,7 +181504,7 @@
       "stage": "政策发布",
       "published_at": "2026-11-09",
       "collected_at": "2026-11-09T09:30:51.655Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "税委会公告2026年第6号 为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，自2026年11月10日13时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在2",
       "document_no": null
     },
@@ -181478,7 +181517,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-17T21:42:00.384Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -181660,7 +181699,7 @@
       "stage": "征求意见",
       "published_at": null,
       "collected_at": "2026-11-11T17:49:44.085Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -181673,7 +181712,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-10-27T04:09:02.087Z",
-      "last_seen_at": "2026-11-24T17:21:42.960Z",
+      "last_seen_at": "2026-11-25T02:07:53.075Z",
       "excerpt": "",
       "document_no": null
     },
@@ -181790,7 +181829,7 @@
       "stage": "政策发布",
       "published_at": null,
       "collected_at": "2026-11-09T09:30:51.655Z",
-      "last_seen_at": "2026-11-24T17:21:42.993Z",
+      "last_seen_at": "2026-11-25T02:07:53.123Z",
       "excerpt": "",
       "document_no": null
     },
@@ -182063,7 +182102,7 @@
       "stage": "工作动态",
       "published_at": null,
       "collected_at": "2026-11-18T03:31:40.050Z",
-      "last_seen_at": "2026-11-24T17:21:52.594Z",
+      "last_seen_at": "2026-11-25T02:08:03.273Z",
       "excerpt": "",
       "document_no": null
     },
@@ -182167,7 +182206,7 @@
       "stage": "工作动态",
       "published_at": "2026-03-05",
       "collected_at": "2026-10-27T04:09:01.402Z",
-      "last_seen_at": "2026-11-24T17:21:45.484Z",
+      "last_seen_at": "2026-11-25T02:07:55.275Z",
       "excerpt": "",
       "document_no": null
     },
@@ -182245,7 +182284,7 @@
       "stage": "工作动态",
       "published_at": "2026-11-24",
       "collected_at": "2026-11-24T17:22:42.130Z",
-      "last_seen_at": "2026-11-24T17:21:42.991Z",
+      "last_seen_at": "2026-11-25T02:07:53.119Z",
       "excerpt": "",
       "document_no": null
     },
@@ -182464,7 +182503,7 @@
       "last_good_count": 27,
       "count_drop": false,
       "source_id": "gov",
-      "checked_at": "2026-11-24T17:21:42.960Z",
+      "checked_at": "2026-11-25T02:07:53.075Z",
       "status": "ok",
       "count": 27,
       "message": "已解析 27 条公开索引",
@@ -182472,29 +182511,29 @@
         "https://www.gov.cn/zhengce/zuixin/",
         "https://www.gov.cn/"
       ],
-      "last_success_at": "2026-11-24T17:21:42.960Z"
+      "last_success_at": "2026-11-25T02:07:53.075Z"
     },
     "xinhua": {
       "consecutive_failures": 0,
-      "last_good_count": 45,
+      "last_good_count": 41,
       "count_drop": false,
       "source_id": "xinhua",
-      "checked_at": "2026-11-24T17:21:42.991Z",
+      "checked_at": "2026-11-25T02:07:53.119Z",
       "status": "ok",
-      "count": 45,
-      "message": "已解析 45 条公开索引",
+      "count": 41,
+      "message": "已解析 41 条公开索引",
       "pages": [
         "https://www.news.cn/politics/",
         "https://www.news.cn/fortune/index.htm"
       ],
-      "last_success_at": "2026-11-24T17:21:42.991Z"
+      "last_success_at": "2026-11-25T02:07:53.119Z"
     },
     "scio": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "scio",
-      "checked_at": "2026-11-24T17:21:42.992Z",
+      "checked_at": "2026-11-25T02:07:53.120Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：fetch failed",
@@ -182502,11 +182541,11 @@
       "last_success_at": null
     },
     "ndrc": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "ndrc",
-      "checked_at": "2026-11-24T17:21:42.993Z",
+      "checked_at": "2026-11-25T02:07:53.122Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：HTTP 403；无法确认 robots.txt：HTTP 403",
@@ -182518,7 +182557,7 @@
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "mof",
-      "checked_at": "2026-11-24T17:21:42.993Z",
+      "checked_at": "2026-11-25T02:07:53.123Z",
       "status": "ok",
       "count": 70,
       "message": "已解析 70 条公开索引",
@@ -182526,14 +182565,14 @@
         "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/",
         "http://m.mof.gov.cn/index.htm"
       ],
-      "last_success_at": "2026-11-24T17:21:42.993Z"
+      "last_success_at": "2026-11-25T02:07:53.123Z"
     },
     "pbc": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "pbc",
-      "checked_at": "2026-11-24T17:21:42.994Z",
+      "checked_at": "2026-11-25T02:07:53.124Z",
       "status": "error",
       "count": 0,
       "message": "robots.txt 禁止采集该路径",
@@ -182541,18 +182580,15 @@
       "last_success_at": null
     },
     "miit": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "miit",
-      "checked_at": "2026-11-24T17:21:45.190Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.miit.gov.cn/search/wjfb.html?websiteid=110000000000000&pg=&p=&tpl=14&category=51&q=",
-        "https://www.miit.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:07:54.577Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：fetch failed；无法确认 robots.txt：fetch failed",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:45.190Z"
     },
     "most": {
@@ -182560,21 +182596,21 @@
       "last_good_count": 50,
       "count_drop": false,
       "source_id": "most",
-      "checked_at": "2026-11-24T17:21:45.484Z",
+      "checked_at": "2026-11-25T02:07:55.275Z",
       "status": "ok",
       "count": 50,
       "message": "已解析 50 条公开索引",
       "pages": [
         "https://www.most.gov.cn/index.html"
       ],
-      "last_success_at": "2026-11-24T17:21:45.484Z"
+      "last_success_at": "2026-11-25T02:07:55.275Z"
     },
     "mofcom": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_good_count": 44,
       "count_drop": false,
       "source_id": "mofcom",
-      "checked_at": "2026-11-24T17:21:45.700Z",
+      "checked_at": "2026-11-25T02:07:55.620Z",
       "status": "error",
       "count": 0,
       "message": "robots.txt 禁止采集该路径",
@@ -182586,35 +182622,35 @@
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "nea",
-      "checked_at": "2026-11-24T17:21:45.973Z",
+      "checked_at": "2026-11-25T02:07:55.700Z",
       "status": "ok",
       "count": 70,
       "message": "已解析 70 条公开索引",
       "pages": [
         "https://www.nea.gov.cn/"
       ],
-      "last_success_at": "2026-11-24T17:21:45.973Z"
+      "last_success_at": "2026-11-25T02:07:55.700Z"
     },
     "nda": {
       "consecutive_failures": 0,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "nda",
-      "checked_at": "2026-11-24T17:21:45.975Z",
+      "checked_at": "2026-11-25T02:07:56.211Z",
       "status": "ok",
       "count": 70,
       "message": "已解析 70 条公开索引",
       "pages": [
         "https://www.nda.gov.cn/sjj/index_pc.html"
       ],
-      "last_success_at": "2026-11-24T17:21:45.975Z"
+      "last_success_at": "2026-11-25T02:07:56.211Z"
     },
     "npc": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "npc",
-      "checked_at": "2026-11-24T17:21:46.188Z",
+      "checked_at": "2026-11-25T02:07:56.442Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：fetch failed",
@@ -182633,11 +182669,11 @@
       "last_success_at": null
     },
     "moj": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "moj",
-      "checked_at": "2026-11-24T17:21:47.541Z",
+      "checked_at": "2026-11-25T02:07:57.765Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：页面跳转次数过多",
@@ -182645,11 +182681,11 @@
       "last_success_at": null
     },
     "zqyj": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "zqyj",
-      "checked_at": "2026-11-24T17:21:47.685Z",
+      "checked_at": "2026-11-25T02:07:58.166Z",
       "status": "empty",
       "count": 0,
       "message": "网页可访问，但未解析到文章；可能需要动态接口适配",
@@ -182659,11 +182695,11 @@
       "last_success_at": null
     },
     "std": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "std",
-      "checked_at": "2026-11-24T17:21:47.997Z",
+      "checked_at": "2026-11-25T02:07:58.692Z",
       "status": "empty",
       "count": 0,
       "message": "网页可访问，但未解析到文章；可能需要动态接口适配",
@@ -182673,11 +182709,11 @@
       "last_success_at": null
     },
     "ccgp": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "ccgp",
-      "checked_at": "2026-11-24T17:21:49.456Z",
+      "checked_at": "2026-11-25T02:07:58.781Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：HTTP 403",
@@ -182685,25 +182721,23 @@
       "last_success_at": "2026-11-10T03:21:12.422Z"
     },
     "ggzy": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 58,
       "count_drop": false,
       "source_id": "ggzy",
-      "checked_at": "2026-11-24T17:21:49.923Z",
-      "status": "ok",
-      "count": 58,
-      "message": "已解析 58 条公开索引",
-      "pages": [
-        "https://www.ggzy.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:00.202Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：fetch failed",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:49.923Z"
     },
     "bjggzy": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "bjggzy",
-      "checked_at": "2026-11-24T17:21:50.510Z",
+      "checked_at": "2026-11-25T02:08:00.416Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：fetch failed",
@@ -182711,56 +182745,50 @@
       "last_success_at": "2026-11-24T05:48:52.468Z"
     },
     "shca": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 30,
       "count_drop": false,
       "source_id": "shca",
-      "checked_at": "2026-11-24T17:21:50.728Z",
-      "status": "ok",
-      "count": 30,
-      "message": "已解析 30 条公开索引",
-      "pages": [
-        "https://shca.miit.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:00.930Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：fetch failed",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:50.728Z"
     },
     "hljca": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "hljca",
-      "checked_at": "2026-11-24T17:21:50.871Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://hljca.miit.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:01.347Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：fetch failed",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:50.871Z"
     },
     "hunca": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "hunca",
-      "checked_at": "2026-11-24T17:21:51.026Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://hunca.miit.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:01.691Z",
+      "status": "error",
+      "count": 0,
+      "message": "fetch failed",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:51.026Z"
     },
     "sasac": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "sasac",
-      "checked_at": "2026-11-24T17:21:51.302Z",
+      "checked_at": "2026-11-25T02:08:02.340Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "message": "无法确认 robots.txt：fetch failed",
       "pages": [],
       "last_success_at": null
     },
@@ -182769,35 +182797,35 @@
       "last_good_count": 68,
       "count_drop": false,
       "source_id": "samr",
-      "checked_at": "2026-11-24T17:21:52.594Z",
+      "checked_at": "2026-11-25T02:08:03.273Z",
       "status": "ok",
       "count": 68,
       "message": "已解析 68 条公开索引",
       "pages": [
         "https://www.samr.gov.cn/"
       ],
-      "last_success_at": "2026-11-24T17:21:52.594Z"
+      "last_success_at": "2026-11-25T02:08:03.273Z"
     },
     "cnipa": {
       "consecutive_failures": 0,
       "last_good_count": 52,
       "count_drop": false,
       "source_id": "cnipa",
-      "checked_at": "2026-11-24T17:21:53.524Z",
+      "checked_at": "2026-11-25T02:08:03.510Z",
       "status": "ok",
       "count": 52,
       "message": "已解析 52 条公开索引",
       "pages": [
         "https://www.cnipa.gov.cn/"
       ],
-      "last_success_at": "2026-11-24T17:21:53.524Z"
+      "last_success_at": "2026-11-25T02:08:03.510Z"
     },
     "nfra": {
       "consecutive_failures": 0,
       "last_good_count": 19,
       "count_drop": false,
       "source_id": "nfra",
-      "checked_at": "2026-11-24T17:21:53.827Z",
+      "checked_at": "2026-11-25T02:08:04.657Z",
       "status": "ok",
       "count": 19,
       "message": "已解析 19 条公开索引",
@@ -182805,54 +182833,50 @@
         "https://www.nfra.gov.cn/cn/static/data/DocInfo/SelectDocByItemUUIdsAndChild/data_itemUUIds=8401%252C8402%252C8403%252C8404%252C8406%252C8409,orderBy=builddate,pageSize=50.json",
         "https://www.nfra.gov.cn/cn/view/pages/index/index.html"
       ],
-      "last_success_at": "2026-11-24T17:21:53.827Z"
+      "last_success_at": "2026-11-25T02:08:04.657Z"
     },
     "csrc": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "csrc",
-      "checked_at": "2026-11-24T17:21:54.068Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.csrc.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:05.543Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:54.068Z"
     },
     "safe": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "safe",
-      "checked_at": "2026-11-24T17:21:55.431Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.safe.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:07.036Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：fetch failed",
+      "pages": [],
       "last_success_at": "2026-11-24T17:21:55.431Z"
     },
     "chinatax": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 60,
       "count_drop": false,
       "source_id": "chinatax",
-      "checked_at": "2026-11-24T17:21:56.187Z",
+      "checked_at": "2026-11-25T02:08:07.101Z",
       "status": "error",
       "count": 0,
-      "message": "fetch failed",
+      "message": "无法确认 robots.txt：fetch failed",
       "pages": [],
       "last_success_at": "2026-11-23T21:04:26.247Z"
     },
     "customs": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "customs",
-      "checked_at": "2026-11-24T17:21:56.303Z",
+      "checked_at": "2026-11-25T02:08:07.512Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：fetch failed",
@@ -182860,11 +182884,11 @@
       "last_success_at": null
     },
     "mnr": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "mnr",
-      "checked_at": "2026-11-24T17:21:56.541Z",
+      "checked_at": "2026-11-25T02:08:08.421Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182872,11 +182896,11 @@
       "last_success_at": "2026-10-27T05:21:03.086Z"
     },
     "mohurd": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "mohurd",
-      "checked_at": "2026-11-24T17:21:57.287Z",
+      "checked_at": "2026-11-25T02:08:08.488Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182884,11 +182908,11 @@
       "last_success_at": "2026-11-16T09:19:27.191Z"
     },
     "mwr": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "mwr",
-      "checked_at": "2026-11-24T17:21:57.547Z",
+      "checked_at": "2026-11-25T02:08:09.022Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182896,11 +182920,11 @@
       "last_success_at": null
     },
     "mee": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "mee",
-      "checked_at": "2026-11-24T17:21:58.610Z",
+      "checked_at": "2026-11-25T02:08:09.522Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182908,11 +182932,11 @@
       "last_success_at": "2026-11-16T09:19:27.872Z"
     },
     "moa": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "moa",
-      "checked_at": "2026-11-24T17:21:59.269Z",
+      "checked_at": "2026-11-25T02:08:10.543Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182920,11 +182944,11 @@
       "last_success_at": "2026-10-28T21:35:14.579Z"
     },
     "lswz": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_good_count": 52,
       "count_drop": false,
       "source_id": "lswz",
-      "checked_at": "2026-11-24T17:22:01.542Z",
+      "checked_at": "2026-11-25T02:08:12.960Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182932,11 +182956,11 @@
       "last_success_at": "2026-11-16T09:19:29.252Z"
     },
     "mot": {
-      "consecutive_failures": 24,
+      "consecutive_failures": 25,
       "last_good_count": 39,
       "count_drop": false,
       "source_id": "mot",
-      "checked_at": "2026-11-24T17:22:02.287Z",
+      "checked_at": "2026-11-25T02:08:13.422Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182944,11 +182968,11 @@
       "last_success_at": "2026-11-16T20:11:23.156Z"
     },
     "nhc": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "nhc",
-      "checked_at": "2026-11-24T17:22:02.547Z",
+      "checked_at": "2026-11-25T02:08:13.488Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182956,11 +182980,11 @@
       "last_success_at": null
     },
     "nhsa": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "nhsa",
-      "checked_at": "2026-11-24T17:22:03.610Z",
+      "checked_at": "2026-11-25T02:08:14.022Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182968,11 +182992,11 @@
       "last_success_at": "2026-11-23T21:04:41.450Z"
     },
     "nmpa": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "nmpa",
-      "checked_at": "2026-11-24T17:22:04.270Z",
+      "checked_at": "2026-11-25T02:08:14.522Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -182980,39 +183004,35 @@
       "last_success_at": null
     },
     "moe": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 58,
       "count_drop": false,
       "source_id": "moe",
-      "checked_at": "2026-11-24T17:22:06.543Z",
-      "status": "ok",
-      "count": 58,
-      "message": "已解析 58 条公开索引",
-      "pages": [
-        "http://www.moe.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:15.543Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:06.543Z"
     },
     "mohrss": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "mohrss",
-      "checked_at": "2026-11-24T17:22:07.288Z",
-      "status": "empty",
+      "checked_at": "2026-11-25T02:08:17.960Z",
+      "status": "error",
       "count": 0,
-      "message": "网页可访问，但未解析到文章；可能需要动态接口适配",
-      "pages": [
-        "https://www.mohrss.gov.cn/"
-      ],
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": null
     },
     "mca": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "mca",
-      "checked_at": "2026-11-24T17:22:07.548Z",
+      "checked_at": "2026-11-25T02:08:18.422Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183020,81 +183040,71 @@
       "last_success_at": "2026-10-27T05:21:04.211Z"
     },
     "mct": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 62,
       "count_drop": false,
       "source_id": "mct",
-      "checked_at": "2026-11-24T17:22:08.457Z",
-      "status": "ok",
-      "count": 62,
-      "message": "已解析 62 条公开索引",
-      "pages": [
-        "https://www.mct.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:18.489Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:08.457Z"
     },
     "nrta": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 39,
       "count_drop": false,
       "source_id": "nrta",
-      "checked_at": "2026-11-24T17:22:08.610Z",
-      "status": "ok",
-      "count": 39,
-      "message": "已解析 39 条公开索引",
-      "pages": [
-        "https://www.nrta.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:19.023Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:08.610Z"
     },
     "cac": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 7,
       "count_drop": false,
       "source_id": "cac",
-      "checked_at": "2026-11-24T17:22:09.271Z",
-      "status": "ok",
-      "count": 7,
-      "message": "已解析 7 条公开索引",
-      "pages": [
-        "https://www.cac.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:19.522Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:09.271Z"
     },
     "fmprc": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "fmprc",
-      "checked_at": "2026-11-24T17:22:12.547Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.fmprc.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:20.544Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:12.547Z"
     },
     "stats": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 41,
       "count_drop": false,
       "source_id": "stats",
-      "checked_at": "2026-11-24T17:22:13.176Z",
-      "status": "ok",
-      "count": 41,
-      "message": "已解析 41 条公开索引",
-      "pages": [
-        "https://www.stats.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:22.961Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:13.176Z"
     },
     "audit": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "audit",
-      "checked_at": "2026-11-24T17:22:13.588Z",
+      "checked_at": "2026-11-25T02:08:23.422Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183102,79 +183112,71 @@
       "last_success_at": "2026-11-23T21:04:50.060Z"
     },
     "qstheory": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 12,
       "count_drop": false,
       "source_id": "qstheory",
-      "checked_at": "2026-11-24T17:22:15.319Z",
-      "status": "ok",
-      "count": 12,
-      "message": "已解析 12 条公开索引",
-      "pages": [
-        "https://www.qstheory.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:23.489Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:15.319Z"
     },
     "mem": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "mem",
-      "checked_at": "2026-11-24T17:22:19.466Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.mem.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:30.546Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:19.466Z"
     },
     "beijing": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "beijing",
-      "checked_at": "2026-11-24T17:22:20.042Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.beijing.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:32.963Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:20.042Z"
     },
     "tianjin": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 49,
       "count_drop": false,
       "source_id": "tianjin",
-      "checked_at": "2026-11-24T17:22:20.489Z",
-      "status": "ok",
-      "count": 49,
-      "message": "已解析 49 条公开索引",
-      "pages": [
-        "https://www.tj.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:33.424Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:20.489Z"
     },
     "hebei": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "hebei",
-      "checked_at": "2026-11-24T17:22:21.275Z",
+      "checked_at": "2026-11-25T02:08:33.489Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:06.423Z"
     },
     "shanxi": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "shanxi",
-      "checked_at": "2026-11-24T17:22:21.904Z",
+      "checked_at": "2026-11-25T02:08:34.026Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183182,89 +183184,83 @@
       "last_success_at": "2026-10-27T05:21:06.716Z"
     },
     "neimenggu": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "neimenggu",
-      "checked_at": "2026-11-24T17:22:22.383Z",
+      "checked_at": "2026-11-25T02:08:34.525Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：HTTP 403",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:06.763Z"
     },
     "liaoning": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "liaoning",
-      "checked_at": "2026-11-24T17:22:22.646Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.ln.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:35.547Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:22.646Z"
     },
     "jilin": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 32,
       "count_drop": false,
       "source_id": "jilin",
-      "checked_at": "2026-11-24T17:22:23.175Z",
+      "checked_at": "2026-11-25T02:08:37.964Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-11-23T21:05:02.711Z"
     },
     "heilongjiang": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 42,
       "count_drop": false,
       "source_id": "heilongjiang",
-      "checked_at": "2026-11-24T17:22:23.665Z",
-      "status": "ok",
-      "count": 42,
-      "message": "已解析 42 条公开索引",
-      "pages": [
-        "https://www.hlj.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:38.425Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:23.665Z"
     },
     "shanghai": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 11,
       "count_drop": false,
       "source_id": "shanghai",
-      "checked_at": "2026-11-24T17:22:24.407Z",
+      "checked_at": "2026-11-25T02:08:38.489Z",
       "status": "error",
       "count": 0,
-      "message": "fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-11-23T21:05:04.606Z"
     },
     "jiangsu": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 53,
       "count_drop": false,
       "source_id": "jiangsu",
-      "checked_at": "2026-11-24T17:22:25.882Z",
-      "status": "ok",
-      "count": 53,
-      "message": "已解析 53 条公开索引",
-      "pages": [
-        "https://www.jiangsu.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:39.027Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:25.882Z"
     },
     "zhejiang": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "zhejiang",
-      "checked_at": "2026-11-24T17:22:26.603Z",
+      "checked_at": "2026-11-25T02:08:39.526Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183272,49 +183268,47 @@
       "last_success_at": "2026-10-27T05:21:08.296Z"
     },
     "anhui": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "anhui",
-      "checked_at": "2026-11-24T17:22:26.904Z",
+      "checked_at": "2026-11-25T02:08:40.548Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:08.323Z"
     },
     "fujian": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "fujian",
-      "checked_at": "2026-11-24T17:22:27.000Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.fujian.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:42.965Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:27.000Z"
     },
     "jiangxi": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "jiangxi",
-      "checked_at": "2026-11-24T17:22:27.698Z",
+      "checked_at": "2026-11-25T02:08:43.426Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": null
     },
     "shandong": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "shandong",
-      "checked_at": "2026-11-24T17:22:28.183Z",
+      "checked_at": "2026-11-25T02:08:43.490Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183322,59 +183316,59 @@
       "last_success_at": null
     },
     "henan": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "henan",
-      "checked_at": "2026-11-24T17:22:28.192Z",
+      "checked_at": "2026-11-25T02:08:44.028Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：HTTP 403",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:08.828Z"
     },
     "hubei": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "hubei",
-      "checked_at": "2026-11-24T17:22:28.749Z",
+      "checked_at": "2026-11-25T02:08:44.527Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": null
     },
     "hunan": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "hunan",
-      "checked_at": "2026-11-24T17:22:29.689Z",
+      "checked_at": "2026-11-25T02:08:45.549Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T03:43:53.972Z"
     },
     "guangdong": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 57,
       "count_drop": false,
       "source_id": "guangdong",
-      "checked_at": "2026-11-24T17:22:30.239Z",
+      "checked_at": "2026-11-25T02:08:47.966Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-11-23T21:05:11.498Z"
     },
     "guangxi": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "guangxi",
-      "checked_at": "2026-11-24T17:22:31.066Z",
+      "checked_at": "2026-11-25T02:08:48.427Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183382,135 +183376,131 @@
       "last_success_at": null
     },
     "hainan": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "hainan",
-      "checked_at": "2026-11-24T17:22:31.328Z",
+      "checked_at": "2026-11-25T02:08:48.491Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:09.693Z"
     },
     "chongqing": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "chongqing",
-      "checked_at": "2026-11-24T17:22:31.604Z",
+      "checked_at": "2026-11-25T02:08:49.028Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:09.881Z"
     },
     "sichuan": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "sichuan",
-      "checked_at": "2026-11-24T17:22:31.803Z",
+      "checked_at": "2026-11-25T02:08:49.527Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:09.960Z"
     },
     "guizhou": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "guizhou",
-      "checked_at": "2026-11-24T17:22:32.232Z",
+      "checked_at": "2026-11-25T02:08:50.550Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:10.549Z"
     },
     "yunnan": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 42,
       "count_drop": false,
       "source_id": "yunnan",
-      "checked_at": "2026-11-24T17:22:32.308Z",
-      "status": "ok",
-      "count": 42,
-      "message": "已解析 42 条公开索引",
-      "pages": [
-        "https://www.yn.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:52.965Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:32.308Z"
     },
     "xizang": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_good_count": 52,
       "count_drop": false,
       "source_id": "xizang",
-      "checked_at": "2026-11-24T17:22:32.711Z",
+      "checked_at": "2026-11-25T02:08:53.426Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-11-21T09:29:38.509Z"
     },
     "shaanxi": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "shaanxi",
-      "checked_at": "2026-11-24T17:22:33.184Z",
+      "checked_at": "2026-11-25T02:08:53.491Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-10-27T05:21:11.142Z"
     },
     "gansu": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "gansu",
-      "checked_at": "2026-11-24T17:22:33.266Z",
+      "checked_at": "2026-11-25T02:08:54.030Z",
       "status": "error",
       "count": 0,
-      "message": "fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": null
     },
     "qinghai": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_good_count": null,
       "count_drop": false,
       "source_id": "qinghai",
-      "checked_at": "2026-11-24T17:22:33.688Z",
+      "checked_at": "2026-11-25T02:08:54.528Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": null
     },
     "ningxia": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 70,
       "count_drop": false,
       "source_id": "ningxia",
-      "checked_at": "2026-11-24T17:22:34.172Z",
-      "status": "ok",
-      "count": 70,
-      "message": "已解析 70 条公开索引",
-      "pages": [
-        "https://www.nx.gov.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:55.552Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:34.172Z"
     },
     "xinjiang": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_good_count": 47,
       "count_drop": false,
       "source_id": "xinjiang",
-      "checked_at": "2026-11-24T17:22:34.877Z",
+      "checked_at": "2026-11-25T02:08:57.966Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：fetch failed",
@@ -183518,80 +183508,71 @@
       "last_success_at": "2026-11-19T12:44:10.220Z"
     },
     "xpcc": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_good_count": 35,
       "count_drop": false,
       "source_id": "xpcc",
-      "checked_at": "2026-11-24T17:22:35.365Z",
+      "checked_at": "2026-11-25T02:08:58.427Z",
       "status": "error",
       "count": 0,
-      "message": "无法确认 robots.txt：fetch failed",
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
       "pages": [],
       "last_success_at": "2026-11-21T09:29:41.228Z"
     },
     "people": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 19,
       "count_drop": false,
       "source_id": "people",
-      "checked_at": "2026-11-24T17:22:15.693Z",
-      "status": "partial",
-      "count": 19,
-      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
-      "pages": [
-        "http://finance.people.com.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:24.024Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout；无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:15.693Z"
     },
     "gmw": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 40,
       "count_drop": false,
       "source_id": "gmw",
-      "checked_at": "2026-11-24T17:22:15.982Z",
-      "status": "ok",
-      "count": 40,
-      "message": "已解析 40 条公开索引",
-      "pages": [
-        "https://politics.gmw.cn/",
-        "https://economy.gmw.cn/"
-      ],
+      "checked_at": "2026-11-25T02:08:24.523Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout；无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:15.982Z"
     },
     "thepaper": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 1,
       "count_drop": false,
       "source_id": "thepaper",
-      "checked_at": "2026-11-24T17:22:16.655Z",
-      "status": "ok",
-      "count": 1,
-      "message": "已解析 1 条公开索引",
-      "pages": [
-        "https://www.thepaper.cn/channel_25950"
-      ],
+      "checked_at": "2026-11-25T02:08:25.545Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:16.655Z"
     },
     "nfzm": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 5,
       "count_drop": false,
       "source_id": "nfzm",
-      "checked_at": "2026-11-24T17:22:17.498Z",
-      "status": "ok",
-      "count": 5,
-      "message": "已解析 5 条公开索引",
-      "pages": [
-        "https://www.infzm.com/"
-      ],
+      "checked_at": "2026-11-25T02:08:27.962Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:17.498Z"
     },
     "bjnews": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_good_count": 9,
       "count_drop": false,
       "source_id": "bjnews",
-      "checked_at": "2026-11-24T17:22:18.174Z",
+      "checked_at": "2026-11-25T02:08:28.423Z",
       "status": "error",
       "count": 0,
       "message": "无法确认 robots.txt：The operation was aborted due to timeout",
@@ -183599,21 +183580,31 @@
       "last_success_at": "2026-11-23T21:04:56.956Z"
     },
     "ifeng": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_good_count": 14,
       "count_drop": false,
       "source_id": "ifeng",
-      "checked_at": "2026-11-24T17:22:18.589Z",
-      "status": "ok",
-      "count": 14,
-      "message": "已解析 14 条公开索引",
-      "pages": [
-        "https://finance.ifeng.com/"
-      ],
+      "checked_at": "2026-11-25T02:08:28.490Z",
+      "status": "error",
+      "count": 0,
+      "message": "无法确认 robots.txt：The operation was aborted due to timeout",
+      "pages": [],
       "last_success_at": "2026-11-24T17:22:18.589Z"
     }
   },
   "runs": [
+    {
+      "id": "a4457372-ff37-47a5-ad60-d27fe36e6f7a",
+      "started_at": "2026-11-25T02:07:53.073Z",
+      "finished_at": "2026-11-25T02:09:03.427Z",
+      "status": "complete",
+      "total_sources": 88,
+      "processed": 88,
+      "succeeded": 9,
+      "failed": 79,
+      "new_articles": 3,
+      "note": "GitHub Actions 每小时已启用来源采集"
+    },
     {
       "id": "d98c1b1f-ea8d-4418-ad9d-dde7b11f924c",
       "started_at": "2026-11-24T17:21:42.959Z",
