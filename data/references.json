@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T14:54:04.017Z",
+  "generated_at": "2026-11-26T23:39:31.682Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -2345,6 +2345,70 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-26T14:54:04.017Z"
+    },
+    "320cb166459e22373d6fe7029fb0f0449caa069b92756511ef234af60c170607": {
+      "title": "加快农业农村现代化“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "dd466954b524db9dacc7f312b48816796dfb9d855b5625b85aa49d0b76b00212",
+          "version_id": "dd466954b524db9dacc7f312b48816796dfb9d855b5625b85aa49d0b76b00212:68582d9763d0cf5d24b397ba381c134f5dce9626defbd8f893d98ef3839861da",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/9/20/art_46144_11832332.html",
+          "excerpt": "十五五”时期是基本实现农业农村现代化的关键时期。为扎实推进乡村全面振兴，加快农业农村现代化步伐，接续推进高水平农业强省建设，根据《乡村全面振兴规划（2024－2027年）》《加快建设农业强国规划（2024－2035年）》《加快农业农村现代化“十五五”规划》《江苏省国民经济和社会发展第十五个五年规划纲要》，编制本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-26T23:39:31.682Z"
+    },
+    "472d648947db04c5c79e1771b856e12b7541709a1c838f89bf450d742d84353e": {
+      "title": "关于发布国家重点研发计划“主要粮食与经济作物大面积单产提升技术”等5个重点专项2026年度项目申报指南的通知",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "96e2b6eb1170760932be9be8994443e0d246f2711d89d616a44b7fc2440cec20",
+          "version_id": "96e2b6eb1170760932be9be8994443e0d246f2711d89d616a44b7fc2440cec20:573ea2c5b8c87b850f35c5c606eee696103275e8e708a51c2e53e07b5ace59c8",
+          "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261126_4958599.html",
+          "excerpt": "请有关单位严格按照农业农村部《关于发布国家重点研发计划“主要粮食与经济作物大面积单产提升技术”等5个重点专项2026年度项目申报指南的通知》要求进行项目申报。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-26T23:39:31.682Z"
+    },
+    "9770b65eca2f809c88f04d42d43a421d7407a71586466c46237bab6ad0557522": {
+      "title": "乡村全面振兴规划（2024－2027年）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "dd466954b524db9dacc7f312b48816796dfb9d855b5625b85aa49d0b76b00212",
+          "version_id": "dd466954b524db9dacc7f312b48816796dfb9d855b5625b85aa49d0b76b00212:68582d9763d0cf5d24b397ba381c134f5dce9626defbd8f893d98ef3839861da",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/9/20/art_46144_11832332.html",
+          "excerpt": "“十五五”时期是基本实现农业农村现代化的关键时期。为扎实推进乡村全面振兴，加快农业农村现代化步伐，接续推进高水平农业强省建设，根据《乡村全面振兴规划（2024－2027年）》《加快建设农业强国规划（2024－2035年）》《加快农业农村现代化“十五五”规划》《江苏省国民经济和社会发展第十五个五年规划纲要》，编制本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-26T23:39:31.682Z"
+    },
+    "c18e31e6cd86127e1af8e4513fb1b3bb7a285b8740f9779a8196dd9283d81036": {
+      "title": "加快建设农业强国规划（2024－2035年）",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "dd466954b524db9dacc7f312b48816796dfb9d855b5625b85aa49d0b76b00212",
+          "version_id": "dd466954b524db9dacc7f312b48816796dfb9d855b5625b85aa49d0b76b00212:68582d9763d0cf5d24b397ba381c134f5dce9626defbd8f893d98ef3839861da",
+          "source_url": "http://www.jiangsu.gov.cn/art/2026/9/20/art_46144_11832332.html",
+          "excerpt": "“十五五”时期是基本实现农业农村现代化的关键时期。为扎实推进乡村全面振兴，加快农业农村现代化步伐，接续推进高水平农业强省建设，根据《乡村全面振兴规划（2024－2027年）》《加快建设农业强国规划（2024－2035年）》《加快农业农村现代化“十五五”规划》《江苏省国民经济和社会发展第十五个五年规划纲要》，编制本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-26T23:39:31.682Z"
     }
   }
 }
