@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T22:18:43.731Z",
+  "generated_at": "2026-11-26T04:50:57.862Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -424,7 +424,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T01:44:45.250Z"
+      "checked_at": "2026-11-26T04:50:57.862Z"
     },
     "ab9f3aae61a242288670469a8e924e3f64f9c5921178edde70710ef63ea725cf": {
       "title": "碳达峰碳中和综合评价考核办法",
@@ -1670,7 +1670,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-15T21:37:10.459Z"
+      "checked_at": "2026-11-26T04:50:57.862Z"
     },
     "02b1c77695e26b185defc09c8dd98d245686068618c502c926ef606e8593a92d": {
       "title": "中共黑龙江省委关于制定国民经济和社会发展第十五个五年规划的建议",
@@ -1702,7 +1702,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T01:44:45.250Z"
+      "checked_at": "2026-11-26T04:50:57.862Z"
     },
     "da7a8a5dc1baaba122fed04c70356fbedf631b7b24303aff1c11baeb4cd45df9": {
       "title": "教育发展“十五五”规划",
@@ -2184,7 +2184,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T01:44:45.250Z"
+      "checked_at": "2026-11-26T04:50:57.862Z"
     },
     "7f8b40bd94a1cbdbd5850b59a6262691afcbfb9e19cf0166e48765d1552f5174": {
       "title": "江苏省地方志工作条例",
