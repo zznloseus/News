@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T04:50:57.862Z",
+  "generated_at": "2026-11-26T14:54:04.017Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -552,7 +552,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T09:20:18.093Z"
+      "checked_at": "2026-11-26T14:54:04.017Z"
     },
     "17e2045046ca25c3391e9383978418bbe8b853843a561c65c0f4a3c109dff0c3": {
       "title": "国务院关于国家重大科研基础设施和大型科研仪器向社会开放的意见",
@@ -1724,7 +1724,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T01:44:45.250Z"
+      "checked_at": "2026-11-26T14:54:04.017Z"
     },
     "648165d497b08396a8acaa067bcd9612e5fd7f54e07f17a1c393e8934489137f": {
       "title": "商标审查审理指南（征求意见稿）",
@@ -2313,6 +2313,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-24T17:22:47.151Z"
+    },
+    "bc1708230812c20ed32bfd7f8c1c20e5eeb63dca4071de5eccac95649fca0e47": {
+      "title": "地理标志保护和运用“十五五”规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "9d68304b76910e523ad7e43a821229463b8f167cf696c7470c59806d934819c2",
+          "version_id": "9d68304b76910e523ad7e43a821229463b8f167cf696c7470c59806d934819c2:2d01d78a4daab17cc5302f0711781c6b0733542b29718208065865ffbfb76da1",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/11/26/art_57_209405.html",
+          "excerpt": "为落实《知识产权保护和运用“十五五”规划》《地理标志保护和运用“十五五”规划》等工作部署，新疆维吾尔自治区市场监督管理局（知识产权局）印发《库尔勒香梨地理标志品牌保护专项行动方案》，自2026年11月至2027年2月在全区开展库尔勒香梨地理标志品牌保护专项行动，行动围绕4个方面12项任务展开，从源头和流通两端同步治理。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-26T14:54:04.017Z"
+    },
+    "c9d267641673472f79e4f93c1527631a72ae4d163cce101ce7d440f1d44d41b7": {
+      "title": "库尔勒香梨地理标志品牌保护专项行动方案",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "9d68304b76910e523ad7e43a821229463b8f167cf696c7470c59806d934819c2",
+          "version_id": "9d68304b76910e523ad7e43a821229463b8f167cf696c7470c59806d934819c2:2d01d78a4daab17cc5302f0711781c6b0733542b29718208065865ffbfb76da1",
+          "source_url": "https://www.cnipa.gov.cn/art/2026/11/26/art_57_209405.html",
+          "excerpt": "为落实《知识产权保护和运用“十五五”规划》《地理标志保护和运用“十五五”规划》等工作部署，新疆维吾尔自治区市场监督管理局（知识产权局）印发《库尔勒香梨地理标志品牌保护专项行动方案》，自2026年11月至2027年2月在全区开展库尔勒香梨地理标志品牌保护专项行动，行动围绕4个方面12项任务展开，从源头和流通两端同步治理。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-26T14:54:04.017Z"
     }
   }
 }
