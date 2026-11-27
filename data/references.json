@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T23:39:31.682Z",
+  "generated_at": "2026-11-27T07:47:29.070Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -440,7 +440,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T09:20:18.093Z"
+      "checked_at": "2026-11-27T07:47:29.070Z"
     },
     "abf226a5a1fe5e4b1fa3bd4d5e32c474a93351b4a3ff2379930ac32cd302d893": {
       "title": "国务院关于印发<教育发展“十五五”规划>的通知",
@@ -1740,7 +1740,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T09:20:18.093Z"
+      "checked_at": "2026-11-27T07:47:29.070Z"
     },
     "7c87e7d8a3edd2943c181c8a40ff5200dc60328d06a255adecf1009f6fcee85f": {
       "title": "地理标志专用标志使用管理办法（试行）",
@@ -2409,6 +2409,38 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-26T23:39:31.682Z"
+    },
+    "2a5e96966950de4e388725c3d87ca0fee359d333beb419277953178e8b38c0c7": {
+      "title": "中共黑龙江省委办公厅、黑龙江省人民政府办公厅 关于进一步提升基层应急管理能力的实施意见",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "a3e5ae66e6c1c1fbac26046249e607a9cf5449faafe079dbc7442b6a691f6b72",
+          "version_id": "a3e5ae66e6c1c1fbac26046249e607a9cf5449faafe079dbc7442b6a691f6b72:0de929c0cf0c3a3f0975f6ba14e7eafddb85012ff0c773705cf9cbb8e6993c4f",
+          "source_url": "https://www.hlj.gov.cn/hlj/c108376/202609/c00_31977910.shtml",
+          "excerpt": "全面贯彻落实《 中共黑龙江省委办公厅、黑龙江省人民政府办公厅 关于进一步提升基层应急管理能力的实施意见》， 推动应急管理与基层治理、乡村振兴等一体谋划、一体部署、一体推进。出台《关于加强基层消防工作的实施意见》，落实乡镇（街道）和村（社区）综合减灾能力建设指引要求，加强应急管理和消防救援力量建设，提高基层应消一体综合救援能力。鼓励引导高校毕业生到基层应急管理一线就业。充分利用城乡土地资源，改造一批应"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-27T07:47:29.070Z"
+    },
+    "b3884ed25e822b1be790bde1789100b87d5852516576fc3e902273ab37527347": {
+      "title": "现代化应急体系建设 “ 十五五 ” 规划",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "a3e5ae66e6c1c1fbac26046249e607a9cf5449faafe079dbc7442b6a691f6b72",
+          "version_id": "a3e5ae66e6c1c1fbac26046249e607a9cf5449faafe079dbc7442b6a691f6b72:0de929c0cf0c3a3f0975f6ba14e7eafddb85012ff0c773705cf9cbb8e6993c4f",
+          "source_url": "https://www.hlj.gov.cn/hlj/c108376/202609/c00_31977910.shtml",
+          "excerpt": "为扎实做好安全生产、防灾减灾救灾等工作，根据 国务院 《现代化应急体系建设 “ 十五五 ” 规划》 和 《黑龙江省国民经济和社会发展第十五个五年规划纲要》等，制定本规划。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-27T07:47:29.070Z"
     }
   }
 }
