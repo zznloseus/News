@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T07:47:29.070Z",
+  "generated_at": "2026-11-27T18:00:54.580Z",
   "records": {
     "0b7b582dff94629bfc4eebc4ce4265aee021f68db297cefba2302534c208b5b6": {
       "title": "放射性同位素与射线装置安全和防护条例",
@@ -472,7 +472,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T09:20:18.093Z"
+      "checked_at": "2026-11-27T18:00:54.580Z"
     },
     "c25e88dfe1c73a3a481f69da2af1efed048b8d8cb09157f58f46bff8c6882d9a": {
       "title": "国务院办公厅印发〈关于建立企业信用状况综合评价体系的实施方案〉的通知",
@@ -568,7 +568,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T20:12:16.253Z"
+      "checked_at": "2026-11-27T18:00:54.580Z"
     },
     "1e0ad281ec736ea6edfb5841f6dbffd1ed6c139442e7dc05c317a517323d0f55": {
       "title": "商务部等7部门关于提质增效实施2026年消费品以旧换新政策的通知",
@@ -1756,7 +1756,7 @@
       "status": "unresolved",
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
-      "checked_at": "2026-11-16T20:12:16.253Z"
+      "checked_at": "2026-11-27T18:00:54.580Z"
     },
     "5e4aa129cbe73f298c77b1fbad6d82c0fb152cd62cada9c106464f5c386a6ec0": {
       "title": "关于施行修订后〈集成电路布图设计保护条例〉相关审查业务处理过渡办法",
@@ -2441,6 +2441,22 @@
       "message": "未找到可验证的官方上位文件",
       "resolved_id": null,
       "checked_at": "2026-11-27T07:47:29.070Z"
+    },
+    "1495db3fce99a070594cbe0c5f115def9425bf20cd442e6ba99d68deeadb2ec1": {
+      "title": "行政区划管理条例",
+      "document_no": null,
+      "citations": [
+        {
+          "article_id": "c598bd33cf45a25aafcd9b266db1d3ecc0b41f672979c57d1065dcfdc07c28ba",
+          "version_id": "c598bd33cf45a25aafcd9b266db1d3ecc0b41f672979c57d1065dcfdc07c28ba:df1fa2895b0274a742f2d10a102eadb0c42adbc4aa5441f66b3cb18a06d9c5c4",
+          "source_url": "https://www.hlj.gov.cn/hlj/c108375/202609/c00_31976242.shtml",
+          "excerpt": "第十四条 行政区划的命名、更名，按照《行政区划管理条例》的规定批准。"
+        }
+      ],
+      "status": "unresolved",
+      "message": "未找到可验证的官方上位文件",
+      "resolved_id": null,
+      "checked_at": "2026-11-27T18:00:54.580Z"
     }
   }
 }
